@@ -15,6 +15,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 * Mariana Presoti
 * Pedro Trindade Reis 
 * Regiane Correa da Costa
+* Rafael Machado Bueno
 
 ## Orientador
 
