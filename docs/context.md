@@ -6,6 +6,9 @@ Uma em cada três mulheres brasileiras já foi vítima de algum tipo de violênc
 
 Promulgada em 1996, a Convenção de Belém do Pará definiu violência contra a mulher como qualquer ato ou conduta baseada no gênero que lhe cause morte, dano ou sofrimento físico, sexual ou psicológico, tanto na esfera pública como na esfera privada. Dez anos depois, em 2006 a Lei Maria da Penha passou a apresentar mais duas formas de violência: moral e patrimonial, totalizando em cinco as formas de violência doméstica e familiar praticadas contra mulheres.
 
+Muitas vezes as ações de violência cometidas contra mulheres atingem sua expressão máxima e resultam em óbito. De acordo com mapa da violência de 2015, organizado pela Faculdade Latino-Americana de Ciências Sociais (Flacso), o Brasil ocupa hoje a quinta posição no ranking mundial - em um grupo de 83 países - em feminicídio, entendido como o assassinato de uma mulher em razão de sua condição de ser mulher.
+
+
 ## Problema
  
 A violência no ambiente familiar ou em comunidade representa um dos principais obstáculos para assegurar liberdades fundamentais para mulheres e meninas. Nos últimos anos é notória a intensificação dos debates a respeito, principalmente a violência contra a mulher. Este é um processo que seguirá em curso sobre a ampliação e aperfeiçoamento de estratégias e instituições para uma melhor abordagem deste problema social. 
