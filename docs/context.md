@@ -5,11 +5,20 @@
 Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
+A violência no ambiente familiar ou em comunidade representa um dos principais obstáculos para assegurar liberdades fundamentais para mulheres e meninas. Nos últimos anos é notória a intensificação dos debates a respeito, principalmente a violência contra a mulher. Este é um processo que seguirá em curso sobre a ampliação e aperfeiçoamento de estratégias e instituições para uma melhor abordagem deste problema social. 
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
+Para dimensionar o tamanho desse problema basta observarmos os dados mais letais referentes a este problema. Nos últimos vinte anos, 75.280 mulheres foram  mortas. Somente em 2017, mulheres foram maioria entre entre as vítimas nos 209.580 registros de violência física - representando 67% do total de vítimas agredidas fisicamente.
 
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
+Se observarmos os perfis das mulheres vítimas de violência doméstica nos anos de 2016 a 2018, em aproximadamente 35% dos casos, são cônjuges/ companheiros, maior parte das vítimas representa parcela vulnerável da sociedade, como negras e pardas (46%) e de ensino fundamental incompleto (21%).
+
+O desconhecimento da sociedade também contribui para fortalecer esta desorientação ao caminho correto a seguir. De  acordo  com pesquisa realizada pelo Data Popular (2013), a forma como a  lei funciona e apoia mulheres é desconhecida pela maior parte da população: 24% sabem dos juizados especiais, 28% conhecem os serviços de saúde especializados e somente 32% conhecem as casas de abrigo temporário. Apesar do amplo conhecimento sobre as Delegacias da Mulher (97%) e a Lei Maria da  Penha (66%), os serviços de apoio às mulheres em situação de  violência são pouco conhecidos.
+
+A recorrência das agressões também é uma característica comum nos casos onde a mulher não denuncia seu agressor. Entre  as  mulheres  entrevistadas  na  PNAD  de  2009  que  procuraram  a  polícia  quando foram agredidas, uma parcela importante não registrou queixa (12,2%), ou seja,  não  houve  registro  formal  da agressão. Este número sobe (14,6%), quando se trata de um homem conhecido/ próximo. A falta de confiança na polícia ou medo de represálias ao se buscar o auxílio do Estado configuram a principal causa. 
+
+A vulnerabilidade das mulheres as torna também mais inseguras, levando ao centro de nosso questionamento - a falta de conhecimento e o medo em fazer a denúncia. 
+
+Apesar do debate público, ainda configura um caminho difícil para a vítima se desprender de todos os fatores que compõem o ciclo de violência e alcançar a segurança necessária para realizar a denúncia. É necessário fornecer um caminho mais curto e acessível, uma plataforma com conteúdo informativo que forneça acolhimento e estímulo para que vítimas realizem suas denúncias de modo seguro e integrado.
+
 
 > **Links Úteis**:
 > - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
