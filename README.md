@@ -9,6 +9,8 @@
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
+</div>
+
 ## Integrantes
 
 * Anira Carolina Meneses de Carvalho Moura
