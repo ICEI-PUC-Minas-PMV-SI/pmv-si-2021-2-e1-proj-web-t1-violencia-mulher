@@ -1,3 +1,5 @@
+<div align="justify">
+
 # Introdução
 
 Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
