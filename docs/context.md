@@ -43,17 +43,10 @@ A solução proposta neste projeto para disseminar informações sobre a violên
  
 Espera-se que a página web proposta neste projeto promova o encorajamento a fazer denúncias, por esclarecer as vítimas sobre o tema da violência contra a mulher, sobre as redes de apoio, o acesso aos canais de denúncia e a publicação de depoimentos.
 
- 
-
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+Pessoas de **todos os gêneros e idades** que sejam residentes em **Belo Horizonte**. Entretanto, nosso foco será naquelas que sejam ou conheçam **mulheres** que tenham sido **vítimas de violência doméstica de qualquer tipo (física, sexual, psicológica, moral e/ou patrimonial)**. 
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+ <hr>
+ 
+ <p align="right"><a href="./02-Especificação do Projeto.md">Especificação do Projeto</a></p>
