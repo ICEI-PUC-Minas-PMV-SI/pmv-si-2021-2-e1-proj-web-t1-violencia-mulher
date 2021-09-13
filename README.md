@@ -1,13 +1,11 @@
 <div align="center">
 <h1>Violência contra a mulher</h>
+<p>`CURSO: Sistemas de Informação`</p>
+<p>DISCIPLINA: Projeto - Aplicações Web </p>
 
-  <p>`CURSO: Sistemas de Informação`</p>
+<p>SEMESTRE: 1º</p>
 
-`DISCIPLINA: Projeto - Aplicações Web`
-
-`SEMESTRE: 1º`
-
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+<p>Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.</p>
 
 </div>
 
