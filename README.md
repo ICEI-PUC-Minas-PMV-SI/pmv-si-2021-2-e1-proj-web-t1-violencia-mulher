@@ -1,7 +1,7 @@
 <div align="center">
-  <h1>Violência contra a mulher</h>
+<h1>Violência contra a mulher</h>
 
-`CURSO: Sistemas de Informação`
+  <p>`CURSO: Sistemas de Informação`</p>
 
 `DISCIPLINA: Projeto - Aplicações Web`
 
