@@ -24,10 +24,11 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+| EU COMO... `PERSONA`          | QUERO/PRECISO ... `FUNCIONALIDADE` | PARA ... `MOTIVO/VALOR`        |
+|-------------------------------|------------------------------------|--------------------------------|
+|Vítima de violência doméstica no presente | Encontrar informação, redes de apoio, depoimentos, experiências e canais de denúncia em Belo Horizonte | Conhecer os tipos de violência contra a mulher e a legislação sobre o tema. Receber apoio e acolhimento. Denunciar o agressor|
+|Interessada em ajudar uma vítima de violência doméstica | Encontrar informação sobre violência contra a mulher, redes de apoio e canais de denúncia em Belo Horizonte | Esclarecer à vítima sobre a violência contra a mulher e a legislação sobre o tema. Divulgar a rede de apoio e acolhimento. Encorajar a vítima a denunciar o agressor|
+|Vítima de violência doméstica no passado | Compartilhar a própria história | Encorajar outras vítimas a denunciarem seus agressores e promover acolhimento |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
