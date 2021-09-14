@@ -46,6 +46,10 @@ A solução proposta neste projeto para disseminar informações sobre a violên
  
 Espera-se que a página web proposta neste projeto promova o encorajamento a fazer denúncias, por esclarecer as vítimas sobre o tema da violência contra a mulher, sobre as redes de apoio, o acesso aos canais de denúncia e a publicação de depoimentos.
 
+Portanto, o site proposto será uma fonte de informações e de redes de apoio para as vítimas, além de fomentar o registro de denúncias. Além disso, o site possibilitará que as vítimas consultem esses dados de maneira discreta, pois poderão acessar dos próprios celulares ou computadores sem que os agressores percebam.
+ 
+ 
+
 ## Público-Alvo
 
 Pessoas de **todos os gêneros e idades** que sejam residentes em **Belo Horizonte**. Entretanto, nosso foco será naquelas que sejam ou conheçam **mulheres** que tenham sido **vítimas de violência doméstica de qualquer tipo (física, sexual, psicológica, moral e/ou patrimonial)**. 
