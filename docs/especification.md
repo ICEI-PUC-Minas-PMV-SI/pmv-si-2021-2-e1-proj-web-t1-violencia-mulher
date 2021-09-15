@@ -20,6 +20,8 @@ Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos 
 >
 Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
 
+3. Joana, mulher de 43 anos, casada, tem dois filhos, é dona de casa e mora na cidade de Belo Horizonte, em Minas Gerais. Apanhou do marido durante vinte anos, mas sentia medo de denunciar por conta das ameaças do agressor sobre afastá-la dos filhos caso contasse a alguém o que acontecia dentro de casa. Há três anos, Joana decidiu realizar sua denúncia. O agressor foi julgado legalmente e afastado da convivência de Joana e sua família. A mulher está refazendo a vida e busca plataformas onde possa contar sua história e incentivar outras vítimas a denunciarem e romperem com o ciclo de violência.
+
 ## Histórias de Usuários
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
