@@ -20,9 +20,7 @@ Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos 
 >
 Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
 
-2. Roberta tem 44 anos, trabalha como telemarketing e mudou-se recentemente para um novo bairro. Em sua nova casa, conheceu uma vizinha, Anne, que detalhou situações de seu casamento que, para ela, são normais, mas, para sua nova vizinha, se encaixam como crimes. Apesar de querer tomar uma atitude, Roberta não se sente capaz de explicar para Anne o problema da situação da melhor forma. 
-
-Sendo assim, Roberta gostaria de denunciar o caso e, além disso, ter informações suficientes para conseguir explicar para Anne o porquê daquelas situações descritas serem problemáticas e porque ela deveria se afastar em definitivo de seu marido.
+2. Roberta tem 44 anos, trabalha como telemarketing e mudou-se recentemente para um novo bairro. Em sua nova casa, conheceu uma vizinha, Anne, que detalhou situações de seu casamento que, para ela, são normais, mas, para sua nova vizinha, se encaixam como crimes. Apesar de querer tomar uma atitude, Roberta não se sente capaz de explicar para Anne o problema da situação da melhor forma. Sendo assim, Roberta gostaria de denunciar o caso e, além disso, ter informações suficientes para conseguir explicar para Anne o porquê daquelas situações descritas serem problemáticas e porque ela deveria se afastar em definitivo de seu marido.
 
 3. Joana, mulher de 43 anos, casada, tem dois filhos, é dona de casa e mora na cidade de Belo Horizonte, em Minas Gerais. Apanhou do marido durante vinte anos, mas sentia medo de denunciar por conta das ameaças do agressor sobre afastá-la dos filhos caso contasse a alguém o que acontecia dentro de casa. Há três anos, Joana decidiu realizar sua denúncia. O agressor foi julgado legalmente e afastado da convivência de Joana e sua família. A mulher está refazendo a vida e busca plataformas onde possa contar sua história e incentivar outras vítimas a denunciarem e romperem com o ciclo de violência.
 
