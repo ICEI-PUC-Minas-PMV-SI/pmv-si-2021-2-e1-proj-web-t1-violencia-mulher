@@ -1,9 +1,10 @@
-<div align="center">
-<h1>Violência contra a mulher</h1></div>
-<p>CURSO: Sistemas de Informação</p>
-<p>DISCIPLINA: Projeto - Aplicações Web </p>
+<h1>Violência contra a mulher</h1>
 
-<p>SEMESTRE: 1º</p>
+`CURSO:` Sistemas de Informação
+
+`DISCIPLINA:` Projeto - Aplicações Web
+
+`SEMESTRE:` 1º Semestre
 
 <p>Por motivos como dependência emocional e financeira, medo de não ser compreendida pela família, sociedade e até pela justiça, a mulher brasileira ainda tende a suportar por um longo período de tempo a violência doméstica sem denunciar seu agressor. Observando a inexistência de plataformas voltadas para estas mulheres na cidade de Belo Horizonte, este projeto busca criar um site com conteúdo informativo, fornecendo acolhimento e estímulo para que as vítimas realizem suas denúncias e quebrem o ciclo de violência.</p>
 
