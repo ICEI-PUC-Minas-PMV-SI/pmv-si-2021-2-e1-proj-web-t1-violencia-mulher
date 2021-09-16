@@ -27,11 +27,11 @@ Apesar do debate público, ainda configura um caminho difícil para a vítima se
 
 ## Objetivos
 
-Objetivo Principal:
+### Objetivo Principal:
 
 Desenvolver um site, o qual centraliza informações relevantes às mulheres vítimas de violência, bem como estabelecer um ambiente para registrar depoimentos e listar os principais meios para realizar denúncias. Promovendo assim conscientização, representatividade e acolhimento.
 
-Objetivos Específicos:
+### Objetivos Específicos:
 
  - Desenvolver área com informações sobre os tipos de violência contra a mulher, legislações, programas de apoio à vítima e principais autoridades para denúncia;
 
