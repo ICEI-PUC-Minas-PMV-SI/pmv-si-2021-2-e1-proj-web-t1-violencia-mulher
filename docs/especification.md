@@ -36,6 +36,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ### Requisitos não Funcionais
 |ID    | Descrição do Requisito  |Prioridade |
+|------|-----------------------------------------|----|
 |RNF-01| Interface responsiva adaptável a qualquer interface utilizada - Browser, Smartphone ou Tablet | ALTA | 
 |RNF-02| Disponibilidade de adaptação da interface pró acessibilidade | ALTA | 
 |RNF-03| FrontEnd desenvolvido em HTML e JavaScript | MÉDIA | 
