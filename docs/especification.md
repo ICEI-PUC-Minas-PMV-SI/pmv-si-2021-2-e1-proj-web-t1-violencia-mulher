@@ -41,7 +41,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-02| Disponibilidade de adaptação da interface pró acessibilidade | ALTA | 
 |RNF-03| FrontEnd desenvolvido em HTML e JavaScript | MÉDIA | 
 |RNF-04| Navegação intuitiva e otimizada que possibilite interação com qualquer usuário | MÉDIA | 
-|RNF-05| A página deverá ter disponibilidade em 90% do tempo | BAIXA | |RNF-06| Tempo de resposta não superior a 3s para solicitação de usuario | BAIXA |
+|RNF-05| A página deverá ter disponibilidade em 90% do tempo | BAIXA | 
+|RNF-06| Tempo de resposta não superior a 3s para solicitação de usuario | BAIXA |
 
 ## Restrições
 
