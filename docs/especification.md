@@ -57,6 +57,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |01| A abrangência do projeto limita-se a Belo Horizonte |
 |02| O projeto deverá ser entregue até o final do semestre, não podendo extrapolar a data de 17/12/2021 |
 |03| Não pode ser desenvolvido um módulo de backend        |
+|04| Não será utilizado banco de dados|
 
 Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
 
