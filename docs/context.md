@@ -27,12 +27,16 @@ Apesar do debate público, ainda configura um caminho difícil para a vítima se
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+Objetivo Principal:
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Desenvolver um site, o qual centraliza informações relevantes às mulheres vítimas de violência, bem como estabelecer um ambiente para registrar depoimentos e listar os principais meios para realizar denúncias. Promovendo assim conscientização, representatividade e acolhimento.
+
+Objetivos Específicos:
+
+ - Desenvolver área com informações sobre os tipos de violência contra a mulher, legislações, programas de apoio à vítima e principais autoridades para denúncia;
+
+ - Desenvolver área para a inclusão de depoimentos, encorajando as mulheres vítimas de violência, na realização de denúncia referente a qualquer tipo de agressão sofrida.
+
 
 ## Justificativa
 
