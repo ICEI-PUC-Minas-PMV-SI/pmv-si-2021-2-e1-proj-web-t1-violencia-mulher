@@ -30,23 +30,17 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Disponibilizar área com informações sobre os tipos de violência contra a mulher| ALTA | 
-|RF-002| Disponibilizar área com informações de leis referentes a violência contra a mulher | ALTA |
-|RF-003| Disponibilizar área com informações sobre instituições de apoio a mulheres vítimas de violência | ALTA |
-|RF-004| Disponibilizar área em que o usuário poderá inserir depoimentos | ALTA |
-|RF-005| Disponibilizar área com informações e links de direcionamento sobre os principais meios de denúncia | ALTA |
+|RF-001| Disponibilizar área com informações sobre a violência contra a mulher e os tipos de violência | ALTA | |RF-002| Disponibilizar área com informações leis referentes a violência contra a mulher | ALTA ||RF-003| Disponibilizar área com informações sobre instituições de apoio a mulheres vítimas de violência | ALTA ||RF-004| Disponibilizar área em que o usuário poderá inserir depoimentos | ALTA ||RF-005| Disponibilizar área com informações e links de direcionamento sobre os principais meios de denúncia | ALTA |
 
 
 
 ### Requisitos não Funcionais
-
 |ID    | Descrição do Requisito  |Prioridade |
-|RNF-01| Interface responsiva adaptável a qualquer interface utilizada - Browser, Smartphone ou Tablet | ALTA |
-|RNF-02| Disponibilidade de adaptação da interface pró acessibilidade | ALTA |
-|RNF-03| FrontEnd desenvolvido em HTML e JavaScript | MÉDIA |
-|RNF-04| Navegação intuitiva e otimizada que possibilite interação com qualquer usuário | MÉDIA |
-|RNF-05| A página deverá ter disponibilidade em 90% do tempo | BAIXA |
-|RNF-06| Tempo de resposta não superior a 3s para solicitação de usuario | BAIXA |
+|RNF-01| Interface responsiva adaptável a qualquer interface utilizada - Browser, Smartphone ou Tablet | ALTA | 
+|RNF-02| Disponibilidade de adaptação da interface pró acessibilidade | ALTA | 
+|RNF-03| FrontEnd desenvolvido em HTML e JavaScript | MÉDIA | 
+|RNF-04| Navegação intuitiva e otimizada que possibilite interação com qualquer usuário | MÉDIA | 
+|RNF-05| A página deverá ter disponibilidade em 90% do tempo | BAIXA | |RNF-06| Tempo de resposta não superior a 3s para solicitação de usuario | BAIXA |
 
 ## Restrições
 
