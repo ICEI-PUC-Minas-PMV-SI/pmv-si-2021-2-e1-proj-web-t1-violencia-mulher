@@ -42,10 +42,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| Interface do site deverá ser desenvolvida de forma responsiva | MÉDIA | 
-|RNF-002| Disponibilizar funcionalidade de acessibilidade onde seja possível aumentar e diminuir o tamanho das fontes de texto |  MÉDIA | 
-|RNF-003| Deverá ser utilizado a linguagem de programação JavaScript |  BAIXA | 
-|RNF-004| Não fará uso de banco de dados |  BAIXA |
+
 
 ## Restrições
 
