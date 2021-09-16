@@ -18,9 +18,9 @@ Com base na análise das personas, foram identificadas as seguintes histórias d
 
 | EU COMO... `PERSONA`          | QUERO/PRECISO ... `FUNCIONALIDADE` | PARA ... `MOTIVO/VALOR`        |
 |-------------------------------|------------------------------------|--------------------------------|
-|Vítima de violência doméstica no presente (Dona Nanda) | Encontrar informação, redes de apoio, depoimentos, experiências e canais de denúncia em Belo Horizonte | Conhecer os tipos de violência contra a mulher e a legislação sobre o tema. Receber apoio e acolhimento. Denunciar o agressor|
-|Interessada em ajudar uma vítima de violência doméstica (Roberta) | Encontrar informação sobre violência contra a mulher, redes de apoio e canais de denúncia em Belo Horizonte | Esclarecer à vítima sobre a violência contra a mulher e a legislação sobre o tema. Divulgar a rede de apoio e acolhimento. Encorajar a vítima a denunciar o agressor|
-|Vítima de violência doméstica no passado (Joana)| Compartilhar a própria história | Encorajar outras vítimas a denunciarem seus agressores e promover acolhimento |
+|Vítima de violência doméstica no presente | Encontrar informação, redes de apoio, depoimentos, experiências e canais de denúncia em Belo Horizonte | Conhecer os tipos de violência contra a mulher e a legislação sobre o tema. Receber apoio e acolhimento. Denunciar o agressor|
+|Interessada em ajudar uma vítima de violência doméstica | Encontrar informação sobre violência contra a mulher, redes de apoio e canais de denúncia em Belo Horizonte | Esclarecer à vítima sobre a violência contra a mulher e a legislação sobre o tema. Divulgar a rede de apoio e acolhimento. Encorajar a vítima a denunciar o agressor|
+|Vítima de violência doméstica no passado | Compartilhar a própria história | Encorajar outras vítimas a denunciarem seus agressores e promover acolhimento |
 
 ## Requisitos
 
@@ -40,9 +40,13 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ### Requisitos não Funcionais
 
-|ID     | Descrição do Requisito  |Prioridade |
-|-------|-------------------------|----|
-
+|ID    | Descrição do Requisito  |Prioridade |
+|RNF-01| Interface responsiva adaptável a qualquer interface utilizada - Browser, Smartphone ou Tablet | ALTA |
+|RNF-02| Disponibilidade de adaptação da interface pró acessibilidade | ALTA |
+|RNF-03| FrontEnd desenvolvido em HTML e JavaScript | MÉDIA |
+|RNF-04| Navegação intuitiva e otimizada que possibilite interação com qualquer usuário | MÉDIA |
+|RNF-05| A página deverá ter disponibilidade em 90% do tempo | BAIXA |
+|RNF-06| Tempo de resposta não superior a 3s para solicitação de usuario | BAIXA |
 
 ## Restrições
 
