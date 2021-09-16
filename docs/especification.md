@@ -30,7 +30,11 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Disponibilizar área com informações sobre a violência contra a mulher e os tipos de violência | ALTA | |RF-002| Disponibilizar área com informações leis referentes a violência contra a mulher | ALTA ||RF-003| Disponibilizar área com informações sobre instituições de apoio a mulheres vítimas de violência | ALTA ||RF-004| Disponibilizar área em que o usuário poderá inserir depoimentos | ALTA ||RF-005| Disponibilizar área com informações e links de direcionamento sobre os principais meios de denúncia | ALTA |
+|RF-001| Disponibilizar área com informações sobre a violência contra a mulher e os tipos de violência | ALTA | 
+|RF-002| Disponibilizar área com informações leis referentes a violência contra a mulher | ALTA |
+|RF-003| Disponibilizar área com informações sobre instituições de apoio a mulheres vítimas de violência | ALTA |
+|RF-004| Disponibilizar área em que o usuário poderá inserir depoimentos | ALTA |
+|RF-005| Disponibilizar área com informações e links de direcionamento sobre os principais meios de denúncia | ALTA |
 
 
 
