@@ -14,8 +14,13 @@ Com base na análise das personas, foram identificadas as seguintes histórias d
 
 | EU COMO... `PERSONA`          | QUERO/PRECISO ... `FUNCIONALIDADE` | PARA ... `MOTIVO/VALOR`        |
 |-------------------------------|------------------------------------|--------------------------------|
-|Vítima de violência doméstica no presente | Encontrar informação, redes de apoio, depoimentos, experiências e canais de denúncia em Belo Horizonte | Conhecer os tipos de violência contra a mulher e a legislação sobre o tema. Receber apoio e acolhimento. Denunciar o agressor|
-|Interessada em ajudar uma vítima de violência doméstica | Encontrar informação sobre violência contra a mulher, redes de apoio e canais de denúncia em Belo Horizonte | Esclarecer à vítima sobre a violência contra a mulher e a legislação sobre o tema. Divulgar a rede de apoio e acolhimento. Encorajar a vítima a denunciar o agressor|
+|Vítima de violência doméstica no presente | Encontrar informação | Conhecer os tipos de violência contra a mulher e a legislação sobre o tema|
+|Vítima de violência doméstica no presente | Encontrar redes de apoio em Belo Horizonte | Receber apoio e acolhimento|
+|Vítima de violência doméstica no presente | Encontrar depoimentos e experiências das vítimas de violência doméstica | Receber apoio e acolhimento|
+|Vítima de violência doméstica no presente | Encontrar canais de denúncia | Denunciar o agressor|
+|Interessada em ajudar uma vítima de violência doméstica | Encontrar informação sobre violência contra a mulher | Esclarecer à vítima sobre a violência contra a mulher e a legislação sobre o tema|
+|Interessada em ajudar uma vítima de violência doméstica | Encontrar redes de apoio em Belo Horizonte | Divulgar a rede de apoio e acolhimento|
+|Interessada em ajudar uma vítima de violência doméstica | Encontrar canais de denúncia | Encorajar a vítima a denunciar o agressor|
 |Vítima de violência doméstica no passado | Compartilhar a própria história | Encorajar outras vítimas a denunciarem seus agressores e promover acolhimento |
 
 ## Requisitos
