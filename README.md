@@ -14,19 +14,21 @@
 
 </div>
 
+<div align="center">
+
 ## Integrantes
 
-<a href="https://github.com/ptrindader" title="Pedro Trindade Reis" rel="nofollow"><img src="docs/img/Pedro%20Trindade.png" alt="logo" data-canonical-src="https://github.com/ptrindader" width="100vw"/></a>
-<a href="https://github.com/marianapresoti" title="Mariana Presoti" rel="nofollow"><img src="docs/img/Mariana%20Presoti.png" alt="logo" data-canonical-src="https://github.com/marianapresoti" width="100vw"/></a>
-<a href="https://github.com/lcferre20" title="Luiz Carlos Ferreira da Silva" rel="nofollow"><img src="docs/img/Carlos%20Ferreira.png" alt="logo" data-canonical-src="https://github.com/lcferre20" width="100vw"/></a>
-<a href="https://github.com/carolinamns" title="Anira Carolina Meneses de Carvalho Moura" rel="nofollow"><img src="docs/img/Anira%20Carolina.png" alt="logo" data-canonical-src="https://github.com/carolinamns" width="100vw"/></a>
-<a href="https://github.com/rafamacb" title="Rafael Machado Bueno" rel="nofollow"><img src="docs/img/Rafael%20Machado.png" alt="logo" data-canonical-src="https://github.com/rafamacb" width="100vw"/></a>
+<a href="https://github.com/ptrindader" title="Pedro Trindade Reis" rel="nofollow"><img src="docs/img/Pedro%20Trindade.png" alt="logo" data-canonical-src="https://github.com/ptrindader" width="100vw"/></a> 
+<a href="https://github.com/marianapresoti" title="Mariana Presoti" rel="nofollow"><img src="docs/img/Mariana%20Presoti.png" alt="logo" data-canonical-src="https://github.com/marianapresoti" width="100vw"/></a> 
+<a href="https://github.com/lcferre20" title="Luiz Carlos Ferreira da Silva" rel="nofollow"><img src="docs/img/Carlos%20Ferreira.png" alt="logo" data-canonical-src="https://github.com/lcferre20" width="100vw"/></a> 
+<a href="https://github.com/carolinamns" title="Anira Carolina Meneses de Carvalho Moura" rel="nofollow"><img src="docs/img/Anira%20Carolina.png" alt="logo" data-canonical-src="https://github.com/carolinamns" width="100vw"/></a> 
+<a href="https://github.com/rafamacb" title="Rafael Machado Bueno" rel="nofollow"><img src="docs/img/Rafael%20Machado.png" alt="logo" data-canonical-src="https://github.com/rafamacb" width="100vw"/></a> 
 <a href="https://github.com/Reggi88" title="Regiane Correa da Costa" rel="nofollow"><img src="docs/img/Regiane%20Costa.png" alt="logo" data-canonical-src="https://github.com/Reggi88" width="100vw"/></a>
 
 
 ## Orientador
 
-* Hugo Bastos De Paula
+<a href="https://github.com/hugodepaula" title="Hugo Bastos De Paula" rel="nofollow"><img src="docs/img/Hugo%20Bastos%20De%20Paula.png" alt="logo" data-canonical-src="https://github.com/hugodepaula" width="100vw"/></a>
 
 # Planejamento
 
@@ -37,6 +39,8 @@
 | ETAPA 3       | 11/10/2021 - 05/11/2021   |[Programação de Funcionalidades - HTML e CSS](docs/development.md) |
 | ETAPA 4       | 08/11/2021 - 03/12/2021   |[Programação de Funcionalidades - Javascript](docs/development.md) <br> [Testes de Software ](docs/tests.md) |
 | ETAPA 5       | 06/12/2021 - 17/12/2021   | [Apresentação](presentation/README.md) |
+
+</div>
 
 # Código
 
