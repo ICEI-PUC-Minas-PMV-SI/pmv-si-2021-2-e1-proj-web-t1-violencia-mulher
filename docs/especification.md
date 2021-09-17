@@ -2,7 +2,6 @@
 
 ## Personas
 
-<div align="justify">
   
 1. Dona Nanda tem 53 anos, é aposentada e dona de casa, não terminou o ensino fundamental e deseja continuar os estudos de onde parou para realizar o sonho de se formar. Entretanto, seu marido, Walter, não permite que ela administre o dinheiro que recebe da aposentadoria, e, por vontade própria, decidiu que não a deixaria realizar seu sonho acadêmico. Nanda, por anos, acreditou que esse comportamento fosse normal, mas ouviu de suas irmãs que isso era um tipo de repressão e que seu marido poderia ser enquadrado na lei Maria da Penha. Nanda não entende como o confisco do seu dinheiro por seu marido pode se enquadrar como crime.
 
@@ -10,7 +9,6 @@
 
 3. Joana, mulher de 43 anos, casada, tem dois filhos, é dona de casa e mora na cidade de Belo Horizonte, em Minas Gerais. Apanhou do marido durante vinte anos, mas sentia medo de denunciar por conta das ameaças do agressor sobre afastá-la dos filhos caso contasse a alguém o que acontecia dentro de casa. Há três anos, Joana decidiu realizar sua denúncia. O agressor foi julgado legalmente e afastado da convivência de Joana e sua família. A mulher está refazendo a vida e busca plataformas onde possa contar sua história e incentivar outras vítimas a denunciarem e romperem com o ciclo de violência.
   
-</div>
 
 ## Histórias de Usuários
 
