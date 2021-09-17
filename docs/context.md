@@ -8,22 +8,17 @@ Promulgada em 1996, a Convenção de Belém do Pará definiu violência contra a
 
 Muitas vezes as ações de violência cometidas contra mulheres atingem sua expressão máxima e resultam em óbito. De acordo com mapa da violência de 2015, organizado pela Faculdade Latino-Americana de Ciências Sociais (Flacso), o Brasil ocupa hoje a quinta posição no ranking mundial - em um grupo de 83 países - em feminicídio, entendido como o assassinato de uma mulher em razão de sua condição de ser mulher.
 
-
 ## Problema
  
 A violência no ambiente familiar ou em comunidade representa um dos principais obstáculos para assegurar liberdades fundamentais para mulheres e meninas. Nos últimos anos é notória a intensificação dos debates a respeito, principalmente a violência contra a mulher. Este é um processo que seguirá em curso sobre a ampliação e aperfeiçoamento de estratégias e instituições para uma melhor abordagem deste problema social. 
 
-Para dimensionar o tamanho desse problema basta observarmos os dados mais letais referentes a este problema. Nos últimos vinte anos, 75.280 mulheres foram  mortas. Somente em 2017, mulheres foram maioria entre entre as vítimas nos 209.580 registros de violência física - representando 67% do total de vítimas agredidas fisicamente.
+Para dimensionar o tamanho desse problema basta observarmos os dados mais letais referentes ao tema. Nos últimos vinte anos, 75.280 mulheres foram mortas. Somente em 2017, mulheres foram maioria entre entre as vítimas nos 209.580 registros de violência física - representando 67% do total de vítimas agredidas fisicamente. Se observarmos os perfis das mulheres vítimas de violência doméstica nos anos de 2016 a 2018, em aproximadamente 35% dos casos, são cônjuges/companheiros. Aaior parte das vítimas representa parcela vulnerável da sociedade, como negras e pardas (46%) e de ensino fundamental incompleto (21%).
 
-Se observarmos os perfis das mulheres vítimas de violência doméstica nos anos de 2016 a 2018, em aproximadamente 35% dos casos, são cônjuges/ companheiros, maior parte das vítimas representa parcela vulnerável da sociedade, como negras e pardas (46%) e de ensino fundamental incompleto (21%).
+O desconhecimento da sociedade também contribui para fortalecer esta desorientação ao caminho correto a seguir. De acordo com pesquisa realizada pelo Data Popular (2013), a forma como a  lei funciona e apoia mulheres é desconhecida pela maior parte da população: 24% sabem dos juizados especiais, 28% conhecem os serviços de saúde especializados e somente 32% conhecem as casas de abrigo temporário. Apesar do amplo conhecimento sobre as Delegacias da Mulher (97%) e a Lei Maria da Penha (66%), os serviços de apoio às mulheres em situação de violência são pouco conhecidos.
 
-O desconhecimento da sociedade também contribui para fortalecer esta desorientação ao caminho correto a seguir. De  acordo  com pesquisa realizada pelo Data Popular (2013), a forma como a  lei funciona e apoia mulheres é desconhecida pela maior parte da população: 24% sabem dos juizados especiais, 28% conhecem os serviços de saúde especializados e somente 32% conhecem as casas de abrigo temporário. Apesar do amplo conhecimento sobre as Delegacias da Mulher (97%) e a Lei Maria da  Penha (66%), os serviços de apoio às mulheres em situação de  violência são pouco conhecidos.
+A recorrência das agressões também é uma característica comum nos casos onde a mulher não denuncia seu agressor. Entre as mulherese entrevistadas na PNAD de 2009 que procuraram a polícia quando foram agredidas, uma parcela importante não registrou queixa (12,2%), ou seja, não houve registro formal da agressão. Este número sobe (14,6%), quando se trata de um homem conhecido/próximo. A falta de confiança na polícia ou medo de represálias ao se buscar o auxílio do Estado configuram a principal causa. 
 
-A recorrência das agressões também é uma característica comum nos casos onde a mulher não denuncia seu agressor. Entre  as  mulheres  entrevistadas  na  PNAD  de  2009  que  procuraram  a  polícia  quando foram agredidas, uma parcela importante não registrou queixa (12,2%), ou seja,  não  houve  registro  formal  da agressão. Este número sobe (14,6%), quando se trata de um homem conhecido/ próximo. A falta de confiança na polícia ou medo de represálias ao se buscar o auxílio do Estado configuram a principal causa. 
-
-A vulnerabilidade das mulheres as torna também mais inseguras, levando ao centro de nosso questionamento - a falta de conhecimento e o medo em fazer a denúncia. 
-
-Apesar do debate público, ainda configura um caminho difícil para a vítima se desprender de todos os fatores que compõem o ciclo de violência e alcançar a segurança necessária para realizar a denúncia. É necessário fornecer um caminho mais curto e acessível, uma plataforma com conteúdo informativo que forneça acolhimento e estímulo para que vítimas realizem suas denúncias de modo seguro e integrado.
+A vulnerabilidade das mulheres as torna também mais inseguras, levando ao centro de nosso questionamento - a falta de conhecimento e o medo em fazer a denúncia. Apesar do debate público, ainda configura um caminho difícil para a vítima se desprender de todos os fatores que compõem o ciclo de violência e alcançar a segurança necessária para realizar a denúncia. É necessário fornecer um caminho mais curto e acessível, uma plataforma com conteúdo informativo que forneça acolhimento e estímulo para que vítimas realizem suas denúncias de modo seguro e integrado.
 
 ## Objetivos
 
@@ -33,12 +28,11 @@ Desenvolver um site, o qual centraliza informações relevantes às mulheres ví
 
 ### Objetivos Específicos:
 
- - Identificar e listar os principais mecanismos de denuncia;
+ - Identificar e listar os principais mecanismos de denúncia;
 
  - Construir uma comunidade para disponiblização de depoimentos e acolhimento das mulheres;
  
  - Identificar e coletar informações referentes aos direitos da mulher.
-
 
 ## Justificativa
 
@@ -47,13 +41,11 @@ A solução proposta neste projeto para disseminar informações sobre a violên
 Espera-se que a página web proposta neste projeto promova o encorajamento a fazer denúncias, por esclarecer as vítimas sobre o tema da violência contra a mulher, sobre as redes de apoio, o acesso aos canais de denúncia e a publicação de depoimentos.
 
 Portanto, o site proposto será uma fonte de informações e de redes de apoio para as vítimas, além de fomentar o registro de denúncias. Além disso, o site possibilitará que as vítimas consultem esses dados de maneira discreta, pois poderão acessar dos próprios celulares ou computadores sem que os agressores percebam.
- 
- 
 
 ## Público-Alvo
 
 Pessoas de **todos os gêneros e idades** que sejam residentes em **Belo Horizonte**. Entretanto, nosso foco será naquelas que sejam ou conheçam **mulheres** que tenham sido **vítimas de violência doméstica de qualquer tipo (física, sexual, psicológica, moral e/ou patrimonial)**. 
-
+ 
  <hr>
  
  <p align="right"><a href="./especification.md">Especificação do Projeto</a></p>
