@@ -33,7 +33,7 @@ Desenvolver um site, o qual centraliza informações relevantes às mulheres ví
 
 ### Objetivos Específicos:
 
- - Identificar e listar os principais mecanismos de denuncias;
+ - Identificar e listar os principais mecanismos de denuncia;
 
  - Construir uma comunidade para disponiblização de depoimentos e acolhimento das mulheres;
  
