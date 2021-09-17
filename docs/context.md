@@ -33,9 +33,11 @@ Desenvolver um site, o qual centraliza informações relevantes às mulheres ví
 
 ### Objetivos Específicos:
 
- - Desenvolver área com informações sobre os tipos de violência contra a mulher, legislações, programas de apoio à vítima e principais autoridades para denúncia;
+ - Identificar e listar os principais mecanismos de denuncias;
 
- - Desenvolver área para a inclusão de depoimentos, encorajando as mulheres vítimas de violência, na realização de denúncia referente a qualquer tipo de agressão sofrida.
+ - Construir uma comunidade para disponiblização de depoimentos e acolhimento das mulheres;
+ 
+ - Identificar e coletar informações referentes aos direitos da mulher.
 
 
 ## Justificativa
