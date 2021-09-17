@@ -16,12 +16,13 @@
 
 ## Integrantes
 
-* Anira Carolina Meneses de Carvalho Moura
-* Luiz Carlos Ferreira da Silva     
-* Mariana Presoti
-* Pedro Trindade Reis 
-* Regiane Correa da Costa
-* Rafael Machado Bueno
+<a href="https://github.com/ptrindader" title="Pedro Trindade Reis" rel="nofollow"><img src="docs/img/Pedro%20Trindade.png" alt="logo" data-canonical-src="https://github.com/ptrindader" width="100vw"/></a>
+<a href="https://github.com/marianapresoti" title="Mariana Presoti" rel="nofollow"><img src="docs/img/Mariana%20Presoti.png" alt="logo" data-canonical-src="https://github.com/marianapresoti" width="100vw"/></a>
+<a href="https://github.com/lcferre20" title="Luiz Carlos Ferreira da Silva" rel="nofollow"><img src="docs/img/Carlos%20Ferreira.png" alt="logo" data-canonical-src="https://github.com/lcferre20" width="100vw"/></a>
+<a href="https://github.com/carolinamns" title="Anira Carolina Meneses de Carvalho Moura" rel="nofollow"><img src="docs/img/Anira%20Carolina.png" alt="logo" data-canonical-src="https://github.com/carolinamns" width="100vw"/></a>
+<a href="https://github.com/rafamacb" title="Rafael Machado Bueno" rel="nofollow"><img src="docs/img/Rafael%20Machado.png" alt="logo" data-canonical-src="https://github.com/rafamacb" width="100vw"/></a>
+<a href="https://github.com/Reggi88" title="Regiane Correa da Costa" rel="nofollow"><img src="docs/img/Regiane%20Costa.png" alt="logo" data-canonical-src="https://github.com/Reggi88" width="100vw"/></a>
+
 
 ## Orientador
 
