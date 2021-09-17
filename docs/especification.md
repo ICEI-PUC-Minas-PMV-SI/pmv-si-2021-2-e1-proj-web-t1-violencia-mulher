@@ -15,11 +15,11 @@ Com base na análise das personas, foram identificadas as seguintes histórias d
 | EU COMO... `PERSONA`          | QUERO/PRECISO ... `FUNCIONALIDADE` | PARA ... `MOTIVO/VALOR`        |
 |-------------------------------|------------------------------------|--------------------------------|
 |Vítima de violência doméstica no presente | Encontrar informação | Conhecer os tipos de violência contra a mulher e a legislação sobre o tema|
-|Vítima de violência doméstica no presente | Encontrar redes de apoio em Belo Horizonte | Receber apoio e acolhimento|
+|Vítima de violência doméstica no presente | Encontrar redes de apoio em Minas Gerais | Receber apoio e acolhimento|
 |Vítima de violência doméstica no presente | Encontrar depoimentos e experiências das vítimas de violência doméstica | Receber apoio e acolhimento|
 |Vítima de violência doméstica no presente | Encontrar canais de denúncia | Denunciar o agressor|
 |Interessada em ajudar uma vítima de violência doméstica | Encontrar informação sobre violência contra a mulher | Esclarecer à vítima sobre a violência contra a mulher e a legislação sobre o tema|
-|Interessada em ajudar uma vítima de violência doméstica | Encontrar redes de apoio em Belo Horizonte | Divulgar a rede de apoio e acolhimento|
+|Interessada em ajudar uma vítima de violência doméstica | Encontrar redes de apoio em Minas Gerais | Divulgar a rede de apoio e acolhimento|
 |Interessada em ajudar uma vítima de violência doméstica | Encontrar canais de denúncia | Encorajar a vítima a denunciar o agressor|
 |Vítima de violência doméstica no passado | Compartilhar a própria história | Encorajar outras vítimas a denunciarem seus agressores e promover acolhimento |
 
@@ -61,7 +61,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| A abrangência do projeto limita-se a Belo Horizonte |
+|01| A abrangência do projeto limita-se a Minas Gerais |
 |02| O projeto deverá ser entregue até o final do semestre, não podendo extrapolar a data de 17/12/2021 |
 |03| Não pode ser desenvolvido um módulo de backend        |
 |04| Não será utilizado banco de dados|
