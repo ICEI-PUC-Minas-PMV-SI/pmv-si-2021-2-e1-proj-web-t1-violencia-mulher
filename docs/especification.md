@@ -1,9 +1,5 @@
 # Especificações do Projeto
 
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
-
 ## Personas
 
 1. Dona Nanda tem 53 anos, é aposentada e dona de casa, não terminou o ensino fundamental e deseja continuar os estudos de onde parou para realizar o sonho de se formar. Entretanto, seu marido, Walter, não permite que ela administre o dinheiro que recebe da aposentadoria, e, por vontade própria, decidiu que não a deixaria realizar seu sonho acadêmico. Nanda, por anos, acreditou que esse comportamento fosse normal, mas ouviu de suas irmãs que isso era um tipo de repressão e que seu marido poderia ser enquadrado na lei Maria da Penha. Nanda não entende como o confisco do seu dinheiro por seu marido pode se enquadrar como crime.
@@ -58,9 +54,3 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |02| O projeto deverá ser entregue até o final do semestre, não podendo extrapolar a data de 17/12/2021 |
 |03| Não pode ser desenvolvido um módulo de backend        |
 |04| Não será utilizado banco de dados|
-
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
-
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
