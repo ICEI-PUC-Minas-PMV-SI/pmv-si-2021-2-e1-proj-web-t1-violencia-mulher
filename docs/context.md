@@ -44,7 +44,7 @@ Portanto, o site proposto será uma fonte de informações e de redes de apoio p
 
 ## Público-Alvo
 
-Pessoas de **todos os gêneros e idades** que sejam residentes em **Belo Horizonte**. Entretanto, nosso foco será naquelas que sejam ou conheçam **mulheres** que tenham sido **vítimas de violência doméstica de qualquer tipo (física, sexual, psicológica, moral e/ou patrimonial)**. 
+Pessoas de **todos os gêneros e idades** que sejam residentes em **Minas Gerais**. Entretanto, nosso foco será naquelas que sejam ou conheçam **mulheres** que tenham sido **vítimas de violência doméstica de qualquer tipo (física, sexual, psicológica, moral e/ou patrimonial)**. 
  
  <hr>
  
