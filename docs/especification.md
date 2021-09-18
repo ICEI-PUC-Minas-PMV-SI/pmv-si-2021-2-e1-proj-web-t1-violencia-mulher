@@ -54,9 +54,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |------|-----------------------------------------|----|
 |RNF-01| Interface responsiva adaptável a qualquer interface utilizada - Browser, Smartphone ou Tablet | ALTA | 
 |RNF-02| Disponibilidade de adaptação da interface pró acessibilidade | ALTA | 
-|RNF-03| Navegação intuitiva e otimizada que possibilite interação com qualquer usuário | MÉDIA | 
-|RNF-04| A página deverá ter disponibilidade em 90% do tempo | BAIXA | 
-|RNF-05| Tempo de resposta não superior a 3s para solicitação de usuario | BAIXA |
+|RNF-03| A página deverá ter disponibilidade em 90% do tempo | BAIXA | 
+|RNF-04| Tempo de resposta não superior a 3s para solicitação de usuario | BAIXA |
 
 ## Restrições
 
@@ -66,5 +65,4 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |--|-------------------------------------------------------|
 |01| A abrangência do projeto limita-se a Minas Gerais |
 |02| O projeto deverá ser entregue até o final do semestre, não podendo extrapolar a data de 17/12/2021 |
-|03| Não pode ser desenvolvido um módulo de backend |
-|04| FrontEnd desenvolvido em HTML e JavaScript
+|03| FrontEnd desenvolvido em HTML e JavaScript |
