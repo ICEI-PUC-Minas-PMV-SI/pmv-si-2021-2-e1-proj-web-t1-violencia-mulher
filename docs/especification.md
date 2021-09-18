@@ -38,13 +38,13 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-001| Disponibilizar área com informações sobre a violência contra a mulher e os tipos de violência | ALTA | 
 |RF-002| Disponibilizar área com informações de leis referentes a violência contra a mulher | ALTA |
 |RF-003| Disponibilizar área com informações sobre instituições de apoio a mulheres vítimas de violência | ALTA |
-|RF-004| Disponibilizar área em que o usuário poderá inserir depoimentos | ALTA |
-|RF-005| Disponibilizar área em que o usuário poderá pesquisar e ler depoimentos | ALTA |
-|RF-006| Disponibilizar área com informações e links de direcionamento sobre os principais meios de denúncia | ALTA |
-|RF-007| 
-|RF-008|
-|RF-009| Realizar pesquisa dos meios de denúncia por estado | BAIXA|
-|RF-010| Criar função para curtir os depoimentos | BAIXA |
+|RF-004| Disponibilizar página em que o usuário poderá inserir depoimentos | ALTA |
+|RF-005| Disponibilizar página em que o usuário poderá ler os depoimentos | ALTA |
+|RF-006| Disponibilizar funcionalidade que permita pesquisar instituições de apoio | MÉDIA |
+|RF-007| Disponibilizar funcionalidade que permita cadastrar usuários onde seja possível definir perfil de usuário anônimo ou identificado |MÉDIA|
+|RF-008| Disponibilizar funcionalidade que permite consultar de depoimentos por regiões de Minas Gerais | BAIXA |
+|RF-009| Disponibilizar sessão com últimas notícias relacionadas pertinentes ao tema de violência contra a mulher  | BAIXA|
+|RF-010| Criar funcionalidade para curtir e comentar os depoimentos | BAIXA |
 
 
 
@@ -54,10 +54,9 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |------|-----------------------------------------|----|
 |RNF-01| Interface responsiva adaptável a qualquer interface utilizada - Browser, Smartphone ou Tablet | ALTA | 
 |RNF-02| Disponibilidade de adaptação da interface pró acessibilidade | ALTA | 
-|RNF-03| FrontEnd desenvolvido em HTML e JavaScript | MÉDIA | 
-|RNF-04| Navegação intuitiva e otimizada que possibilite interação com qualquer usuário | MÉDIA | 
-|RNF-05| A página deverá ter disponibilidade em 90% do tempo | BAIXA | 
-|RNF-06| Tempo de resposta não superior a 3s para solicitação de usuario | BAIXA |
+|RNF-03| Navegação intuitiva e otimizada que possibilite interação com qualquer usuário | MÉDIA | 
+|RNF-04| A página deverá ter disponibilidade em 90% do tempo | BAIXA | 
+|RNF-05| Tempo de resposta não superior a 3s para solicitação de usuario | BAIXA |
 
 ## Restrições
 
@@ -67,5 +66,5 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |--|-------------------------------------------------------|
 |01| A abrangência do projeto limita-se a Minas Gerais |
 |02| O projeto deverá ser entregue até o final do semestre, não podendo extrapolar a data de 17/12/2021 |
-|03| Não pode ser desenvolvido um módulo de backend        |
-|04| Não será utilizado banco de dados|
+|03| Não pode ser desenvolvido um módulo de backend |
+|04| FrontEnd desenvolvido em HTML e JavaScript
