@@ -41,8 +41,9 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-004| Disponibilizar página em que o usuário poderá inserir depoimentos | ALTA |
 |RF-005| Disponibilizar página em que o usuário poderá ler os depoimentos | ALTA |
 |RF-006| Disponibilizar funcionalidade que permita pesquisar instituições de apoio | MÉDIA |
-|RF-007| Disponibilizar funcionalidade que permita cadastrar usuários onde seja possível definir perfil de usuário anônimo ou identificado |MÉDIA|
-|RF-008| Disponibilizar funcionalidade que permite consultar de depoimentos por regiões de Minas Gerais | BAIXA |
+|RF-007| Disponibilizar funcionalidade que permita cadastrar usuários onde seja possível definir perfil 
+         de usuário anônimo ou identificado |MÉDIA|
+|RF-008| Disponibilizar funcionalidade que permite consultar depoimentos por regiões de Minas Gerais | BAIXA |
 |RF-009| Disponibilizar sessão com últimas notícias relacionadas pertinentes ao tema de violência contra a mulher  | BAIXA|
 |RF-010| Criar funcionalidade para curtir e comentar os depoimentos | BAIXA |
 
