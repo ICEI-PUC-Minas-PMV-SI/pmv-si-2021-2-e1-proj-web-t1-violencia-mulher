@@ -12,12 +12,11 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
 
 *Parágrafo “Legislação”:*
-A partir da Homepage, utilizando o menu de navegação, o usuário irá clicar no botão "Legislação" para acessar a página de contém informações legais sobre a violência contra a mulher. Ao acessar a página, será exibido ao usuário informações sobre os cinco tipo de violência: física, moral, patrimonial, psicológica e sexual. Percorrendo a página também estará disponível resumo das leis vigentes referentes ao tema. Ao final, estará disponível o botão "Ler na íntegra". Ao clicar no botão, abrirá uma nova aba no navegador direcionando o usuário para o site do governo, onde estará disponível a versão completa da lei.
 
 
 *Parágrafo “Redes de Apoio”:*
-
-
+Na homepage há a opção para clicar no botão "Rede de Apoio", ao clicar neste botão o usuário será levado a página onde consta já no inicio, uma apresentação sobre o tema, com a opção de clicar em "Ver mais" para expandir o texto e fazer a leitura na íntegra. Logo abaixo a apresentação há tópicos com resumos explicando cada um dos serviços abordados na Rede de Apoio. Nessa página também será possível ver links relacionados por serviço, que ao clicar nos respectivos links, redirecionará para uma página externa da instituição, casa de apoio, escritório júridico, apoio psicológico e demais serviços oferecidos.
+ 
 *Parágrafo “Denúncia”:*
 A partir da homepage, é possível clicar no card “Faça sua denúncia” ou no botão “Denuncie” na barra de navegação para acessar a página “Faça sua denúncia”. Nesta página, há dois botões: “Minas Gerais: denúncia online” e “Minas Gerais: denúncia presencial/telefone”. Ao clicar no primeiro botão,  a usuária será redirecionada para o link externo da Delegacia Virtual da Polícia Civil de Minas Gerais. Ao clicar no segundo botão, a usuária será direcionada para a página “Minas Gerais: denúncia presencial/telefone” na qual será apresentada uma lista suspensa para selecionar a cidade desejada. Após selecionar a cidade, serão exibidas na mesma página as delegacias da cidade, endereços, telefones e sites.
  
