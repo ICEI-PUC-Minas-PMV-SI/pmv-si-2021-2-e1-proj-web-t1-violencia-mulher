@@ -1,24 +1,26 @@
 
 # Projeto de Interface
-
+<div align="justify">
 Visão geral da interação do usuário pelas telas do sistema e protótipo interativo das telas com as funcionalidades que fazem parte do sistema (wireframes).
 
  Apresente as principais interfaces da plataforma. Discuta como ela foi elaborada de forma a atender os requisitos funcionais, não funcionais e histórias de usuário abordados nas <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a>.
  
- Parágrafo Homepage:
+*Parágrafo Homepage:*
  
 
-Parágrafo “Quem Somos”:
+*Parágrafo “Quem Somos”:*
 
 
-Parágrafo “Legislação”:
+*Parágrafo “Legislação”:*
 
 
-Parágrafo “Redes de Apoio”:
+*Parágrafo “Redes de Apoio”:*
 
 
-Parágrafo “Denúncia”:
+*Parágrafo “Denúncia”:*
 A partir da homepage, é possível clicar no card “Faça sua denúncia” ou no botão “Denuncie” na barra de navegação para acessar a página “Faça sua denúncia”. Nesta página, há dois botões: “Minas Gerais: denúncia online” e “Minas Gerais: denúncia presencial/telefone”. Ao clicar no primeiro botão,  a usuária será redirecionada para o link externo da Delegacia Virtual da Polícia Civil de Minas Gerais. Ao clicar no segundo botão, a usuária será direcionada para a página “Minas Gerais: denúncia presencial/telefone” na qual será apresentada uma lista suspensa para selecionar a cidade desejada. Após selecionar a cidade, serão exibidas na mesma página as delegacias da cidade, endereços, telefones e sites.
+ 
+ </div align="justify">
 
 ## User Flow
 
