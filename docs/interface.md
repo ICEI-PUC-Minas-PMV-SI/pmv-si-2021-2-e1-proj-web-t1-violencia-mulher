@@ -8,7 +8,7 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 *Parágrafo Homepage:*
  
 
-*Parágrafo “Quem Somos”:*
+*Parágrafo “Quem Somos”:* Através da homepage, no menu de navegação é possível acessar a opcao "QUEM SOMOS" que leverá o usuário até a página de identificacao do projeto.  Na página é possível conhecer aspectos do projeto como missao, história, integrantes e iniciativas implementadas.
 
 
 *Parágrafo “Legislação”:*
