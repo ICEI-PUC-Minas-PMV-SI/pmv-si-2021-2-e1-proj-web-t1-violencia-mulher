@@ -20,6 +20,9 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 *Parágrafo “Denúncia”:*
 A partir da homepage, é possível clicar no card “Faça sua denúncia” ou no botão “Denuncie” na barra de navegação para acessar a página “Faça sua denúncia”. Nesta página, há dois botões: “Minas Gerais: denúncia online” e “Minas Gerais: denúncia presencial/telefone”. Ao clicar no primeiro botão,  a usuária será redirecionada para o link externo da Delegacia Virtual da Polícia Civil de Minas Gerais. Ao clicar no segundo botão, a usuária será direcionada para a página “Minas Gerais: denúncia presencial/telefone” na qual será apresentada uma lista suspensa para selecionar a cidade desejada. Após selecionar a cidade, serão exibidas na mesma página as delegacias da cidade, endereços, telefones e sites.
  
+ *Parágrafo “Depoimentos”:* 
+Na homepage, há um card onde os usuários poderão visualizar alguns depoimentos já cadastrados no site. Ao clicar no botão "Ver mais depoimentos", o usuário será redirecionado para a página "Depoimentos", onde poderá ler todos os depoimentos registrados anteriormente. Nesta página, há o botão "Cadastrar". Clicando neste botão, o usuário será direcionado para uma nova página com o formulário de cadastro de depoimentos e dois botões: "Publicar" e "Cancelar". Caso o usuário clique em "Publicar", abrirá uma caixa de diálogo com a mensagem "Depoimento publicado com sucesso!" e o botão "OK". Por outro lado, se o usuário clicar no botão "Cancelar", retornará para a página "Depoimentos".
+ 
  </div align="justify">
 
 ## User Flow
