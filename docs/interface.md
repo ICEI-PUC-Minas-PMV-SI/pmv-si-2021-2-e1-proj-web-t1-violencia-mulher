@@ -11,8 +11,6 @@
 *Parágrafo “Legislação”:*
 A partir da Homepage, utilizando o menu de navegação, o usuário irá clicar no botão "Legislação" para acessar a página de contém informações legais sobre a violência contra a mulher. Ao acessar a página, será exibido ao usuário informações sobre os cinco tipo de violência: física, moral, patrimonial, psicológica e sexual. Percorrendo a página também estará disponível resumo das leis vigentes referentes ao tema. Ao final, estará disponível o botão "Ler na íntegra" onde, ao clicar, abrirá uma nova aba no navegador direcionando para o site do governo onde estará disponível a versão completa da lei.
 
-### Redes de Apoio:
-Na homepage há a opção para clicar no botão "Rede de Apoio", ao clicar neste botão o usuário será levado a página onde consta já no inicio, uma apresentação sobre o tema. Logo abaixo, há tópicos com resumos explicando cada um dos serviços abordados na Rede de Apoio, estando disponibilizado também links relacionados por serviço, que ao clicar redirecionará o usuário para uma página externa de instituições como casa de apoio, escritório júridico, apoio psicológico e outros serviços oferecidos, sendo possível fazer essa busca através dos filtros no inicio da página.
   
  </div align="justify">
 
