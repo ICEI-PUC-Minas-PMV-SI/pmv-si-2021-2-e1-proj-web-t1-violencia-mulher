@@ -45,6 +45,11 @@ A partir da homepage, é possível clicar no card “Faça sua denúncia” ou n
 Ao clicar no segundo botão, a usuária será direcionada para a página “Minas Gerais: denúncia presencial / telefone” na qual será apresentada uma lista suspensa para selecionar a cidade desejada. Após selecionar a cidade, serão exibidas na mesma página as delegacias da cidade, endereços, telefones e sites.
 
 ![Wireframes Denúncia](img/Wireframe-denuncia2.png)
+ 
+### Redes de Apoio:
+ 
+Na homepage há a opção para clicar no botão "Rede de Apoio", ao clicar neste botão o usuário será levado a página onde consta já no início, uma apresentação sobre o tema. Logo abaixo, há tópicos com resumos explicando cada um dos serviços abordados na Rede de Apoio, estando disponibilizado também links relacionados por serviço, que ao clicar redirecionará o usuário para uma página externa de instituições como casa de apoio, escritório jurídico, apoio psicológico e outros serviços oferecidos, sendo possível fazer essa busca através dos filtros no início da página.
+
 
 <hr>
  
