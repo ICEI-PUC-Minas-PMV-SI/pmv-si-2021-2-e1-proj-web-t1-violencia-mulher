@@ -2,10 +2,12 @@
 # Projeto de Interface
 <div align="justify">
 
+O projeto apresenta o conceito de cinco sessoes na homepage que possibilita ao usuário ingressar a páginas com funcoes específicas relacionadas com o proposito da página.
   
- </div align="justify">
 
-## User Flow
+<div align="center">
+
+## User Flow 
 
 ![UserFlow](img/userflow.jpg)
 
@@ -19,13 +21,13 @@ A experiência do usuário se inicia na homepage. Nela, ele poderá visualizar o
  
 ![Wireframe Homepage](img/wireframe-homepage.jpg) 
  
-  ### Quem Somos:
+  ### Quem Somos
  
 Através da homepage, no menu de navegação é possível acessar a opcao "QUEM SOMOS" que leverá o usuário até a página de identificacao do projeto.  Na página é possível conhecer aspectos do projeto como missao, história, integrantes e iniciativas implementadas.
  
 ![Wireframe Homepage](img/wireframe-quemsomos.png)  
  
- ### Legislação:
+ ### Legislação
  
 A partir da Homepage, utilizando o menu de navegação, o usuário irá clicar no botão "Legislação" para acessar a página de contém informações legais sobre a violência contra a mulher. Ao acessar a página, será exibido ao usuário informações sobre os cinco tipo de violência: física, moral, patrimonial, psicológica e sexual:
  
@@ -35,7 +37,7 @@ Percorrendo a página também estará disponível resumo das leis vigentes refer
  
 ![Wireframe Legislação](img/wireframe_resumo_da_lei.png)
  
- ### Depoimentos:
+ ### Depoimentos
 
 Ao clicar no botão da homepage "Ver mais depoimentos", o usuário será redirecionado para a página "Depoimentos", onde poderá ler todos os depoimentos já registrados no site, conforme RF-005. Nesta página "Depoimentos", há o botão "Cadastrar relato".
 
@@ -49,7 +51,7 @@ Caso o usuário tenha clicado no botão "Publicar" na página anterior, abrirá 
 
 ![Wireframe Depoimentos](img/wireframe-depoimentos3.jpg)
 
-### Denúncia: 
+### Denúncia 
  
 A partir da homepage, é possível clicar no card “Faça sua denúncia” ou no botão “Denuncie” na barra de navegação para acessar a página “Faça sua denúncia”. Nesta página, há dois botões: “Minas Gerais: denúncia online” e “Minas Gerais: denúncia presencial/telefone”. Ao clicar no primeiro botão,  a usuária será redirecionada para o link externo da Delegacia Virtual da Polícia Civil de Minas Gerais.
 
@@ -59,7 +61,7 @@ Ao clicar no segundo botão, a usuária será direcionada para a página “Mina
 
 ![Wireframes Denúncia](img/Wireframe-denuncia2.png)
  
-### Redes de Apoio:
+### Redes de Apoio
  
 Na homepage há a opção para clicar no botão "Rede de Apoio", ao clicar neste botão o usuário será levado a página onde consta já no início, uma apresentação sobre o tema. Logo abaixo, há tópicos com resumos explicando cada um dos serviços abordados na Rede de Apoio, estando disponibilizado também links relacionados por serviço, que ao clicar redirecionará o usuário para uma página externa de instituições como casa de apoio, escritório jurídico, apoio psicológico e outros serviços oferecidos, sendo possível fazer essa busca através dos filtros no início da página.
 
