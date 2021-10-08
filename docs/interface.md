@@ -18,15 +18,21 @@
 
 <div align="justify">
 
+### Homepage
+
+A experiência do usuário se inicia na homepage. Nela, ele poderá visualizar o layout da página e também acessar todas as seções do site (quem somos, denúncia, depoimentos, redes de apoio e legislação) através dos botões do menu de navegação ou dos cards ao longo da página. Além disso, há também o rodapé, com informações para contato com os desenvolvedores e as logos das instituições por trás do projeto.
+ 
+![Wireframe Homepage](img/wireframe-homepage.jpg) 
+ 
  ### Legislação:
  
 A partir da Homepage, utilizando o menu de navegação, o usuário irá clicar no botão "Legislação" para acessar a página de contém informações legais sobre a violência contra a mulher. Ao acessar a página, será exibido ao usuário informações sobre os cinco tipo de violência: física, moral, patrimonial, psicológica e sexual:
  
-![Wireframe Depoimentos](img/wireframe_tipos_de_violencia.png)
+![Wireframe Legislação](img/wireframe_tipos_de_violencia.png)
  
 Percorrendo a página também estará disponível resumo das leis vigentes referentes ao tema. Ao final, estará disponível o botão "Ler na íntegra" onde, ao clicar, abrirá uma nova aba no navegador direcionando para o site do governo onde estará disponível a versão completa da lei:
  
-![Wireframe Depoimentos](img/wireframe_resumo_da_lei.png)
+![Wireframe Legislação](img/wireframe_resumo_da_lei.png)
  
  ### Depoimentos:
 
