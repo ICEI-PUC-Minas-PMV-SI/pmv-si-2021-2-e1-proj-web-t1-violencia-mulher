@@ -1,8 +1,6 @@
 
 # Projeto de Interface
 <div align="justify">
- 
-*Parágrafo “Quem Somos”:* Através da homepage, no menu de navegação é possível acessar a opcao "QUEM SOMOS" que leverá o usuário até a página de identificacao do projeto.  Na página é possível conhecer aspectos do projeto como missao, história, integrantes e iniciativas implementadas.
 
   
  </div align="justify">
@@ -20,6 +18,12 @@
 A experiência do usuário se inicia na homepage. Nela, ele poderá visualizar o layout da página e também acessar todas as seções do site (quem somos, denúncia, depoimentos, redes de apoio e legislação) através dos botões do menu de navegação ou dos cards ao longo da página. Além disso, há também o rodapé, com informações para contato com os desenvolvedores e as logos das instituições por trás do projeto.
  
 ![Wireframe Homepage](img/wireframe-homepage.jpg) 
+ 
+  ### Quem Somos:
+ 
+Através da homepage, no menu de navegação é possível acessar a opcao "QUEM SOMOS" que leverá o usuário até a página de identificacao do projeto.  Na página é possível conhecer aspectos do projeto como missao, história, integrantes e iniciativas implementadas.
+ 
+![Wireframe Homepage](img/wireframe-quemsomos.png)  
  
  ### Legislação:
  
