@@ -21,6 +21,16 @@ A partir da Homepage, utilizando o menu de navegação, o usuário irá clicar n
 ## Wireframes
 
 <div align="justify">
+
+ ### Legislação:
+ 
+A partir da Homepage, utilizando o menu de navegação, o usuário irá clicar no botão "Legislação" para acessar a página de contém informações legais sobre a violência contra a mulher. Ao acessar a página, será exibido ao usuário informações sobre os cinco tipo de violência: física, moral, patrimonial, psicológica e sexual:
+ 
+![Wireframe Depoimentos](img/wireframe-depoimentos1.jpg)
+ 
+Percorrendo a página também estará disponível resumo das leis vigentes referentes ao tema. Ao final, estará disponível o botão "Ler na íntegra" onde, ao clicar, abrirá uma nova aba no navegador direcionando para o site do governo onde estará disponível a versão completa da lei:
+ 
+![Wireframe Depoimentos](img/wireframe-depoimentos1.jpg)
  
  ### Depoimentos:
 
