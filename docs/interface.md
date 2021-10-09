@@ -2,7 +2,7 @@
 # Projeto de Interface
 <div align="justify">
 
-O projeto de interface está organizado em 6 páginas: Homepage, Quem Somos, Legislação, Depoimentos e Denúncia. O conteúdo foi organizado de modo a priorizar em todo o fluxo de usuário a possibilidade de fazer a denúncia. Em todas as páginas acessadas pelo usuário, há botões que redirecionam o usuário para a homepage ou em algumas páginas, a possibilidade de ser redirecionado para uma página externa.
+O projeto de interface está organizado em 6 páginas: Homepage, Quem Somos, Legislação, Redes de Apoio, Depoimentos e Denúncia. O conteúdo foi organizado de modo a incentivar, facilitar e priorizar o ato de fazer a denúncia. Em todas as páginas acessadas pelo usuário, há botões que redirecionam o usuário para a homepage ou mesmo em algumas páginas, a possibilidade de ser redirecionado para uma página externa.
   
 
 <div align="center">
