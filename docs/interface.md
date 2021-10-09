@@ -23,7 +23,7 @@ A experiência do usuário se inicia na homepage. Nela, ele poderá visualizar o
  
   ### Quem Somos
  
-Através da homepage, no menu de navegação é possível acessar a opção "Quem Somos" que leverá o usuário até a página de identificacao do projeto.  Na página é possível conhecer aspectos importantes como missão, história, integrantes e iniciativas implementadas.
+Através da homepage, no menu de navegação é possível acessar a opção "Quem Somos" que leverá o usuário até a página de identificação do projeto.  Na página é possível conhecer aspectos importantes como missão, história, integrantes e iniciativas implementadas.
  
 ![Wireframe Homepage](img/wireframe-quemsomos.png)  
  
