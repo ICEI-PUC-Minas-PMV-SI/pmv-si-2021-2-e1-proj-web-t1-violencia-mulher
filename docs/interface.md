@@ -29,7 +29,7 @@ Através da homepage, no menu de navegação é possível acessar a opção "Que
  
  ### Legislação
  
-A partir da Homepage, utilizando o menu de navegação, o usuário irá clicar no botão "Legislação" para acessar a página de contém informações legais sobre a violência contra a mulher. Ao acessar a página, será exibido ao usuário informações sobre os cinco tipo de violência: física, moral, patrimonial, psicológica e sexual:
+A partir da Homepage, utilizando o menu de navegação, o usuário irá clicar no botão "Legislação" para acessar a página que contém informações legais sobre a violência contra a mulher. Ao acessar a página, será exibido ao usuário informações sobre os cinco tipo de violência: física, moral, patrimonial, psicológica e sexual:
  
 ![Wireframe Legislação](img/wireframe_tipos_de_violencia.png)
  
