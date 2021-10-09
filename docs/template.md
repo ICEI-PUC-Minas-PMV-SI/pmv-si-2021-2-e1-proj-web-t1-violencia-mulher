@@ -1,6 +1,6 @@
 # Template padrão do site
 
-O template padrão encontra-se na pasta source (src).
+O template padrão encontra-se atualmente na pasta source (src).
 
 > **Links Úteis**:
 >
