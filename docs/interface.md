@@ -63,7 +63,7 @@ Ao clicar no segundo botão, a usuária será direcionada para a página “Mina
  
 ### Redes de Apoio
  
-Na homepage há a opção para clicar no botão "Redes de Apoio", ao clicar neste botão o usuário será levado a página onde consta já no início, uma apresentação sobre o tema. Logo abaixo, há tópicos com resumos explicando cada um dos serviços abordados na Redes de Apoio, estando disponibilizado também links relacionados por serviço, que ao clicar redirecionará o usuário para uma página externa de instituições como casas de apoio, escritórios jurídicos, apoio psicológico, entre outros serviços oferecidos, sendo possível fazer essa busca através de um filtro (campo de pesquisa) no início da página.
+Na homepage há a opção para clicar no botão "Redes de Apoio", ao clicar neste botão o usuário será levado a página onde consta já no início, uma apresentação sobre o tema. Logo abaixo, há tópicos com resumos explicando cada um dos serviços abordados nas Redes de Apoio, estando disponibilizado também links relacionados por serviço, que ao clicar redirecionará o usuário para uma página externa de instituições como casas de apoio, escritórios jurídicos, apoio psicológico, entre outros serviços oferecidos, sendo possível fazer essa busca através de um filtro (campo de pesquisa) no início da página.
 
 ![Wireframe_Redes de Apoio](https://user-images.githubusercontent.com/68625518/136619580-35b7d04c-97d4-412d-8e95-0adb7216ec61.png)
  
