@@ -1,3 +1,13 @@
+/* titulo pagina na navbar  */
+p.titulo-pagina {
+    color: #FFFFFF;
+    font-size: xx-large;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bold;
+    text-align: center; 
+    display: inline-block;   
+}
+
 /* barra de navegacao */
 .navbar {
     background-color: #711BCF;
