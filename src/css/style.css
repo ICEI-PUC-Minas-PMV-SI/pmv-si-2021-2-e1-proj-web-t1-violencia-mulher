@@ -74,9 +74,11 @@ p.titulo-pagina {
 }
 
 /* rodape */
-#footer {
+footer {
     height: 150px;
-    background: linear-gradient(to bottom, #FFFFFF, #711BCF)
+    background: linear-gradient(to bottom, #FFFFFF, #711BCF);
+    padding: 10px; 
+    text-align: center;
 }
 
 /* ajustes responsivos */
