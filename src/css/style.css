@@ -1,0 +1,77 @@
+/* barra de navegacao */
+.navbar {
+    background-color: #711BCF;
+}
+
+/* botoes gerais na barra de navegacao */
+.navbar-nav .nav-item a {
+    color: #FFFFFF;
+    background-color: #A377FB;
+    margin-right: 10px;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.navbar-nav .nav-item a:hover {
+    color: #711BCF;
+    background-color: #FFFFFF;
+}
+
+/* botao de destaque */
+.navbar-nav .nav-item.denuncie a { 
+    color: #711BCF;
+    background-color: #FFFFFF;
+}
+
+.navbar-nav .nav-item.denuncie a:hover { 
+    color: #FFFFFF;
+    background-color: #711BCF;
+}
+
+/* formulario de pesquisa */
+.navbar form input[type="search"] {
+    background-color: transparent;
+    border-width: 1px;
+    border-color: #A377FB;
+    border-radius: 4px;
+    color: #FFFFFF;
+    padding: 5px 10px;
+}
+
+.navbar form {
+    position: relative;
+}
+
+/* texto de input no formulario de pesquisa */
+.navbar form input[type="search"]::placeholder {
+    color: #cab0ff;
+}
+
+/*lupa */
+.navbar form .fa { 
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    color: #cab0ff;
+}
+
+/* conteudo */
+#conteudo {
+    margin-top: 20px;
+    min-height: 313px; /* define altura minima para o conteudo */
+}
+
+/* rodape */
+#footer {
+    height: 150px;
+    background: linear-gradient(to bottom, #FFFFFF, #711BCF)
+}
+
+/* ajustes responsivos */
+@media screen and (max-width: 512px) {
+    .navbar form {
+        display: none; /* define que o formulario de pesquisa desapareca em telas menores */
+    }
+}
