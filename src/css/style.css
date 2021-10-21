@@ -13,6 +13,12 @@ p.titulo-pagina {
     background-color: #711BCF;
 }
 
+/* logo na barra de navegacao  */
+.image-nav {
+    display: inline-block;
+    text-align: center;
+}
+
 /* botoes gerais na barra de navegacao */
 .navbar-nav .nav-item a {
     color: #FFFFFF;
@@ -75,15 +81,39 @@ p.titulo-pagina {
 
 /* rodape */
 footer {
-    height: 150px;
     background: linear-gradient(to bottom, #FFFFFF, #711BCF);
     padding: 10px; 
-    text-align: center;
+    text-align: center;    
+}
+
+.col-left {
+    text-align: left;
+}
+
+.col-right {
+    text-align: right;
 }
 
 /* ajustes responsivos */
 @media screen and (max-width: 512px) {
     .navbar form {
         display: none; /* define que o formulario de pesquisa desapareca em telas menores */
+    }
+
+    .col-left {
+        text-align: center;
+    }
+
+    .col-right {
+        text-align: center;
+    }
+
+    .image-nav {
+        width: 70px;
+        height: 64px;
+    }
+
+    p.titulo-pagina {
+        font-size: x-large;
     }
 }
