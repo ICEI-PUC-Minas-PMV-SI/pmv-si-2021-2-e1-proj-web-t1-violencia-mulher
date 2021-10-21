@@ -95,7 +95,7 @@ footer {
 }
 
 /* ajustes responsivos */
-@media screen and (max-width: 512px) {
+@media screen and (max-width: 767px) {
     .navbar form {
         display: none; /* define que o formulario de pesquisa desapareca em telas menores */
     }
@@ -105,6 +105,10 @@ footer {
     }
 
     .col-right {
+        text-align: center;
+    }
+
+    .col {
         text-align: center;
     }
 
