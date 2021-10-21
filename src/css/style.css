@@ -81,9 +81,10 @@ p.titulo-pagina {
 
 /* rodape */
 footer {
+    height: 172px;
     background: linear-gradient(to bottom, #FFFFFF, #711BCF);
     padding: 10px; 
-    text-align: center;    
+    text-align: center;        
 }
 
 .col-left {
@@ -115,5 +116,9 @@ footer {
 
     p.titulo-pagina {
         font-size: x-large;
+    }
+
+    footer {
+        height: 500px;
     }
 }
