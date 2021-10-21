@@ -1,0 +1,26 @@
+p.title-page {
+    background-color:#711BCF;
+    width: 1110px;
+    height: 50px;
+    padding: 5px 10px;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    font-size:x-large;
+    text-align: center;
+    display: inline-block;
+}
+
+.btn-denuncie {
+    background-color:#8c4bd1;
+    width: 1110px;
+    height: 50px;
+    padding: 5px 10px;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    font-size:x-large;
+    text-align: center;
+    
+}
+
