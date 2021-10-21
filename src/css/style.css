@@ -83,8 +83,7 @@ p.titulo-pagina {
 footer {
     height: 172px;
     background: linear-gradient(to bottom, #FFFFFF, #711BCF);
-    padding: 10px; 
-    text-align: center;        
+    padding: 10px;           
 }
 
 .col-left {
