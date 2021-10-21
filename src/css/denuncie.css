@@ -1,6 +1,6 @@
 p.title-page {
     background-color:#711BCF;
-    width: 1110px;
+    width: 700px;
     height: 50px;
     padding: 5px 10px;
     border-radius: 5px;
@@ -11,16 +11,37 @@ p.title-page {
     display: inline-block;
 }
 
-.btn-denuncie {
-    background-color:#8c4bd1;
-    width: 1110px;
+a.btn-denuncie {
+    background-color:#a071d1;
+    width: 500px;
     height: 50px;
+    display: block;
     padding: 5px 10px;
-    border-radius: 5px;
+    margin-bottom: 10px;
+    border-radius: 50px;
     color: white;
     font-weight: bold;
     font-size:x-large;
     text-align: center;
-    
+    text-decoration: none;    
 }
 
+button.btn a:hover {
+    color: #711BCF;
+    background-color: #eab3f5;
+}
+
+/* ajustes responsivos */
+@media screen and (max-width: 767px) {
+    p.title-page {
+        width: 300px;
+        font-size: large;
+        height: 40px;
+    }
+
+    a.btn-denuncie {
+        width: 200px;
+        font-size: large;
+        height: 40px;
+    }    
+}
