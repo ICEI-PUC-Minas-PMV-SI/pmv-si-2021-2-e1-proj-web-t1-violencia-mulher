@@ -31,6 +31,22 @@ button.btn a:hover {
     background-color: #eab3f5;
 }
 
+p.selecao-cidade {
+    background-color:#a071d1;
+    width: 200px;
+    height: 50px;
+    display: inline;
+    padding: 5px 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    color: white;
+    font-weight: bold;
+    font-size: large;
+    text-align: center;
+    text-decoration: none;    
+}
+
+
 /* ajustes responsivos */
 @media screen and (max-width: 767px) {
     p.title-page {
