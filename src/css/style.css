@@ -96,11 +96,31 @@ p.title-page {
 }
 
 /* formulários */
+.form-group {
+    padding: 3px;
+}
+
 .form-control:focus {
     color: #495057;
     border-color: #3e2c5a;
     box-shadow: 0 0 0 0.2rem rgba(86, 61, 124, 0.25);
   }
+
+/* jumbotron testimonials */
+.jumbotron-testimonials {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    margin-bottom: 0;
+    background-color: #fff;
+}
+
+.jumbotron-testimonials p:last-child {
+    margin-bottom: 0;
+}
+
+.jumbotron-testimonials .container {
+    max-width: 40rem;
+}
 
 /* botões */
 .btn:hover {
@@ -161,10 +181,6 @@ footer {
     text-align: right;
 }
 
-/* cadastro */
-.form-group {
-    padding: 3px;
-}
 
 /* ajustes responsivos */
 @media screen and (max-width: 768px) {
@@ -202,8 +218,4 @@ footer {
     footer {
         height: 500px;
     }
-}
-
-@media screen and (max-width: 576) {
-    
 }
