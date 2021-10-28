@@ -36,8 +36,8 @@ p.selecao-cidade {
 
 /* caixa de selecao - pagina denuncia presencial/telefone */
 select.form-select {
-    width: 490px;
-    height: 40px;
+    width: 480px;
+    height: 41px;
 }
 
 /* ajustes responsivos */
@@ -56,14 +56,14 @@ select.form-select {
     
     p.selecao-cidade {
         width: 120px;
-        display: block;
-        font-size: x-small;
-                
+        font-size: small;                
     }
 
     select.form-select {
         width: 170px;
+        height: 36px;
         display: block;
+        font-size: small;
         text-align: center;
     }
 }
