@@ -95,8 +95,29 @@
                                 <div class="form row">
                                     <!-- Botões -->
                                     <div class="col-lg-10">
-                                        <input type="reset" class="btn btn-outline-secondary mr-2" value="Cancelar">
-                                        <input type="button" class="btn btn-primary mr-2" value="Publicar">
+                                        <a class="btn btn-outline-secondary mr-2" href="depoimentos.html" role="button">Cancelar</a>
+                                        
+                                        <button type="button" class="btn btn-primary mr-2" data-toggle="modal" data-target="#modal">Publicar</button>
+
+                                        <!-- Modal -->
+                                        <div class="modal fade" id="modal" tabindex="-1" aria-labelledby="modal" aria-hidden="true">
+                                            <div class="modal-dialog modal-dialog-centered">
+                                                <div class="modal-content">
+                                                    <div class="modal-header">
+                                                        <h5 class="modal-title" id="modal">Obrigado!</h5>
+                                                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                                            <span aria-hidden="true">&times;</span>
+                                                        </button>
+                                                    </div>
+                                                    <div class="modal-body">
+                                                        Seu depoimento foi recebido e será publicado após aprovação.
+                                                    </div>
+                                                        <div class="modal-footer">
+                                                        <button type="button" class="btn btn-primary" data-dismiss="modal">OK</button>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                             </form>
