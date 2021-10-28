@@ -66,7 +66,7 @@ p.titulo-pagina {
     color: #cab0ff;
 }
 
-/*lupa */
+/* lupa */
 .navbar form .fa { 
     position: absolute;
     top: 10px;
@@ -80,6 +80,7 @@ p.titulo-pagina {
     min-height: 313px; /* define altura minima para o conteudo */
 }
 
+<<<<<<< HEAD
 /* titulo das paginas - criar elemento p classe title-page */
 p.title-page {
     background-color:#711BCF;
@@ -92,6 +93,57 @@ p.title-page {
     font-size:x-large;
     text-align: center;
     display: inline-block;
+=======
+/* formulários */
+.form-control:focus {
+    color: #495057;
+    border-color: #3e2c5a;
+    box-shadow: 0 0 0 0.2rem rgba(86, 61, 124, 0.25);
+  }
+
+/* botões */
+.btn:hover {
+    color: #fff;
+    background-color: #443062;
+    border-color: #3e2c5a;
+}
+  
+.btn:focus, .btn.focus {
+    box-shadow: 0 0 0 0.2rem rgba(86, 61, 124, 0.25);
+}
+
+/* botão primário */
+.btn-primary {
+    color: #fff;
+    background-color: #563d7c;
+    border-color: #563d7c;
+}
+  
+.btn-primary:hover {
+    color: #fff;
+    background-color: #443062;
+    border-color: #3e2c5a;
+}
+  
+.btn-primary:focus, .btn-primary.focus {
+    box-shadow: 0 0 0 0.2rem rgba(86, 61, 124, 0.5);
+}
+
+/* botão outline secundário */
+.btn-outline-secondary {
+    color: #868e96;
+    border-color: #868e96;
+}
+  
+.btn-outline-secondary:hover {
+    color: #fff;
+    background-color: #868e96;
+    border-color: #868e96;
+}
+  
+.btn-outline-secondary:focus, .btn-outline-secondary.focus {
+    box-shadow: 0 0 0 0.2rem rgba(134, 142, 150, 0.5);
+>>>>>>> 81912e14eb4c71b9a86e7daa1d5c008d0101c300
 }
 
 /* rodape */
@@ -109,8 +161,13 @@ footer {
     text-align: right;
 }
 
+/* cadastro */
+.form-group {
+    padding: 3px;
+}
+
 /* ajustes responsivos */
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 768px) {
     .navbar form {
         display: none; /* define que o formulario de pesquisa desapareca em telas menores */
     }
@@ -145,4 +202,8 @@ footer {
     footer {
         height: 500px;
     }
+}
+
+@media screen and (max-width: 576) {
+    
 }
