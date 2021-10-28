@@ -20,10 +20,9 @@ a:hover {
 }
 
 /* caixa de texto selecionar cidade - pagina denuncia presencial/telefone */
-p.selecao-cidade {
+.btn-selecao-cidade {
     background-color:#a071d1;
-    width: 200px;
-    height: 40px;
+    width: 50px;
     display: inline;
     padding: 10px 10px;
     border-radius: 5px;
@@ -35,9 +34,9 @@ p.selecao-cidade {
 }
 
 /* caixa de selecao - pagina denuncia presencial/telefone */
-select.form-select {
-    width: 480px;
-    height: 41px;
+.form-select {
+    width: 640px;
+    height: 50px;
 }
 
 /* ajustes responsivos */
@@ -54,14 +53,14 @@ select.form-select {
         height: 40px;
     } 
     
-    p.selecao-cidade {
-        width: 120px;
+    .btn-selecao-cidade {
+        width: 50px;
         font-size: small;                
     }
 
     select.form-select {
-        width: 170px;
-        height: 36px;
+        width: 200px;
+        height: 42px;
         display: block;
         font-size: small;
         text-align: center;
