@@ -80,7 +80,7 @@ p.titulo-pagina {
     min-height: 313px; /* define altura minima para o conteudo */
 }
 
-<<<<<<< HEAD
+
 /* titulo das paginas - criar elemento p classe title-page */
 p.title-page {
     background-color:#711BCF;
@@ -93,7 +93,8 @@ p.title-page {
     font-size:x-large;
     text-align: center;
     display: inline-block;
-=======
+}
+
 /* formulários */
 .form-control:focus {
     color: #495057;
@@ -108,7 +109,7 @@ p.title-page {
     border-color: #3e2c5a;
 }
   
-.btn:focus, .btn.focus {
+.btn:focus {
     box-shadow: 0 0 0 0.2rem rgba(86, 61, 124, 0.25);
 }
 
@@ -125,7 +126,7 @@ p.title-page {
     border-color: #3e2c5a;
 }
   
-.btn-primary:focus, .btn-primary.focus {
+.btn-primary:focus {
     box-shadow: 0 0 0 0.2rem rgba(86, 61, 124, 0.5);
 }
 
@@ -141,9 +142,8 @@ p.title-page {
     border-color: #868e96;
 }
   
-.btn-outline-secondary:focus, .btn-outline-secondary.focus {
+.btn-outline-secondary:focus {
     box-shadow: 0 0 0 0.2rem rgba(134, 142, 150, 0.5);
->>>>>>> 81912e14eb4c71b9a86e7daa1d5c008d0101c300
 }
 
 /* rodape */
