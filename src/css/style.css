@@ -80,6 +80,20 @@ p.titulo-pagina {
     min-height: 313px; /* define altura minima para o conteudo */
 }
 
+/* titulo das paginas - criar elemento p classe title-page */
+p.title-page {
+    background-color:#711BCF;
+    width: 700px;
+    height: 50px;
+    padding: 5px 10px;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    font-size:x-large;
+    text-align: center;
+    display: inline-block;
+}
+
 /* rodape */
 footer {
     height: 172px;
@@ -120,6 +134,12 @@ footer {
 
     p.titulo-pagina {
         font-size: x-large;
+    }
+
+    p.title-page {
+        width: 300px;
+        font-size: large;
+        height: 40px;
     }
 
     footer {
