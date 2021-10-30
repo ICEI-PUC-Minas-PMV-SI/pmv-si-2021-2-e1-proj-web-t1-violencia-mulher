@@ -1,13 +1,12 @@
-document.getElementById('cidade-ok').onclick = function() {
-    var opcoes = document.getElementById('selecaoCidade');
-    var cidade = opcoes.select.option.selected.value;
+document.getElementById('cidades').onclick = function() {
+    var cidade = datalist.option.selected.value;
 
     switch (cidade) {
-        case "1":
-        console.log("Endereço:    Telefone:");
+        case "Alfenas":
+        document.getElementById("resultado-delegacia").innerHTML = "Nome da delegacia";
         break;
 
-
+        default: "Sua cidade não consta em nossos registros";
     }
 
 
