@@ -55,9 +55,12 @@
             <div id="conteudo">
                 <div class="container text-center">
                     <p class="title-page">Denúncia presencial / telefone</p><br>
-                     
-                    <select id="selecaoCidade" class="form-select d-inline" aria-label="Default select example">
-                        <option selected>Selecione sua cidade</option>
+                    <p class="selecione-cidade">Digite o nome da sua cidade:</p> 
+                    <!--<select id="selecaoCidade" class="form-select d-inline" aria-label="Default select example">-->
+                        <form action="" style="display: inline;">
+                        <input list="cidades" class="lista-cidades">
+                        <datalist id="cidades" onclick="">
+                        <!--<option selected>Selecione sua cidade</option>-->
                         <option value="1">Alfenas</option>
                         <option value="2">Araguari</option>
                         <option value="3">Araxá</option>
@@ -116,8 +119,11 @@
                         <option value="56">Unaí</option>
                         <option value="57">Varginha</option>
                         <option value="58">Vespasiano</option>
-                      </select>                    
-                      <button class="btn-selecao-cidade" type="button" id="cidade-ok">Ok</button>
+                    </datalist>
+                    <!--<button class="btn-selecao-cidade" type="button" id="cidade-ok">Ok</button>-->
+                        <!--</select>-->  
+                    <!--<input type="submit">-->  
+                    </form>                
                 
                 <script src="denuncie-presencial.js"></script>
                 </div>
