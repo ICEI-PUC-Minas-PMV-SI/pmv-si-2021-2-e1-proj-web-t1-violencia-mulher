@@ -3,7 +3,7 @@ a.btn-denuncie {
     background-color:#a071d1;
     width: 500px;
     height: 50px;
-    display: block;
+    display: inline-block;
     padding: 5px 10px;
     margin-bottom: 10px;
     border-radius: 50px;
@@ -14,7 +14,7 @@ a.btn-denuncie {
     text-decoration: none;      
 }
 
-a:hover {
+a.btn-denuncie:hover {
     color: #711BCF;
     background-color: #eab3f5;
 }
