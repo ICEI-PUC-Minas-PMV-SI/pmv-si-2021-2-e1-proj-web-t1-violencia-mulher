@@ -1,5 +1,5 @@
-document.getElementById('cidades').onclick = function() {
-    var cidade = datalist.option.selected.value;
+document.getElementById("cidades").onclick = function() {
+    var cidade = document.getElementById("cidades").datalist.option.selected.value;
 
     switch (cidade.value) {
         case "Alfenas":
