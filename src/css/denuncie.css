@@ -41,7 +41,7 @@ a.btn-denuncie:hover {
 }
 
 /* ajustes responsivos */
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 991px) {
     p.title-page {
         width: 300px;
         font-size: large;
@@ -54,16 +54,17 @@ a.btn-denuncie:hover {
         height: 40px;
     } 
     
-    .btn-selecao-cidade {
-        width: 50px;
-        font-size: small;                
+    .selecione-cidade {
+        width: 200px;
+        font-size: small; 
+        display: inline-block; 
+        text-align: center;                   
     }
 
-    select.form-select {
+    .lista-cidades {
         width: 200px;
         height: 42px;
-        display: block;
-        font-size: small;
-        text-align: center;
+        display: inline-block;
+        font-size: small;        
     }
 }
