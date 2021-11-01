@@ -271,93 +271,93 @@ function ExibeResultado() {
         break;
 
         case "31":
-        document.getElementById("resultado-delegacia").innerHTML = "";
-        document.getElementById("resultado-endereco").innerHTML = "Endereço: ";
-        document.getElementById("resultado-cep").innerHTML = "CEP: ";
+        document.getElementById("resultado-delegacia").innerHTML = "Delegacia da Mulher em Muriaé";
+        document.getElementById("resultado-endereco").innerHTML = "Endereço: Rua José Freitas Lima, nº 02 (referência: ao lado do Batalhão da Polícia Militar), Bairro Safira, Muriaé";
+        document.getElementById("resultado-cep").innerHTML = "CEP: 36880-000";
         document.getElementById("resultado-tel1").innerHTML = "Telefone em caso de emergência: 190 (Polícia Militar)";
         document.getElementById("resultado-tel2").innerHTML = "Telefone da Central de Atendimento à Mulher: 180";
-        document.getElementById("resultado-email").innerHTML = "E-mail: ";
+        document.getElementById("resultado-email").innerHTML = "E-mail: cpd.muriae@policiacivil.mg.gov.br";
         break;
 
         case "32":
-        document.getElementById("resultado-delegacia").innerHTML = "";
-        document.getElementById("resultado-endereco").innerHTML = "Endereço: ";
-        document.getElementById("resultado-cep").innerHTML = "CEP: ";
+        document.getElementById("resultado-delegacia").innerHTML = "Delegacia da Mulher em Nova Lima";
+        document.getElementById("resultado-endereco").innerHTML = "Endereço: Rua Joviano de Assis Fonseca, nº 41, Bairro Cariocas, Nova Lima";
+        document.getElementById("resultado-cep").innerHTML = "CEP: 34000-000";
         document.getElementById("resultado-tel1").innerHTML = "Telefone em caso de emergência: 190 (Polícia Militar)";
         document.getElementById("resultado-tel2").innerHTML = "Telefone da Central de Atendimento à Mulher: 180";
-        document.getElementById("resultado-email").innerHTML = "E-mail: ";
+        document.getElementById("resultado-email").innerHTML = "E-mail: 1dpnovalima@gmail.com";
         break;
 
         case "33":
-        document.getElementById("resultado-delegacia").innerHTML = "";
-        document.getElementById("resultado-endereco").innerHTML = "Endereço: ";
-        document.getElementById("resultado-cep").innerHTML = "CEP: ";
+        document.getElementById("resultado-delegacia").innerHTML = "Delegacia da Mulher em Pará De Minas";
+        document.getElementById("resultado-endereco").innerHTML = "Endereço: Praça Afonso Pena, nº 55, Bairro Centro, Pará de Minas";
+        document.getElementById("resultado-cep").innerHTML = "CEP: 35660-049";
         document.getElementById("resultado-tel1").innerHTML = "Telefone em caso de emergência: 190 (Polícia Militar)";
         document.getElementById("resultado-tel2").innerHTML = "Telefone da Central de Atendimento à Mulher: 180";
-        document.getElementById("resultado-email").innerHTML = "E-mail: ";
+        document.getElementById("resultado-email").innerHTML = "E-mail: anableao@yahoo.com.br";
         break;
 
         case "34":
-        document.getElementById("resultado-delegacia").innerHTML = "";
-        document.getElementById("resultado-endereco").innerHTML = "Endereço: ";
-        document.getElementById("resultado-cep").innerHTML = "CEP: ";
+        document.getElementById("resultado-delegacia").innerHTML = "Delegacia Civil - Atendimento à Mulher em Passos";
+        document.getElementById("resultado-endereco").innerHTML = "Endereço: Rua Santo Onófre, nº 174, Bairro Canjeranus, Passos";
+        document.getElementById("resultado-cep").innerHTML = "CEP: 37900-504";
         document.getElementById("resultado-tel1").innerHTML = "Telefone em caso de emergência: 190 (Polícia Militar)";
         document.getElementById("resultado-tel2").innerHTML = "Telefone da Central de Atendimento à Mulher: 180";
-        document.getElementById("resultado-email").innerHTML = "E-mail: ";
+        document.getElementById("resultado-email").innerHTML = "E-mail: arianepcmg@gmail.com";
         break;
 
         case "35":
-        document.getElementById("resultado-delegacia").innerHTML = "";
-        document.getElementById("resultado-endereco").innerHTML = "Endereço: ";
-        document.getElementById("resultado-cep").innerHTML = "CEP: ";
+        document.getElementById("resultado-delegacia").innerHTML = "Delegacia da Mulher em Patos De Minas";
+        document.getElementById("resultado-endereco").innerHTML = "Endereço: Rua dos Carajas, nº 641 - 1º Andar, Bairro Caiçaras, Patos de Minas";
+        document.getElementById("resultado-cep").innerHTML = "CEP: 38703-236";
         document.getElementById("resultado-tel1").innerHTML = "Telefone em caso de emergência: 190 (Polícia Militar)";
         document.getElementById("resultado-tel2").innerHTML = "Telefone da Central de Atendimento à Mulher: 180";
-        document.getElementById("resultado-email").innerHTML = "E-mail: ";
+        document.getElementById("resultado-email").innerHTML = "E-mail: mulheres.patosdeminas@pc.mg.gov.br";
         break;
 
         case "36":
-        document.getElementById("resultado-delegacia").innerHTML = "";
-        document.getElementById("resultado-endereco").innerHTML = "Endereço: ";
-        document.getElementById("resultado-cep").innerHTML = "CEP: ";
+        document.getElementById("resultado-delegacia").innerHTML = "Delegacia da Mulher em Patrocínio";
+        document.getElementById("resultado-endereco").innerHTML = "Endereço: Rua Heloísa Capuano, nº 816, Bairro Cidade Jardim, Patrocínio";
+        document.getElementById("resultado-cep").innerHTML = "CEP: 38747-508";
         document.getElementById("resultado-tel1").innerHTML = "Telefone em caso de emergência: 190 (Polícia Militar)";
         document.getElementById("resultado-tel2").innerHTML = "Telefone da Central de Atendimento à Mulher: 180";
-        document.getElementById("resultado-email").innerHTML = "E-mail: ";
+        document.getElementById("resultado-email").innerHTML = "E-mail: chcartorio@pcivil.mg.gov.br";
         break;
 
         case "37":
-        document.getElementById("resultado-delegacia").innerHTML = "";
-        document.getElementById("resultado-endereco").innerHTML = "Endereço: ";
+        document.getElementById("resultado-delegacia").innerHTML = "Delegacia da Mulher em Pedro Leopoldo";
+        document.getElementById("resultado-endereco").innerHTML = "Endereço: Rua Santa Luzia, nº 477, Bairro Centro, Pedro Leopoldo";
         document.getElementById("resultado-cep").innerHTML = "CEP: ";
         document.getElementById("resultado-tel1").innerHTML = "Telefone em caso de emergência: 190 (Polícia Militar)";
         document.getElementById("resultado-tel2").innerHTML = "Telefone da Central de Atendimento à Mulher: 180";
-        document.getElementById("resultado-email").innerHTML = "E-mail: ";
+        document.getElementById("resultado-email").innerHTML = "E-mail: aisp71.igesp@pc.mg.gov.br";
         break;
 
         case "38":
-        document.getElementById("resultado-delegacia").innerHTML = "";
-        document.getElementById("resultado-endereco").innerHTML = "Endereço: ";
-        document.getElementById("resultado-cep").innerHTML = "CEP: ";
+        document.getElementById("resultado-delegacia").innerHTML = "Delegacia da Mulher em Pirapora";
+        document.getElementById("resultado-endereco").innerHTML = "Endereço: Avenida Benjamin Constant, nº 183, Bairro Centro, Pirapora";
+        document.getElementById("resultado-cep").innerHTML = "CEP: 39270-000";
         document.getElementById("resultado-tel1").innerHTML = "Telefone em caso de emergência: 190 (Polícia Militar)";
         document.getElementById("resultado-tel2").innerHTML = "Telefone da Central de Atendimento à Mulher: 180";
-        document.getElementById("resultado-email").innerHTML = "E-mail: ";
+        document.getElementById("resultado-email").innerHTML = "E-mail: regional.pirapora@pc.mg.gov.br";
         break;
 
         case "39":
-        document.getElementById("resultado-delegacia").innerHTML = "";
-        document.getElementById("resultado-endereco").innerHTML = "Endereço: ";
-        document.getElementById("resultado-cep").innerHTML = "CEP: ";
+        document.getElementById("resultado-delegacia").innerHTML = "Delegacia da Mulher em Poços De Caldas";
+        document.getElementById("resultado-endereco").innerHTML = "Endereço: Avenida José Remígio Prezia, nº 492, Bairro Jardim dos Estados, Poços de Caldas";
+        document.getElementById("resultado-cep").innerHTML = "CEP: 37701-102";
         document.getElementById("resultado-tel1").innerHTML = "Telefone em caso de emergência: 190 (Polícia Militar)";
         document.getElementById("resultado-tel2").innerHTML = "Telefone da Central de Atendimento à Mulher: 180";
-        document.getElementById("resultado-email").innerHTML = "E-mail: ";
+        document.getElementById("resultado-email").innerHTML = "E-mail: cartorio.deam@pc.mg.gov.br";
         break;
 
         case "40":
-        document.getElementById("resultado-delegacia").innerHTML = "";
-        document.getElementById("resultado-endereco").innerHTML = "Endereço: ";
-        document.getElementById("resultado-cep").innerHTML = "CEP: ";
+        document.getElementById("resultado-delegacia").innerHTML = "Delegacia da Mulher em Ponte Nova";
+        document.getElementById("resultado-endereco").innerHTML = "Endereço: Rua Felisberto Leopoldo, nº 252, Bairro Santa Teresa, Ponte Nova";
+        document.getElementById("resultado-cep").innerHTML = "CEP: 35430-085";
         document.getElementById("resultado-tel1").innerHTML = "Telefone em caso de emergência: 190 (Polícia Militar)";
         document.getElementById("resultado-tel2").innerHTML = "Telefone da Central de Atendimento à Mulher: 180";
-        document.getElementById("resultado-email").innerHTML = "E-mail: ";
+        document.getElementById("resultado-email").innerHTML = "E-mail: dmeneguite@yahoo.com.br";
         break;
 
         case "41":
