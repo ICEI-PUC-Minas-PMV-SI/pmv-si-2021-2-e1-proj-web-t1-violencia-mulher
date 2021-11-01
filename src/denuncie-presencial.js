@@ -1,8 +1,9 @@
-document.getElementById("cidades").onclick = function() {
-    var cidade = document.getElementById("cidades").datalist.option.selected.value;
+function ExibeResultado() { 
+    var selecao = document.getElementById("selecaoCidade");
+    var cidade = selecao.options[selecao.selectedIndex].value;
 
-    switch (cidade.value) {
-        case "Alfenas":
+    switch (cidade) {
+        case "1":
         document.getElementById("resultado-delegacia").innerHTML = "Nome da delegacia";
         break;
 
