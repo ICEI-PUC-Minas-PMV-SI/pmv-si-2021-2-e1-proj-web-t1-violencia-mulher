@@ -93,93 +93,92 @@ function ExibeResultado() {
         break;
 
         case "11":
-        document.getElementById("resultado-delegacia").innerHTML = "";
-        document.getElementById("resultado-endereco").innerHTML = "Endereço: ";
-        document.getElementById("resultado-cep").innerHTML = "CEP: ";
+        document.getElementById("resultado-delegacia").innerHTML = "Delegacia da Mulher em Coronel Fabriciano";
+        document.getElementById("resultado-endereco").innerHTML = "Endereço: Rua Albert Scharlet, nº 213, Bairro Centro, Coronel Fabriciano";
+        document.getElementById("resultado-cep").innerHTML = "CEP: 35170-038";
         document.getElementById("resultado-tel1").innerHTML = "Telefone em caso de emergência: 190 (Polícia Militar)";
         document.getElementById("resultado-tel2").innerHTML = "Telefone da Central de Atendimento à Mulher: 180";
-        document.getElementById("resultado-email").innerHTML = "E-mail: ";
+        document.getElementById("resultado-email").innerHTML = "E-mail: delegaciademulheres.cf@hotmail.com";
         break;
 
         case "12":
-        document.getElementById("resultado-delegacia").innerHTML = "";
-        document.getElementById("resultado-endereco").innerHTML = "Endereço: ";
-        document.getElementById("resultado-cep").innerHTML = "CEP: ";
+        document.getElementById("resultado-delegacia").innerHTML = "Delegacia da Mulher em Diamantina";
+        document.getElementById("resultado-endereco").innerHTML = "Endereço: Avenida João Antunes de Oliveira, nº 284, Bairro Cazuza, Diamantina";
+        document.getElementById("resultado-cep").innerHTML = "CEP: 39100-000";
         document.getElementById("resultado-tel1").innerHTML = "Telefone em caso de emergência: 190 (Polícia Militar)";
         document.getElementById("resultado-tel2").innerHTML = "Telefone da Central de Atendimento à Mulher: 180";
-        document.getElementById("resultado-email").innerHTML = "E-mail: ";
+        document.getElementById("resultado-email").innerHTML = "E-mail: deam.diamantina@pc.mg.br";
         break;
 
         case "13":
-        document.getElementById("resultado-delegacia").innerHTML = "";
-        document.getElementById("resultado-endereco").innerHTML = "Endereço: ";
-        document.getElementById("resultado-cep").innerHTML = "CEP: ";
+        document.getElementById("resultado-delegacia").innerHTML = "Delegacia da Mulher em Divinópolis";
+        document.getElementById("resultado-endereco").innerHTML = "Endereço: Rua Henrique Galvão, nº 274, Bairro Espirito Santo, Divinópolis";
+        document.getElementById("resultado-cep").innerHTML = "CEP: 35500-256";
         document.getElementById("resultado-tel1").innerHTML = "Telefone em caso de emergência: 190 (Polícia Militar)";
         document.getElementById("resultado-tel2").innerHTML = "Telefone da Central de Atendimento à Mulher: 180";
-        document.getElementById("resultado-email").innerHTML = "E-mail: ";
+        document.getElementById("resultado-email").innerHTML = "E-mail: deam.gv@pc.mg.gov.br";
         break;
 
         case "14":
-        document.getElementById("resultado-delegacia").innerHTML = "";
-        document.getElementById("resultado-endereco").innerHTML = "Endereço: ";
-        document.getElementById("resultado-cep").innerHTML = "CEP: ";
+        document.getElementById("resultado-delegacia").innerHTML = "Delegacia Civil - Atendimento à Mulher em Formiga";
+        document.getElementById("resultado-endereco").innerHTML = "Endereço: Rua Zica Frade, nº 55, Formiga";
+        document.getElementById("resultado-cep").innerHTML = "CEP: 35570-000";
         document.getElementById("resultado-tel1").innerHTML = "Telefone em caso de emergência: 190 (Polícia Militar)";
         document.getElementById("resultado-tel2").innerHTML = "Telefone da Central de Atendimento à Mulher: 180";
-        document.getElementById("resultado-email").innerHTML = "E-mail: ";
+        document.getElementById("resultado-email").innerHTML = "E-mail: drpc.formiga@pc.mg.gov.br";
         break;
 
         case "15":
-        document.getElementById("resultado-delegacia").innerHTML = "";
-        document.getElementById("resultado-endereco").innerHTML = "Endereço: ";
-        document.getElementById("resultado-cep").innerHTML = "CEP: ";
+        document.getElementById("resultado-delegacia").innerHTML = "Delegacia da Mulher em Governador Valadares";
+        document.getElementById("resultado-endereco").innerHTML = "Endereço: Rua Pedro Lessa, nº 836, Bairro Lourdes, Governador Valadares";
+        document.getElementById("resultado-cep").innerHTML = "CEP: 35030-440";
         document.getElementById("resultado-tel1").innerHTML = "Telefone em caso de emergência: 190 (Polícia Militar)";
         document.getElementById("resultado-tel2").innerHTML = "Telefone da Central de Atendimento à Mulher: 180";
-        document.getElementById("resultado-email").innerHTML = "E-mail: ";
+        document.getElementById("resultado-email").innerHTML = "E-mail: informacao.deamibirite@gmail.com";
         break;
 
         case "16":
-        document.getElementById("resultado-delegacia").innerHTML = "";
-        document.getElementById("resultado-endereco").innerHTML = "Endereço: ";
-        document.getElementById("resultado-cep").innerHTML = "CEP: ";
+        document.getElementById("resultado-delegacia").innerHTML = "Delegacia Civil - Atendimento à Mulher em Guaxupé";
+        document.getElementById("resultado-endereco").innerHTML = "Endereço: Avenida Dona Floriana, nº 272, Bairro Centro, Guaxupé";
+        document.getElementById("resultado-cep").innerHTML = "CEP: 37800-000";
         document.getElementById("resultado-tel1").innerHTML = "Telefone em caso de emergência: 190 (Polícia Militar)";
         document.getElementById("resultado-tel2").innerHTML = "Telefone da Central de Atendimento à Mulher: 180";
-        document.getElementById("resultado-email").innerHTML = "E-mail: ";
+        document.getElementById("resultado-email").innerHTML = "E-mail: cpd.guaxupe@pc.mg.gov.br";
         break;
 
         case "17":
-        document.getElementById("resultado-delegacia").innerHTML = "";
-        document.getElementById("resultado-endereco").innerHTML = "Endereço: ";
-        document.getElementById("resultado-cep").innerHTML = "CEP: ";
+        document.getElementById("resultado-delegacia").innerHTML = "Delegacia da Mulher em Ibirite";
+        document.getElementById("resultado-endereco").innerHTML = "Endereço: Avenida Otacílio Negrão de Lima, nº 468, Bairro Aluoto, Ibirité";
+        document.getElementById("resultado-cep").innerHTML = "CEP: 32400-000";
         document.getElementById("resultado-tel1").innerHTML = "Telefone em caso de emergência: 190 (Polícia Militar)";
         document.getElementById("resultado-tel2").innerHTML = "Telefone da Central de Atendimento à Mulher: 180";
-        document.getElementById("resultado-email").innerHTML = "E-mail: ";
+        document.getElementById("resultado-email").innerHTML = "E-mail: liathayde1@hotmail.com";
         break;
 
         case "18":
-        document.getElementById("resultado-delegacia").innerHTML = "";
-        document.getElementById("resultado-endereco").innerHTML = "Endereço: ";
-        document.getElementById("resultado-cep").innerHTML = "CEP: ";
+        document.getElementById("resultado-delegacia").innerHTML = "Delegacia da Mulher em Ipatinga";
+        document.getElementById("resultado-endereco").innerHTML = "Endereço: Rua Pedras Preciosas, nº 775, Bairro Iguaçu, Ipatinga";
+        document.getElementById("resultado-cep").innerHTML = "CEP: 35162-106";
         document.getElementById("resultado-tel1").innerHTML = "Telefone em caso de emergência: 190 (Polícia Militar)";
         document.getElementById("resultado-tel2").innerHTML = "Telefone da Central de Atendimento à Mulher: 180";
-        document.getElementById("resultado-email").innerHTML = "E-mail: ";
         break;
 
         case "19":
-        document.getElementById("resultado-delegacia").innerHTML = "";
-        document.getElementById("resultado-endereco").innerHTML = "Endereço: ";
-        document.getElementById("resultado-cep").innerHTML = "CEP: ";
+        document.getElementById("resultado-delegacia").innerHTML = "Delegacia da Mulher em Itabira";
+        document.getElementById("resultado-endereco").innerHTML = "Endereço: Avenida Carlos Drumond de Andrade, Bairro Centro, Itabira";
+        document.getElementById("resultado-cep").innerHTML = "CEP: 35900-024";
         document.getElementById("resultado-tel1").innerHTML = "Telefone em caso de emergência: 190 (Polícia Militar)";
         document.getElementById("resultado-tel2").innerHTML = "Telefone da Central de Atendimento à Mulher: 180";
-        document.getElementById("resultado-email").innerHTML = "E-mail: ";
+        document.getElementById("resultado-email").innerHTML = "E-mail: regional.itabira@pc.mg.gov.br";
         break;
 
         case "20":
-        document.getElementById("resultado-delegacia").innerHTML = "";
-        document.getElementById("resultado-endereco").innerHTML = "Endereço: ";
-        document.getElementById("resultado-cep").innerHTML = "CEP: ";
+        document.getElementById("resultado-delegacia").innerHTML = "Delegacia Civil - Atendimento à Mulher em Itabirito";
+        document.getElementById("resultado-endereco").innerHTML = "Endereço: Rua Emídio Quites, nº 136, Bairro Praia, Itabirito";
+        document.getElementById("resultado-cep").innerHTML = "CEP: 35450-000";
         document.getElementById("resultado-tel1").innerHTML = "Telefone em caso de emergência: 190 (Polícia Militar)";
         document.getElementById("resultado-tel2").innerHTML = "Telefone da Central de Atendimento à Mulher: 180";
-        document.getElementById("resultado-email").innerHTML = "E-mail: ";
+        document.getElementById("resultado-email").innerHTML = "E-mail: ronni.fonseca@pc.mg.gov.br";
         break;
 
         case "21":
