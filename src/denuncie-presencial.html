@@ -57,11 +57,8 @@
             <div id="conteudo">
                 <div class="container text-center">
                     <p class="title-page">Denúncia presencial / telefone</p><br>
-                    <p class="selecione-cidade">Digite o nome da sua cidade:</p> 
-                    <select id="selecaoCidade" class="form-select d-inline" aria-label="Default select example">
-                        <!--<form action="" style="display: inline;">
-                        <input list="cidades" class="lista-cidades">
-                        <datalist id="cidades">-->
+                    <p class="selecione-cidade">Selecione sua cidade:</p> 
+                    <select id="selecaoCidade" class="lista-cidades d-inline" aria-label="Default select example">
                         <option value=""></option>
                         <option value="1">Alfenas</option>
                         <option value="2">Araguari</option>
@@ -121,15 +118,13 @@
                         <option value="56">Unaí</option>
                         <option value="57">Varginha</option>
                         <option value="58">Vespasiano</option>
-                    <!--</datalist>-->
-                    <input type="button" value="Ok" onclick="ExibeResultado();">   
+                 
+                    <input type="button" class= "button-cidade" value="Ok" onclick="ExibeResultado();"> 
+                    <br>
+                    <br>
                     <p id="resultado-delegacia"></p>
-                </select>  
-                    
-                    <!--<input type="button" value="Ok" onclick="ExibeResultado();">-->
-                    <!--</form>-->                
-                
-               
+                </select> 
+                                  
                 </div>
             </div>
         </main>
