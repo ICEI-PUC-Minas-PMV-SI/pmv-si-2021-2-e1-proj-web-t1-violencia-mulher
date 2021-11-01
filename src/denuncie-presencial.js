@@ -524,8 +524,6 @@ function ExibeResultado() {
 
         default: "Sua cidade não consta em nossos registros";
     }
-
-
 }
     
 
