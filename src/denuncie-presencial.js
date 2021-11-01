@@ -361,93 +361,93 @@ function ExibeResultado() {
         break;
 
         case "41":
-        document.getElementById("resultado-delegacia").innerHTML = "";
-        document.getElementById("resultado-endereco").innerHTML = "Endereço: ";
-        document.getElementById("resultado-cep").innerHTML = "CEP: ";
+        document.getElementById("resultado-delegacia").innerHTML = "Delegacia da Mulher em Pouso Alegre";
+        document.getElementById("resultado-endereco").innerHTML = "Endereço: Rua Silvestre Ferraz, nº 226, Bairro Centro, Pouso Alegre";
+        document.getElementById("resultado-cep").innerHTML = "CEP: 37550-126";
         document.getElementById("resultado-tel1").innerHTML = "Telefone em caso de emergência: 190 (Polícia Militar)";
         document.getElementById("resultado-tel2").innerHTML = "Telefone da Central de Atendimento à Mulher: 180";
-        document.getElementById("resultado-email").innerHTML = "E-mail: ";
+        document.getElementById("resultado-email").innerHTML = "E-mail: mulheres@pousoalegre.pcivil.mg.gov.br";
         break;
 
         case "42":
-        document.getElementById("resultado-delegacia").innerHTML = "";
-        document.getElementById("resultado-endereco").innerHTML = "Endereço: ";
-        document.getElementById("resultado-cep").innerHTML = "CEP: ";
+        document.getElementById("resultado-delegacia").innerHTML = "Delegacia da Mulher em Ribeirão Das Neves";
+        document.getElementById("resultado-endereco").innerHTML = "Endereço: Rua Luísa Augusta Guimarães, nº 150, Bairro São Pedro, Ribeirão das Neves";
+        document.getElementById("resultado-cep").innerHTML = "CEP: 33805-558";
         document.getElementById("resultado-tel1").innerHTML = "Telefone em caso de emergência: 190 (Polícia Militar)";
         document.getElementById("resultado-tel2").innerHTML = "Telefone da Central de Atendimento à Mulher: 180";
-        document.getElementById("resultado-email").innerHTML = "E-mail: ";
+        document.getElementById("resultado-email").innerHTML = "E-mail: deopf.neves@gmail.com";
         break;
 
         case "43":
-        document.getElementById("resultado-delegacia").innerHTML = "";
-        document.getElementById("resultado-endereco").innerHTML = "Endereço: ";
-        document.getElementById("resultado-cep").innerHTML = "CEP: ";
+        document.getElementById("resultado-delegacia").innerHTML = "Delegacia da Mulher em Sabará";
+        document.getElementById("resultado-endereco").innerHTML = "Endereço: Avenida João Pinheiro da Silva, nº 25, Bairro Esplanada, Sabará";
+        document.getElementById("resultado-cep").innerHTML = "CEP: 34515-410";
         document.getElementById("resultado-tel1").innerHTML = "Telefone em caso de emergência: 190 (Polícia Militar)";
         document.getElementById("resultado-tel2").innerHTML = "Telefone da Central de Atendimento à Mulher: 180";
-        document.getElementById("resultado-email").innerHTML = "E-mail: ";
+        document.getElementById("resultado-email").innerHTML = "E-mail: deamsabara@gmail.com";
         break;
 
         case "44":
-        document.getElementById("resultado-delegacia").innerHTML = "";
-        document.getElementById("resultado-endereco").innerHTML = "Endereço: ";
-        document.getElementById("resultado-cep").innerHTML = "CEP: ";
+        document.getElementById("resultado-delegacia").innerHTML = "Delegacia da Mulher em Santa Luzia";
+        document.getElementById("resultado-endereco").innerHTML = "Endereço: Avenida Brasília, nº 3550, Bairro São Benedito Duquesa I, Santa Luzia";
+        document.getElementById("resultado-cep").innerHTML = "CEP: 33110-580";
         document.getElementById("resultado-tel1").innerHTML = "Telefone em caso de emergência: 190 (Polícia Militar)";
         document.getElementById("resultado-tel2").innerHTML = "Telefone da Central de Atendimento à Mulher: 180";
-        document.getElementById("resultado-email").innerHTML = "E-mail: ";
+        document.getElementById("resultado-email").innerHTML = "E-mail: deam.santaluzia@policiacivil.mg.gov.br";
         break;
 
         case "45":
-        document.getElementById("resultado-delegacia").innerHTML = "";
-        document.getElementById("resultado-endereco").innerHTML = "Endereço: ";
-        document.getElementById("resultado-cep").innerHTML = "CEP: ";
+        document.getElementById("resultado-delegacia").innerHTML = "Delegacia Civil - Atendimento à Mulher em Frutal";
+        document.getElementById("resultado-endereco").innerHTML = "Endereço: Rua Olávo Bilac, nº 225, Bairro Nossa Senhora de Fátima, Santa Maria";
+        document.getElementById("resultado-cep").innerHTML = "CEP: 97015-440";
         document.getElementById("resultado-tel1").innerHTML = "Telefone em caso de emergência: 190 (Polícia Militar)";
         document.getElementById("resultado-tel2").innerHTML = "Telefone da Central de Atendimento à Mulher: 180";
-        document.getElementById("resultado-email").innerHTML = "E-mail: ";
+        document.getElementById("resultado-email").innerHTML = "E-mail: regional.frutal@pc.mg.gov.br";
         break;
 
         case "46":
-        document.getElementById("resultado-delegacia").innerHTML = "";
-        document.getElementById("resultado-endereco").innerHTML = "Endereço: ";
-        document.getElementById("resultado-cep").innerHTML = "CEP: ";
+        document.getElementById("resultado-delegacia").innerHTML = "Delegacia da Mulher em Santos Dumont";
+        document.getElementById("resultado-endereco").innerHTML = "Endereço: Avenida Presidente Getúlio Vargas, nº 330, Bairro Centro, Santos Dumont";
+        document.getElementById("resultado-cep").innerHTML = "CEP: 36240-000";
         document.getElementById("resultado-tel1").innerHTML = "Telefone em caso de emergência: 190 (Polícia Militar)";
         document.getElementById("resultado-tel2").innerHTML = "Telefone da Central de Atendimento à Mulher: 180";
-        document.getElementById("resultado-email").innerHTML = "E-mail: ";
+        document.getElementById("resultado-email").innerHTML = "E-mail: kenia@barbacena.pcivil.mg.gov.br";
         break;
 
         case "47":
-        document.getElementById("resultado-delegacia").innerHTML = "";
-        document.getElementById("resultado-endereco").innerHTML = "Endereço: ";
-        document.getElementById("resultado-cep").innerHTML = "CEP: ";
+        document.getElementById("resultado-delegacia").innerHTML = "Delegacia da Mulher em São João Del Rei";
+        document.getElementById("resultado-endereco").innerHTML = "Endereço: Avenida Leite de Castro, nº 1322, Bairro Fábricas, São João Del Rei";
+        document.getElementById("resultado-cep").innerHTML = "CEP: 36301-180";
         document.getElementById("resultado-tel1").innerHTML = "Telefone em caso de emergência: 190 (Polícia Militar)";
         document.getElementById("resultado-tel2").innerHTML = "Telefone da Central de Atendimento à Mulher: 180";
-        document.getElementById("resultado-email").innerHTML = "E-mail: ";
+        document.getElementById("resultado-email").innerHTML = "E-mail: mulher@saojoaodelrei.policiacivil.mg.gov.br";
         break;
 
         case "48":
-        document.getElementById("resultado-delegacia").innerHTML = "";
-        document.getElementById("resultado-endereco").innerHTML = "Endereço: ";
-        document.getElementById("resultado-cep").innerHTML = "CEP: ";
+        document.getElementById("resultado-delegacia").innerHTML = "Delegacia da Mulher em São Lourenço";
+        document.getElementById("resultado-endereco").innerHTML = "Endereço: Avenida Damião Junqueira de Souza, nº 167, São Lourenço";
+        document.getElementById("resultado-cep").innerHTML = "CEP: 37470-000";
         document.getElementById("resultado-tel1").innerHTML = "Telefone em caso de emergência: 190 (Polícia Militar)";
         document.getElementById("resultado-tel2").innerHTML = "Telefone da Central de Atendimento à Mulher: 180";
-        document.getElementById("resultado-email").innerHTML = "E-mail: ";
+        document.getElementById("resultado-email").innerHTML = "E-mail: regional.saolourenco@gmail.com";
         break;
 
         case "49":
-        document.getElementById("resultado-delegacia").innerHTML = "";
-        document.getElementById("resultado-endereco").innerHTML = "Endereço: ";
-        document.getElementById("resultado-cep").innerHTML = "CEP: ";
+        document.getElementById("resultado-delegacia").innerHTML = "Delegacia da Mulher em São Sebastião Do Paraíso";
+        document.getElementById("resultado-endereco").innerHTML = "Endereço: Avenida Dárcio Cantieri, nº 1879, Bairro Jardim Coolapa, São Sebastião do Paraíso";
+        document.getElementById("resultado-cep").innerHTML = "CEP: 37950-000";
         document.getElementById("resultado-tel1").innerHTML = "Telefone em caso de emergência: 190 (Polícia Militar)";
         document.getElementById("resultado-tel2").innerHTML = "Telefone da Central de Atendimento à Mulher: 180";
-        document.getElementById("resultado-email").innerHTML = "E-mail: ";
+        document.getElementById("resultado-email").innerHTML = "E-mail: cartorioregional.ssparaiso@pc.mg.gov.br";
         break;
 
         case "50":
-        document.getElementById("resultado-delegacia").innerHTML = "";
-        document.getElementById("resultado-endereco").innerHTML = "Endereço: ";
-        document.getElementById("resultado-cep").innerHTML = "CEP: ";
+        document.getElementById("resultado-delegacia").innerHTML = "Delegacia Civil - Atendimento à Mulher em Sete Lagoas";
+        document.getElementById("resultado-endereco").innerHTML = "Endereço: Rua Jovelino Lanza, nº 1316, Bairro Jardim Arizona, Sete lagoas";
+        document.getElementById("resultado-cep").innerHTML = "CEP: 35700-353";
         document.getElementById("resultado-tel1").innerHTML = "Telefone em caso de emergência: 190 (Polícia Militar)";
         document.getElementById("resultado-tel2").innerHTML = "Telefone da Central de Atendimento à Mulher: 180";
-        document.getElementById("resultado-email").innerHTML = "E-mail: ";
+        document.getElementById("resultado-email").innerHTML = "E-mail: regional.setelagoas@pc.mg.gov.br";
         break;
 
         case "51":
