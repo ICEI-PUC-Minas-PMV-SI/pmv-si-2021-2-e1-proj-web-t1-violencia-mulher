@@ -14,6 +14,8 @@
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css" integrity="sha384-zCbKRCUGaJDkqS1kPbPd7TveP5iyJE0EjAuZQTgFLD2ylzuqKfdKlfG/eSrtxUkn" crossorigin="anonymous">
         <!-- CSS da página -->
         <link rel="stylesheet" href="css/style.css">
+        <!-- CSS da página denuncie -->
+        <link rel="stylesheet" href="css/denuncie.css">
         <!-- CSS Ícone lupa -->
         <script src="https://kit.fontawesome.com/16bd7ee685.js" crossorigin="anonymous"></script>
     </head>
@@ -52,7 +54,81 @@
             <!-- Conteúdo -->
             <div id="conteudo">
                 <div class="container">
-    
+                <script src="rede-apoio.js"></script>
+                <div id="conteudo">
+                <div class="container text-center">
+                    <p class="title-page">Redes de Apoio</p><br>
+                    <p class="selecione-cidade">Selecione sua cidade:</p> 
+                    <select id="selecaoCidade" class="lista-cidades d-inline" aria-label="Default select example">
+                        <option value=""></option>
+                        <option value="1">Alfenas</option>
+                        <option value="2">Araguari</option>
+                        <option value="3">Araxá</option>
+                        <option value="4">Barbacena</option>
+                        <option value="5">Belo Horizonte</option>
+                        <option value="6">Betim</option>
+                        <option value="7">Caratinga</option>
+                        <option value="8">Cataguases</option>
+                        <option value="9">Conselheiro Lafaiete</option>
+                        <option value="10">Contagem</option>
+                        <option value="11">Coronel Fabriciano</option>
+                        <option value="12">Diamantina</option>
+                        <option value="13">Divinópolis</option>
+                        <option value="14">Formiga</option>
+                        <option value="15">Governador Valadares</option>
+                        <option value="16">Guaxupé</option>
+                        <option value="17">Ibirité</option>
+                        <option value="18">Ipatinga</option>
+                        <option value="19">Itabira</option>
+                        <option value="20">Itabirito</option>
+                        <option value="21">Itajubá</option>
+                        <option value="22">Itaúna</option>
+                        <option value="23">Ituiutaba</option>
+                        <option value="24">Janaúba</option>
+                        <option value="25">Januária</option>
+                        <option value="26">João Monlevade</option>
+                        <option value="27">Juiz de Fora</option>
+                        <option value="28">Lavras</option>
+                        <option value="29">Manhuaçu</option>
+                        <option value="30">Montes Claros</option>
+                        <option value="31">Muriaé</option>
+                        <option value="32">Nova Lima</option>
+                        <option value="33">Pará de Minas</option>
+                        <option value="34">Passos</option>
+                        <option value="35">Patos de Minas</option>
+                        <option value="36">Patrocínio</option>
+                        <option value="37">Pedro Leopoldo</option>
+                        <option value="38">Pirapora</option>
+                        <option value="39">Poços de Caldas</option>
+                        <option value="40">Ponte Nova</option>
+                        <option value="41">Pouso Alegre</option>
+                        <option value="42">Ribeirão das Neves</option>
+                        <option value="43">Sabará</option>
+                        <option value="44">Santa Luzia</option>
+                        <option value="45">Santa Maria</option>
+                        <option value="46">Santos Dumont</option>
+                        <option value="47">São João Del Rei</option>
+                        <option value="48">São Lourenço</option>
+                        <option value="49">São Sebastião do Paraíso</option>
+                        <option value="50">Sete Lagoas</option>
+                        <option value="51">Teófilo Otoni</option>
+                        <option value="52">Três Corações</option>
+                        <option value="53">Ubá</option>
+                        <option value="54">Uberaba</option>
+                        <option value="55">Uberlândia</option>
+                        <option value="56">Unaí</option>
+                        <option value="57">Varginha</option>
+                        <option value="58">Vespasiano</option>
+                 
+                    <input type="button" class= "button-cidade" value="Ok" onclick="ExibeResultado();"> 
+                    <br>
+                    <br>
+                    <p id="resultado-instituicao"></p>
+                    <p id="resultado-endereco"></p>
+                    <p id="resultado-site"></p>
+                    <p id="resultado-email"></p>
+                    <p id="resultado-tel"></p>                    
+                </select> 
                 </div>
             </div>
         </main>
