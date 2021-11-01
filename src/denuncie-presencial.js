@@ -451,75 +451,75 @@ function ExibeResultado() {
         break;
 
         case "51":
-        document.getElementById("resultado-delegacia").innerHTML = "";
-        document.getElementById("resultado-endereco").innerHTML = "Endereço: ";
-        document.getElementById("resultado-cep").innerHTML = "CEP: ";
+        document.getElementById("resultado-delegacia").innerHTML = "Delegacia da Mulher em Teófilo Otoni";
+        document.getElementById("resultado-endereco").innerHTML = "Endereço: Rua Lauro Viêira Otoni, nº 20, Bairro São Diogo, Teófilo Otoni";
+        document.getElementById("resultado-cep").innerHTML = "CEP: 39803-002";
         document.getElementById("resultado-tel1").innerHTML = "Telefone em caso de emergência: 190 (Polícia Militar)";
         document.getElementById("resultado-tel2").innerHTML = "Telefone da Central de Atendimento à Mulher: 180";
-        document.getElementById("resultado-email").innerHTML = "E-mail: ";
+        document.getElementById("resultado-email").innerHTML = "E-mail: veronicazimmere@yahoo.com.br";
         break;
 
         case "52":
-        document.getElementById("resultado-delegacia").innerHTML = "";
-        document.getElementById("resultado-endereco").innerHTML = "Endereço: ";
-        document.getElementById("resultado-cep").innerHTML = "CEP: ";
+        document.getElementById("resultado-delegacia").innerHTML = "Delegacia da Mulher em Três Corações";
+        document.getElementById("resultado-endereco").innerHTML = "Endereço: Avenida Deputado Renato Azeredo, nº 1360, Bairro Novo Horizonte, Três Corações";
+        document.getElementById("resultado-cep").innerHTML = "CEP: 37410-850";
         document.getElementById("resultado-tel1").innerHTML = "Telefone em caso de emergência: 190 (Polícia Militar)";
         document.getElementById("resultado-tel2").innerHTML = "Telefone da Central de Atendimento à Mulher: 180";
-        document.getElementById("resultado-email").innerHTML = "E-mail: ";
+        document.getElementById("resultado-email").innerHTML = "E-mail: cartorio.tcoracoes@pc.mg.gov.br";
         break;
 
         case "53":
-        document.getElementById("resultado-delegacia").innerHTML = "";
-        document.getElementById("resultado-endereco").innerHTML = "Endereço: ";
-        document.getElementById("resultado-cep").innerHTML = "CEP: ";
+        document.getElementById("resultado-delegacia").innerHTML = "Delegacia da Mulher em Ubá";
+        document.getElementById("resultado-endereco").innerHTML = "Endereço: Avenida dos Ex-Combatentes, nº 1333, Ubá";
+        document.getElementById("resultado-cep").innerHTML = "CEP: 36500-000";
         document.getElementById("resultado-tel1").innerHTML = "Telefone em caso de emergência: 190 (Polícia Militar)";
         document.getElementById("resultado-tel2").innerHTML = "Telefone da Central de Atendimento à Mulher: 180";
-        document.getElementById("resultado-email").innerHTML = "E-mail: ";
+        document.getElementById("resultado-email").innerHTML = "E-mail: depolmulheres.uba@pc.mg.gov.br";
         break;
 
         case "54":
-        document.getElementById("resultado-delegacia").innerHTML = "";
-        document.getElementById("resultado-endereco").innerHTML = "Endereço: ";
-        document.getElementById("resultado-cep").innerHTML = "CEP: ";
+        document.getElementById("resultado-delegacia").innerHTML = "Delegacia da Mulher em Uberaba";
+        document.getElementById("resultado-endereco").innerHTML = "Endereço: Rua Amaro Ferreira, nº 221, Bairro Fabrício, Uberaba";
+        document.getElementById("resultado-cep").innerHTML = "CEP: 38065-170";
         document.getElementById("resultado-tel1").innerHTML = "Telefone em caso de emergência: 190 (Polícia Militar)";
         document.getElementById("resultado-tel2").innerHTML = "Telefone da Central de Atendimento à Mulher: 180";
-        document.getElementById("resultado-email").innerHTML = "E-mail: ";
+        document.getElementById("resultado-email").innerHTML = "E-mail: elisabetecardoso@uberabadigital.com.br";
         break;
 
         case "55":
-        document.getElementById("resultado-delegacia").innerHTML = "";
-        document.getElementById("resultado-endereco").innerHTML = "Endereço: ";
-        document.getElementById("resultado-cep").innerHTML = "CEP: ";
+        document.getElementById("resultado-delegacia").innerHTML = "Delegacia da Mulher em Uberlândia";
+        document.getElementById("resultado-endereco").innerHTML = "Endereço: Avenida Nicomedes Alves dos Santos, nº 728, Bairro Morada da Colina, Uberlândia";
+        document.getElementById("resultado-cep").innerHTML = "CEP: 38411-106";
         document.getElementById("resultado-tel1").innerHTML = "Telefone em caso de emergência: 190 (Polícia Militar)";
         document.getElementById("resultado-tel2").innerHTML = "Telefone da Central de Atendimento à Mulher: 180";
-        document.getElementById("resultado-email").innerHTML = "E-mail: ";
+        document.getElementById("resultado-email").innerHTML = "E-mail: deam.uberlandia@policiacivil.mg.gov.br";
         break;
 
         case "56":
-        document.getElementById("resultado-delegacia").innerHTML = "";
-        document.getElementById("resultado-endereco").innerHTML = "Endereço: ";
-        document.getElementById("resultado-cep").innerHTML = "CEP: ";
+        document.getElementById("resultado-delegacia").innerHTML = "Delegacia da Mulher em Unaí";
+        document.getElementById("resultado-endereco").innerHTML = "Endereço: Rua Alba Gonzaga, nº 54, Bairro Centro, Unaí";
+        document.getElementById("resultado-cep").innerHTML = "CEP: 38610-000";
         document.getElementById("resultado-tel1").innerHTML = "Telefone em caso de emergência: 190 (Polícia Militar)";
         document.getElementById("resultado-tel2").innerHTML = "Telefone da Central de Atendimento à Mulher: 180";
-        document.getElementById("resultado-email").innerHTML = "E-mail: ";
+        document.getElementById("resultado-email").innerHTML = "E-mail: valdete@pc.mg.gov.br";
         break;
 
         case "57":
-        document.getElementById("resultado-delegacia").innerHTML = "";
-        document.getElementById("resultado-endereco").innerHTML = "Endereço: ";
-        document.getElementById("resultado-cep").innerHTML = "CEP: ";
+        document.getElementById("resultado-delegacia").innerHTML = "Delegacia da Mulher em Varginha";
+        document.getElementById("resultado-endereco").innerHTML = "Endereço: Praça João Gonzaga, nº 91, Bairro Centro, Varginha";
+        document.getElementById("resultado-cep").innerHTML = "CEP: 37002-380";
         document.getElementById("resultado-tel1").innerHTML = "Telefone em caso de emergência: 190 (Polícia Militar)";
         document.getElementById("resultado-tel2").innerHTML = "Telefone da Central de Atendimento à Mulher: 180";
-        document.getElementById("resultado-email").innerHTML = "E-mail: ";
+        document.getElementById("resultado-email").innerHTML = "E-mail: cartorio@varginha.pc.mg.gov.br";
         break;
 
         case "58":
-        document.getElementById("resultado-delegacia").innerHTML = "";
-        document.getElementById("resultado-endereco").innerHTML = "Endereço: ";
-        document.getElementById("resultado-cep").innerHTML = "CEP: ";
+        document.getElementById("resultado-delegacia").innerHTML = "Delegacia da Mulher em Vespasiano";
+        document.getElementById("resultado-endereco").innerHTML = "Endereço: Rua Modestino Fonseca Cota, nº 369, Bairro Cond. Mangueiras, Vespasiano";
+        document.getElementById("resultado-cep").innerHTML = "CEP: 33200-000";
         document.getElementById("resultado-tel1").innerHTML = "Telefone em caso de emergência: 190 (Polícia Militar)";
         document.getElementById("resultado-tel2").innerHTML = "Telefone da Central de Atendimento à Mulher: 180";
-        document.getElementById("resultado-email").innerHTML = "E-mail: ";
+        document.getElementById("resultado-email").innerHTML = "E-mail: gabinete.vespasiano@policiacivil.mg.gov.br";
         break;
 
         default: "Sua cidade não consta em nossos registros";
