@@ -12,6 +12,8 @@
         
         <!-- CSS Bootstrap -->
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css" integrity="sha384-zCbKRCUGaJDkqS1kPbPd7TveP5iyJE0EjAuZQTgFLD2ylzuqKfdKlfG/eSrtxUkn" crossorigin="anonymous">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.2/dist/css/bootstrap.min.css" rel="stylesheet">
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.2/dist/js/bootstrap.bundle.min.js"></script>
         <!-- CSS da página -->
         <link rel="stylesheet" href="css/style.css">
         <!-- CSS Ícone lupa -->
@@ -31,7 +33,6 @@
                     </a>
                     <!-- Menu -->
                     <ul class="navbar-nav">
-                        
                         <li class="nav-item"><a href="quem-somos.html" class="btn">Quem somos</a></li>
                         <li class="nav-item"><a href="legislacao.html" class="btn">Legislação</a></li>
                         <li class="nav-item"><a href="redes-apoio.html" class="btn">Redes de apoio</a></li>
@@ -51,10 +52,93 @@
         <main>
             <!-- Conteúdo -->
             <div id="conteudo">
-                <div class="container">
-                    <p>Conteúdo a ser desenvolvido</p>
+                <div class="container text-center">
+                    <p class="title-page">Tipos de Violência</p> 
+                    <P class="lead text-muted">A Lei Maria da Penha (Lei nº 11.340, de 7 de agosto de 2006) define cinco formas de violência doméstica:</P>
+                </div>
+                
+                <br>
+                
+                <!-- Nav pills -->
+                <div class="container text-center">
+                    <ul class="nav nav-pills justify-content-center">
+                        <li class="nav-item ">
+                            <a class="nav-link active" data-bs-toggle="pill" href="#violencia1">Violência Física</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" data-bs-toggle="pill" href="#violencia2">Violência moral</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" data-bs-toggle="pill" href="#violencia3">Violência patrimonial</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" data-bs-toggle="pill" href="#violencia4">Violência psicológica</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" data-bs-toggle="pill" href="#violencia5">Violência sexual</a>
+                        </li>
+                    </ul>
+            
+                    <!-- Tab panes -->
+                    <div class="tab-content">
+                        <div class="tab-pane container active" id="violencia1">
+                            <p class="lead text-muted">Ações que ofendam a integridade ou a saúde do corpo como:</p>
+                                <ul class="list-group list-group-flush lead text-muted">
+                                    <li class="list-group-item">Bater, espancar ou empurrar</li>
+                                    <li class="list-group-item">Atirar objetos na direção da mulher</li>
+                                    <li class="list-group-item">Sacudir</li>
+                                    <li class="list-group-item">Chutar</li>
+                                    <li class="list-group-item">Apertar</li>
+                                    <li class="list-group-item">Queimar</li>
+                                    <li class="list-group-item">Cortar ou ferir</li>
+                                </ul>
+                        </div>
+                        <div class="tab-pane container fade" id="violencia2">
+                            <p class="lead text-muted">Ações que desonram a mulher diante da sociedade:</p>
+                                <ul class="list-group list-group-flush lead text-muted">
+                                    <li class="list-group-item">Mentiras ou ofensas</li>
+                                    <li class="list-group-item">Acusá-la publicamente de ter praticado crime</li>
+                                    <li class="list-group-item">Xingar diante dos amigos</li>
+                                    <li class="list-group-item">Acusar de algo que não fez</li>
+                                    <li class="list-group-item">Falar coisas que não são verdades sobre ela para os outros</li>
+                                </ul>
+                        </div>
+                        <div class="tab-pane container fade" id="violencia3">
+                            <p class="lead text-muted">Ações que envolvam a retirada de dinheiro conquistado pela mulher <br> com seu próprio trabalho:</p>
+                                <ul class="list-group list-group-flush lead text-muted">
+                                    <li class="list-group-item">Destruir qualquer patrimônio</li>
+                                    <li class="list-group-item">Deixar de pagar pensão alimentícia</li>
+                                    <li class="list-group-item">Controlar dinheiro</li>
+                                    <li class="list-group-item">Privar de recursos ou valores econômicos</li>
+                                </ul>
+                        </div>
+                        <div class="tab-pane container fade" id="violencia4">
+                            <p class="lead text-muted">Ações que causam danos emocionais e diminuição da autoestima <br> que visem degradar ou controlar seus comportamentos:</p>
+                                <ul class="list-group list-group-flush lead text-muted">
+                                    <li class="list-group-item">Crenças e decisões</li>
+                                    <li class="list-group-item">Ameaça</li>
+                                    <li class="list-group-item">Constrangimento, humilhação e ridicularização</li>
+                                    <li class="list-group-item">Isolamento, vigilância constante e limitação do direito de ir e vir</li>
+                                    <li class="list-group-item">Apertar</li>
+                                    <li class="list-group-item">Queimar</li>
+                                <li class="list-group-item">Qualquer meio que traga prejuízo à saúde psicológica e à autodeterminação</li>
+                                </ul>
+                        </div>
+                        <div class="tab-pane container fade" id="violencia5">
+                            <p class="lead text-muted">Ações que forcem a mulher a fazer, manter ou presenciar ato sexual:</p>
+                                <ul class="list-group list-group-flush lead text-muted">
+                                    <li class="list-group-item">Por meio de força</li>
+                                    <li class="list-group-item">Ameaça</li>
+                                    <li class="list-group-item">Impedir o uso de métodos contraceptivos</li>
+                                    <li class="list-group-item">Forçar a mulher a realizar aborto</li>
+                                    <li class="list-group-item">Forçar matrimônio, gravidez ou produtituição</li>
+                                    <li class="list-group-item">Anular ou limitar direitos sexuais ou reprodutivos</li>
+                                </ul>    
+                        </div>
+                    </div>
                 </div>
             </div>
+
         </main>
 
         <!-- Rodapé -->
