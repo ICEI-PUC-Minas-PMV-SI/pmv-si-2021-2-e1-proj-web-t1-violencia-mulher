@@ -61,6 +61,10 @@ a.btn-denuncie:hover {
     font-weight: bold;
 }
 
+#resultado-instituicao {
+    font-weight: bold;
+}
+
 /* ajustes responsivos */
 @media screen and (max-width: 991px) {
     p.title-page {
