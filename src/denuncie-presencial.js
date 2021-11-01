@@ -182,93 +182,92 @@ function ExibeResultado() {
         break;
 
         case "21":
-        document.getElementById("resultado-delegacia").innerHTML = "";
-        document.getElementById("resultado-endereco").innerHTML = "Endereço: ";
-        document.getElementById("resultado-cep").innerHTML = "CEP: ";
+        document.getElementById("resultado-delegacia").innerHTML = "Delegacia da Mulher em Itajubá";
+        document.getElementById("resultado-endereco").innerHTML = "Endereço: Rua Antônio Simão Mauad, nº 149 e 303 - 3º Andar, Bairro Centro, Itajubá";
+        document.getElementById("resultado-cep").innerHTML = "CEP: 37500-180";
         document.getElementById("resultado-tel1").innerHTML = "Telefone em caso de emergência: 190 (Polícia Militar)";
         document.getElementById("resultado-tel2").innerHTML = "Telefone da Central de Atendimento à Mulher: 180";
-        document.getElementById("resultado-email").innerHTML = "E-mail: ";
+        document.getElementById("resultado-email").innerHTML = "E-mail: deam.itajuba@pc.mg.gov.br";
         break;
 
         case "22":
-        document.getElementById("resultado-delegacia").innerHTML = "";
-        document.getElementById("resultado-endereco").innerHTML = "Endereço: ";
-        document.getElementById("resultado-cep").innerHTML = "CEP: ";
+        document.getElementById("resultado-delegacia").innerHTML = "Delegacia da Mulher em Itaúna";
+        document.getElementById("resultado-endereco").innerHTML = "Endereço: Praça Doná Macrina, Bairro Graças, Itaúna";
+        document.getElementById("resultado-cep").innerHTML = "CEP: 35680-339";
         document.getElementById("resultado-tel1").innerHTML = "Telefone em caso de emergência: 190 (Polícia Militar)";
         document.getElementById("resultado-tel2").innerHTML = "Telefone da Central de Atendimento à Mulher: 180";
-        document.getElementById("resultado-email").innerHTML = "E-mail: ";
+        document.getElementById("resultado-email").innerHTML = "E-mail: delmulheres.itauna@pc.mg.gov.br";
         break;
 
         case "23":
-        document.getElementById("resultado-delegacia").innerHTML = "";
-        document.getElementById("resultado-endereco").innerHTML = "Endereço: ";
-        document.getElementById("resultado-cep").innerHTML = "CEP: ";
+        document.getElementById("resultado-delegacia").innerHTML = "Delegacia da Mulher em Ituiutaba";
+        document.getElementById("resultado-endereco").innerHTML = "Endereço: Avenida João Antunes de Oliveira, nº 284, Bairro Cazuza, Ituiutaba";
+        document.getElementById("resultado-cep").innerHTML = "CEP: 39100-000";
         document.getElementById("resultado-tel1").innerHTML = "Telefone em caso de emergência: 190 (Polícia Militar)";
         document.getElementById("resultado-tel2").innerHTML = "Telefone da Central de Atendimento à Mulher: 180";
-        document.getElementById("resultado-email").innerHTML = "E-mail: ";
+        document.getElementById("resultado-email").innerHTML = "E-mail: secretaria.ituiutaba@pc.mg.gov.br";
         break;
 
         case "24":
-        document.getElementById("resultado-delegacia").innerHTML = "";
-        document.getElementById("resultado-endereco").innerHTML = "Endereço: ";
-        document.getElementById("resultado-cep").innerHTML = "CEP: ";
+        document.getElementById("resultado-delegacia").innerHTML = "Delegacia da Mulher em Janaúba";
+        document.getElementById("resultado-endereco").innerHTML = "Endereço: Rua Espinosa, nº 105, Bairro Novo Paraíso, Janaúba";
+        document.getElementById("resultado-cep").innerHTML = "CEP: 39440-000";
         document.getElementById("resultado-tel1").innerHTML = "Telefone em caso de emergência: 190 (Polícia Militar)";
         document.getElementById("resultado-tel2").innerHTML = "Telefone da Central de Atendimento à Mulher: 180";
-        document.getElementById("resultado-email").innerHTML = "E-mail: ";
+        document.getElementById("resultado-email").innerHTML = "E-mail: dccm.janauba@pc.mg.gov.br";
         break;
 
         case "25":
-        document.getElementById("resultado-delegacia").innerHTML = "";
-        document.getElementById("resultado-endereco").innerHTML = "Endereço: ";
-        document.getElementById("resultado-cep").innerHTML = "CEP: ";
+        document.getElementById("resultado-delegacia").innerHTML = "Delegacia da Mulher em Januária";
+        document.getElementById("resultado-endereco").innerHTML = "Endereço: Avenida Marechal Euríco Gáspar Dutra, nº 484, Bairro Centro, Januária";
+        document.getElementById("resultado-cep").innerHTML = "CEP: 39480-000";
         document.getElementById("resultado-tel1").innerHTML = "Telefone em caso de emergência: 190 (Polícia Militar)";
         document.getElementById("resultado-tel2").innerHTML = "Telefone da Central de Atendimento à Mulher: 180";
-        document.getElementById("resultado-email").innerHTML = "E-mail: ";
+        document.getElementById("resultado-email").innerHTML = "E-mail: gto.fam.jf@pc.mg.gov.br";
         break;
 
         case "26":
-        document.getElementById("resultado-delegacia").innerHTML = "";
-        document.getElementById("resultado-endereco").innerHTML = "Endereço: ";
-        document.getElementById("resultado-cep").innerHTML = "CEP: ";
+        document.getElementById("resultado-delegacia").innerHTML = "Delegacia Civil - Atendimento à Mulher em João Monlevade";
+        document.getElementById("resultado-endereco").innerHTML = "Endereço: Rua Louis Ensch, nº 266, Bairro Alvorada, João Monlevade";
+        document.getElementById("resultado-cep").innerHTML = "CEP: 35930-045";
         document.getElementById("resultado-tel1").innerHTML = "Telefone em caso de emergência: 190 (Polícia Militar)";
         document.getElementById("resultado-tel2").innerHTML = "Telefone da Central de Atendimento à Mulher: 180";
-        document.getElementById("resultado-email").innerHTML = "E-mail: ";
+        document.getElementById("resultado-email").innerHTML = "E-mail: assessoriamonlevade@yahoo.com.br";
         break;
 
         case "27":
-        document.getElementById("resultado-delegacia").innerHTML = "";
-        document.getElementById("resultado-endereco").innerHTML = "Endereço: ";
-        document.getElementById("resultado-cep").innerHTML = "CEP: ";
+        document.getElementById("resultado-delegacia").innerHTML = "Delegacia da Mulher em Juiz De Fora";
+        document.getElementById("resultado-endereco").innerHTML = "Endereço: Rua Uruguaiana, nº 94 - 2º Andar, Bairro Jardim Glória, Juiz de Fora";
+        document.getElementById("resultado-cep").innerHTML = "CEP: 36015-020";
         document.getElementById("resultado-tel1").innerHTML = "Telefone em caso de emergência: 190 (Polícia Militar)";
         document.getElementById("resultado-tel2").innerHTML = "Telefone da Central de Atendimento à Mulher: 180";
-        document.getElementById("resultado-email").innerHTML = "E-mail: ";
+        document.getElementById("resultado-email").innerHTML = "E-mail: lujanpsouza@hotmail.com";
         break;
 
         case "28":
-        document.getElementById("resultado-delegacia").innerHTML = "";
-        document.getElementById("resultado-endereco").innerHTML = "Endereço: ";
-        document.getElementById("resultado-cep").innerHTML = "CEP: ";
+        document.getElementById("resultado-delegacia").innerHTML = "Delegacia Civil - Atendimento à Mulher em Lavras";
+        document.getElementById("resultado-endereco").innerHTML = "Endereço: BR-265, nº 215, Bairro Serra Verde, Lavras";
+        document.getElementById("resultado-cep").innerHTML = "CEP: 37200-000";
         document.getElementById("resultado-tel1").innerHTML = "Telefone em caso de emergência: 190 (Polícia Militar)";
         document.getElementById("resultado-tel2").innerHTML = "Telefone da Central de Atendimento à Mulher: 180";
-        document.getElementById("resultado-email").innerHTML = "E-mail: ";
         break;
 
         case "29":
-        document.getElementById("resultado-delegacia").innerHTML = "";
-        document.getElementById("resultado-endereco").innerHTML = "Endereço: ";
-        document.getElementById("resultado-cep").innerHTML = "CEP: ";
+        document.getElementById("resultado-delegacia").innerHTML = "Delegacia da Mulher em Manhuaçu";
+        document.getElementById("resultado-endereco").innerHTML = "Endereço: Avenida Melo Vianna, nº 222, Bairro Bom Pastor, Manhuaçu";
+        document.getElementById("resultado-cep").innerHTML = "CEP: 36900-000";
         document.getElementById("resultado-tel1").innerHTML = "Telefone em caso de emergência: 190 (Polícia Militar)";
         document.getElementById("resultado-tel2").innerHTML = "Telefone da Central de Atendimento à Mulher: 180";
-        document.getElementById("resultado-email").innerHTML = "E-mail: ";
+        document.getElementById("resultado-email").innerHTML = "E-mail: camilasoaresteixeira@yahoo.com.br";
         break;
 
         case "30":
-        document.getElementById("resultado-delegacia").innerHTML = "";
-        document.getElementById("resultado-endereco").innerHTML = "Endereço: ";
-        document.getElementById("resultado-cep").innerHTML = "CEP: ";
+        document.getElementById("resultado-delegacia").innerHTML = "Delegacia da Mulher em Montes Claros";
+        document.getElementById("resultado-endereco").innerHTML = "Endereço: Avenida Vicente Guimarães, nº 381, Bairro Sagrada Família, Montes Claros";
+        document.getElementById("resultado-cep").innerHTML = "CEP: 39400-000";
         document.getElementById("resultado-tel1").innerHTML = "Telefone em caso de emergência: 190 (Polícia Militar)";
         document.getElementById("resultado-tel2").innerHTML = "Telefone da Central de Atendimento à Mulher: 180";
-        document.getElementById("resultado-email").innerHTML = "E-mail: ";
+        document.getElementById("resultado-email").innerHTML = "E-mail: delegaciamulheres@yahoo.com.br";
         break;
 
         case "31":
