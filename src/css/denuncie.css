@@ -39,7 +39,7 @@ a.btn-denuncie:hover {
 
 /* caixa de selecao - pagina denuncia presencial/telefone */
 .lista-cidades {
-    width: 425px;
+    width: 440px;
     height: 40px;
     display: inline;
 }
@@ -55,6 +55,10 @@ a.btn-denuncie:hover {
     font-size: medium;
     text-align: center;
     text-decoration: none;
+}
+
+#resultado-delegacia {
+    font-weight: bold;
 }
 
 /* ajustes responsivos */
