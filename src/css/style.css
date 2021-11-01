@@ -41,6 +41,7 @@ p.titulo-pagina {
 .nav-pills .nav-link.active {
     background-color: #711BCF;
     font-weight: bold;
+    margin-inline: 5px;
 }
 
 /* Botões/pílulas inativas*/
