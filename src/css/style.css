@@ -82,6 +82,27 @@ p.titulo-pagina {
     min-height: 313px; /* define altura minima para o conteudo */
 }
 
+/* grid homepage */
+.external-grid-col {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: rgba(86, 61, 124, .15);
+    border: 1px solid rgba(86, 61, 124, .2);
+}
+
+.internal-grid-col {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    /*
+    background-color: rgba(86, 61, 124, .15);
+    border: 1px solid rgba(86, 61, 124, .2);
+    */
+}
+
+/* cards */
+.card {
+    border-color:rgba(86, 61, 124, 0.5);
+}
 
 /* titulo das paginas - criar elemento p classe title-page */
 p.title-page {
