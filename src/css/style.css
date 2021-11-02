@@ -128,8 +128,8 @@ p.title-page {
 
 /* jumbotron testimonials */
 .jumbotron-testimonials {
-    padding-top: 3rem;
-    padding-bottom: 3rem;
+    padding-top: 48px;
+    padding-bottom: 48px;
     margin-bottom: 0;
     background-color: #fff;
 }
@@ -139,7 +139,29 @@ p.title-page {
 }
 
 .jumbotron-testimonials .container {
-    max-width: 40rem;
+    max-width: 640px;
+}
+
+/* carousel */
+.carousel {
+    margin-bottom: 4rem;
+}
+
+.carousel-caption {
+    bottom: 1rem;
+    z-index: 10;
+}
+
+.carousel-item {
+    height: 250px;
+}
+
+.carousel-item > img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-width: 100%;
+    height: 250px;
 }
 
 /* botões */
