@@ -110,8 +110,8 @@ p.title-page {
 
 /* jumbotron testimonials */
 .jumbotron-testimonials {
-    padding-top: 3rem;
-    padding-bottom: 3rem;
+    padding-top: 48px;
+    padding-bottom: 48px;
     margin-bottom: 0;
     background-color: #fff;
 }
@@ -121,7 +121,29 @@ p.title-page {
 }
 
 .jumbotron-testimonials .container {
-    max-width: 40rem;
+    max-width: 640px;
+}
+
+/* carousel */
+.carousel {
+    margin-bottom: 4rem;
+}
+
+.carousel-caption {
+    bottom: 1rem;
+    z-index: 10;
+}
+
+.carousel-item {
+    height: 250px;
+}
+
+.carousel-item > img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-width: 100%;
+    height: 250px;
 }
 
 /* botões */
@@ -136,35 +158,35 @@ p.title-page {
 }
 
 /* botão primário */
-.btn-primary {
+.btn-purple {
     color: #fff;
     background-color: #563d7c;
     border-color: #563d7c;
 }
   
-.btn-primary:hover {
+.btn-purple:hover {
     color: #fff;
     background-color: #443062;
     border-color: #3e2c5a;
 }
   
-.btn-primary:focus {
+.btn-purple:focus {
     box-shadow: 0 0 0 0.2rem rgba(86, 61, 124, 0.5);
 }
 
 /* botão outline secundário */
-.btn-outline-secondary {
+.btn-outline-gray {
     color: #868e96;
     border-color: #868e96;
 }
   
-.btn-outline-secondary:hover {
+.btn-outline-gray:hover {
     color: #fff;
     background-color: #868e96;
     border-color: #868e96;
 }
   
-.btn-outline-secondary:focus {
+.btn-outline-gray:focus {
     box-shadow: 0 0 0 0.2rem rgba(134, 142, 150, 0.5);
 }
 
