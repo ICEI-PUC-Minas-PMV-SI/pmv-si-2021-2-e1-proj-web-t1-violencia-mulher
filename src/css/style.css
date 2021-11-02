@@ -154,35 +154,35 @@ p.title-page {
 }
 
 /* botão primário */
-.btn-primary {
+.btn-purple {
     color: #fff;
     background-color: #563d7c;
     border-color: #563d7c;
 }
   
-.btn-primary:hover {
+.btn-purple:hover {
     color: #fff;
     background-color: #443062;
     border-color: #3e2c5a;
 }
   
-.btn-primary:focus {
+.btn-purple:focus {
     box-shadow: 0 0 0 0.2rem rgba(86, 61, 124, 0.5);
 }
 
 /* botão outline secundário */
-.btn-outline-secondary {
+.btn-outline-gray {
     color: #868e96;
     border-color: #868e96;
 }
   
-.btn-outline-secondary:hover {
+.btn-outline-gray:hover {
     color: #fff;
     background-color: #868e96;
     border-color: #868e96;
 }
   
-.btn-outline-secondary:focus {
+.btn-outline-gray:focus {
     box-shadow: 0 0 0 0.2rem rgba(134, 142, 150, 0.5);
 }
 
