@@ -1,0 +1,77 @@
+ 
+/*Estilo de fonte para parágrafos*/
+p{
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+p.tab-pane{
+    font-weight: normal;
+}
+
+a.btn-direciona{
+    background-color:#711BCF;
+    width: 700px;
+    height: 50px;
+    padding: 5px 10px;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    font-size:x-large;
+    text-align: center;
+    display: inline-block;
+    text-decoration:none;
+    
+}
+
+a.btn-direciona:hover{
+    background-color: #A377FB;
+    color: #711BCF;
+}
+
+
+
+/* Navpills - Tipos de violência*/
+/* Botões/pílulas ativos*/
+.nav-pills .nav-link.active {
+    background-color: #711BCF;
+    font-weight: bold;
+    margin-inline: 5px;
+    margin-bottom: 5px;
+    margin-left: 40px;
+    font-size: large;
+}
+
+/* Botões/pílulas inativas*/
+.nav-link{
+    color: #711BCF;
+    font-weight: bold;
+    margin-left: 40px;
+    
+}
+
+/*Botões/pílulas ao passar ponteiro*/
+.nav-link:hover{
+    color: #FFFFFF;
+    background-color: #711BCF;
+}
+
+
+/*Navpills veritical - Resumo da lei*/
+.col-9{
+    margin-left: 60px;
+    margin-top: 10px;
+}
+
+.tab-pane{
+    margin-right: 5px;
+}
+
+
+
+
+
+
+
+

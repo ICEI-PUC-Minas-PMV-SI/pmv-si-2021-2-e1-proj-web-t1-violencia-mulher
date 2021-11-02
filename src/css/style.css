@@ -36,25 +36,7 @@ p.titulo-pagina {
     background-color: #FFFFFF;
 }
 
-/* Botões/pílulas navbar Tipos de violência*/ 
-/* Botões/pílulas ativos*/
-.nav-pills .nav-link.active {
-    background-color: #711BCF;
-    font-weight: bold;
-    margin-inline: 5px;
-}
 
-/* Botões/pílulas inativas*/
-.nav-link{
-    color: #711BCF;
-    font-weight: bold;
-}
-
-/*Botões/pílulas ao passar ponteiro*/
-.nav-link:hover{
-    color: #FFFFFF;
-    background-color: #711BCF;
-}
 
 /* botao de destaque */
 .navbar-nav .nav-item.denuncie a { 
