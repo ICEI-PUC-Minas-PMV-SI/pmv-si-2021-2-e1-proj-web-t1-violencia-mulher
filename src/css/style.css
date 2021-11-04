@@ -84,8 +84,10 @@ p.titulo-pagina {
 .external-grid-col {
     padding-top: 15px;
     padding-bottom: 15px;
+    /*
     background-color: rgba(86, 61, 124, .15);
     border: 1px solid rgba(86, 61, 124, .2);
+    */
 }
 
 .internal-grid-col {
@@ -99,8 +101,11 @@ p.titulo-pagina {
 
 /* cards */
 .card {
-    border-color:rgba(86, 61, 124, 0.5);
+    border-color: #59359A !important;
 }
+
+.bg-purple {
+    background-color: #59359A !important; }
 
 /* titulo das paginas - criar elemento p classe title-page */
 p.title-page {
@@ -127,6 +132,13 @@ p.title-page {
     box-shadow: 0 0 0 0.2rem rgba(86, 61, 124, 0.25);
   }
 
+.jumbotron {
+    padding: 2rem 1rem;
+    margin-bottom: 2rem;
+    background-color: #e9ecef;
+    border-radius: 0.3rem;
+}
+
 /* jumbotron testimonials */
 .jumbotron-testimonials {
     padding-top: 48px;
@@ -145,6 +157,7 @@ p.title-page {
 
 /* carrossel de noticias */
 .carousel {
+    margin-top: 2rem;
     margin-bottom: 4rem;
 }
 
