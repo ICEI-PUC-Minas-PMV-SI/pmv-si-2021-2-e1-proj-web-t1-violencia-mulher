@@ -1,0 +1,65 @@
+#resultado-instituicao {
+    font-weight: bold;
+}
+
+#resultado-instituicao2 {
+    font-weight: bold;
+}
+
+#resultado-instituicao3 {
+    font-weight: bold;
+}
+
+#resultado-instituicao4 {
+    font-weight: bold;
+}
+
+#resultado-instituicao5 {
+    font-weight: bold;
+}
+
+#resultado-instituicao6 {
+    font-weight: bold;
+}
+
+#resultado-instituicao7 {
+    font-weight: bold;
+}
+
+/* caixa de texto selecionar cidade - pagina denuncia presencial/telefone */
+.selecione-cidade {
+    background-color:#a071d1;
+    width: 360px;
+    height: 50px;
+    display: inline;
+    padding-top: 8px;
+    padding-bottom: 11px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    font-size: large;
+    text-align: center;
+    text-decoration: none;    
+}
+
+/* caixa de selecao - pagina denuncia presencial/telefone */
+.lista-cidades {
+    width: 440px;
+    height: 40px;
+    display: inline;
+}
+
+/* botão ok - pagina denuncia presencial/telefone */
+.button-cidade {
+    width: 50px;
+    height: 43px;    
+    background-color:indigo;  
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    font-size: medium;
+    text-align: center;
+    text-decoration: none;
+}
