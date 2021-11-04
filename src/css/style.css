@@ -10,7 +10,7 @@ p.titulo-pagina {
 
 /* barra de navegacao */
 .navbar {
-    background-color: #711BCF;
+    background-color: #59359A;
 }
 
 /* logo na barra de navegacao  */
@@ -22,7 +22,7 @@ p.titulo-pagina {
 /* botoes gerais na barra de navegacao */
 .navbar-nav .nav-item a {
     color: #FFFFFF;
-    background-color: #A377FB;
+    background-color: #7A49D6;
     margin-right: 10px;
     margin-bottom: 5px;
     padding: 5px 10px;
@@ -32,26 +32,26 @@ p.titulo-pagina {
 }
 
 .navbar-nav .nav-item a:hover {
-    color: #711BCF;
+    color: #7A49D6;
     background-color: #FFFFFF;
 }
 
 /* botao de destaque */
 .navbar-nav .nav-item.denuncie a { 
-    color: #711BCF;
+    color: #7A49D6;
     background-color: #FFFFFF;
 }
 
 .navbar-nav .nav-item.denuncie a:hover { 
     color: #FFFFFF;
-    background-color: #711BCF;
+    background-color: #7A49D6;
 }
 
 /* formulario de pesquisa */
 .navbar form input[type="search"] {
     background-color: transparent;
     border-width: 1px;
-    border-color: #A377FB;
+    border-color: #C5B3E6;
     border-radius: 4px;
     color: #FFFFFF;
     padding: 5px 10px;
@@ -63,7 +63,7 @@ p.titulo-pagina {
 
 /* texto de input no formulario de pesquisa */
 .navbar form input[type="search"]::placeholder {
-    color: #cab0ff;
+    color: #C5B3E6;
 }
 
 /* lupa */
@@ -189,28 +189,28 @@ p.title-page {
     z-index: 10;
 }
 
-/* botões */
+/* botões 
 .btn:hover {
     color: #fff;
-    background-color: #443062;
-    border-color: #3e2c5a;
+    background-color: #432874;
+    border-color: #432874;
 }
   
 .btn:focus {
     box-shadow: 0 0 0 0.2rem rgba(86, 61, 124, 0.25);
-}
+}*/
 
 /* botão primário */
 .btn-purple {
     color: #fff;
-    background-color: #563d7c;
-    border-color: #563d7c;
+    background-color: #59359A;
+    border-color: #59359A;
 }
   
 .btn-purple:hover {
     color: #fff;
-    background-color: #443062;
-    border-color: #3e2c5a;
+    background-color: #432874;
+    border-color: #432874;
 }
   
 .btn-purple:focus {
@@ -236,7 +236,7 @@ p.title-page {
 /* rodape */
 footer {
     height: 172px;
-    background: linear-gradient(to bottom, #FFFFFF, #711BCF);
+    background: linear-gradient(to bottom, #FFFFFF, #59359A);
     padding: 10px;           
 }
 
