@@ -1,4 +1,4 @@
-/* titulo pagina na navbar  */
+/* título página na navbar  */
 p.titulo-pagina {
     color: #FFFFFF;
     font-size: xx-large;
@@ -8,18 +8,18 @@ p.titulo-pagina {
     display: inline-block;   
 }
 
-/* barra de navegacao */
+/* barra de navegação */
 .navbar {
     background-color: #59359A;
 }
 
-/* logo na barra de navegacao  */
+/* logo na barra de navegação  */
 .image-nav {
     display: inline-block;
     text-align: center;
 }
 
-/* botoes gerais na barra de navegacao */
+/* botões gerais na barra de navegação */
 .navbar-nav .nav-item a {
     color: #FFFFFF;
     background-color: #7A49D6;
@@ -36,7 +36,7 @@ p.titulo-pagina {
     background-color: #FFFFFF;
 }
 
-/* botao de destaque */
+/* botão de destaque */
 .navbar-nav .nav-item.denuncie a { 
     color: #7A49D6;
     background-color: #FFFFFF;
@@ -47,7 +47,7 @@ p.titulo-pagina {
     background-color: #7A49D6;
 }
 
-/* formulario de pesquisa */
+/* formulário de pesquisa */
 .navbar form input[type="search"] {
     background-color: transparent;
     border-width: 1px;
@@ -61,7 +61,7 @@ p.titulo-pagina {
     position: relative;
 }
 
-/* texto de input no formulario de pesquisa */
+/* texto de input no formulário de pesquisa */
 .navbar form input[type="search"]::placeholder {
     color: #C5B3E6;
 }
@@ -74,29 +74,21 @@ p.titulo-pagina {
     color: #cab0ff;
 }
 
-/* conteudo */
+/* conteúdo */
 #conteudo {
     margin-top: 20px;
-    min-height: 313px; /* define altura minima para o conteudo */
+    min-height: 313px; /* define altura mínima para o conteudo */
 }
 
 /* grid homepage */
 .external-grid-col {
     padding-top: 15px;
     padding-bottom: 15px;
-    /*
-    background-color: rgba(86, 61, 124, .15);
-    border: 1px solid rgba(86, 61, 124, .2);
-    */
 }
 
 .internal-grid-col {
     padding-top: 15px;
     padding-bottom: 15px;
-    /*
-    background-color: rgba(86, 61, 124, .15);
-    border: 1px solid rgba(86, 61, 124, .2);
-    */
 }
 
 /* cards */
@@ -107,7 +99,7 @@ p.titulo-pagina {
 .bg-purple {
     background-color: #59359A !important; }
 
-/* titulo das paginas - criar elemento p classe title-page */
+/* título das páginas - criar elemento p classe title-page */
 p.title-page {
     background-color:#711BCF;
     width: 700px;
@@ -130,7 +122,7 @@ p.title-page {
     color: #495057;
     border-color: #3e2c5a;
     box-shadow: 0 0 0 0.2rem rgba(86, 61, 124, 0.25);
-  }
+}
 
 .jumbotron {
     padding: 2rem 1rem;
@@ -155,7 +147,7 @@ p.title-page {
     max-width: 640px;
 }
 
-/* carrossel de noticias */
+/* carrossel de notícias */
 .carousel {
     margin-top: 2rem;
     margin-bottom: 4rem;
@@ -189,7 +181,7 @@ p.title-page {
     z-index: 10;
 }
 
-/* botões 
+/* botões */
 .btn:hover {
     color: #fff;
     background-color: #432874;
@@ -198,7 +190,7 @@ p.title-page {
   
 .btn:focus {
     box-shadow: 0 0 0 0.2rem rgba(86, 61, 124, 0.25);
-}*/
+}
 
 /* botão primário */
 .btn-purple {
@@ -233,7 +225,7 @@ p.title-page {
     box-shadow: 0 0 0 0.2rem rgba(134, 142, 150, 0.5);
 }
 
-/* rodape */
+/* rodapé */
 footer {
     height: 172px;
     background: linear-gradient(to bottom, #FFFFFF, #59359A);
@@ -252,7 +244,7 @@ footer {
 /* ajustes responsivos */
 @media screen and (max-width: 767px) {
     .navbar form {
-        display: none; /* define que o formulario de pesquisa desapareca em telas menores */
+        display: none; /* define que o formulário de pesquisa desapareca em telas menores */
     }
 
     .col-left {
