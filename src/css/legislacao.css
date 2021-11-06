@@ -6,10 +6,13 @@ p{
     margin-bottom: 30px;
 }
 
+
 p.tab-pane{
     font-weight: normal;
 }
 
+
+/*Estilo dos botões direciona*/
 a.btn-direciona{
     background-color:#711BCF;
     
