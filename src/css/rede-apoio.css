@@ -63,3 +63,12 @@
     text-align: center;
     text-decoration: none;
 }
+
+/*Ajustes responsivos*/
+@media (max-width: 600px)
+{
+  .facet_sidebar
+   {
+    display: none;
+   }
+}
