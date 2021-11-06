@@ -6,13 +6,16 @@ p{
     margin-bottom: 30px;
 }
 
+
 p.tab-pane{
     font-weight: normal;
 }
 
+
+/*Estilo dos botões direciona*/
 a.btn-direciona{
     background-color:#711BCF;
-    width: 700px;
+    
     height: 50px;
     padding: 5px 10px;
     border-radius: 5px;
@@ -69,6 +72,14 @@ a.btn-direciona:hover{
 }
 
 
+/*Ajustes responsivos*/
+@media (max-width: 600px)
+{
+  .facet_sidebar
+   {
+    display: none;
+   }
+}
 
 
 
