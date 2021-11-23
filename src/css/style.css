@@ -94,6 +94,13 @@ p.titulo-pagina {
 /* cards */
 .card {
     border-color: #59359A !important;
+    min-height: 200px;
+    min-width: 200px;
+}
+
+.card-btn {
+    display: flex;
+    flex-direction: column;
 }
 
 .bg-purple {
@@ -136,7 +143,6 @@ p.title-page {
     padding-top: 48px;
     padding-bottom: 48px;
     margin-bottom: 0;
-    background-color: #fff;
 }
 
 .jumbotron-testimonials p:last-child {

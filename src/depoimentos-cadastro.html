@@ -1,221 +1,267 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-    <head>
 
-        <!-- Meta tags -->
-        <title>Minas Unidas - Depoimentos</title>
-        <link rel="shortcut icon" type="imagex/png" href="imgs/icone-projeto.ico">
-        <meta charset="UTF-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="description" content="Apoio a vitimas de violencia domestica em MG">
-        <meta name="keywords" content="MG, Minas Gerais, mulher, violencia domestica, violencia contra mulher, denuncia, apoio, depoimentos">
-        
-        <!-- CSS Bootstrap -->
+<head>
 
-        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css" integrity="sha384-zCbKRCUGaJDkqS1kPbPd7TveP5iyJE0EjAuZQTgFLD2ylzuqKfdKlfG/eSrtxUkn" crossorigin="anonymous">
-        <!-- CSS da página -->
+    <!-- Meta tags -->
+    <title>Minas Unidas - Depoimentos</title>
+    <link rel="shortcut icon" type="imagex/png" href="imgs/icone-projeto.ico">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Apoio a vitimas de violencia domestica em MG">
+    <meta name="keywords"
+        content="MG, Minas Gerais, mulher, violencia domestica, violencia contra mulher, denuncia, apoio, depoimentos">
 
-        <link rel="stylesheet" href="css/style.css">
-
-        <!-- CSS Ícone lupa -->
-        <script src="https://kit.fontawesome.com/16bd7ee685.js" crossorigin="anonymous"></script>
+    <!-- CSS Bootstrap -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css"
+        integrity="sha384-zCbKRCUGaJDkqS1kPbPd7TveP5iyJE0EjAuZQTgFLD2ylzuqKfdKlfG/eSrtxUkn" crossorigin="anonymous">
     
-    </head>
+    <!-- CSS da página -->
+    <link rel="stylesheet" href="css/style.css">
 
-    <!-- Corpo da página -->
-    <body>
+    <!-- CSS Ícone lupa -->
+    <script src="https://kit.fontawesome.com/16bd7ee685.js" crossorigin="anonymous"></script>
 
-        <!-- Cabeçalho -->
-        <header>
+    <!-- Script Depoimentos -->
+    <script src="js/depoimentos.js"></script>
 
-            <!-- Barra de navegação-->
-            <nav class="navbar navbar-expand-lg navbar-light">
-                <div class="container">
+</head>
 
-                    <!-- Logo -->
-                    <a class="navbar-brand" href="index.html">
-                        <img class="image-nav" src="imgs/navbar-brand.png" alt="Logo">
-                        <p class="titulo-pagina">Minas Unidas</p>
-                    </a>
+<!-- Corpo da página -->
+<body>
 
-                    <!-- Menu -->
-                    <ul class="navbar-nav">
-                        <li class="nav-item"><a href="quem-somos.html" class="btn">Quem somos</a></li>
-                        <li class="nav-item"><a href="legislacao.html" class="btn">Legislação</a></li>
-                        <li class="nav-item"><a href="redes-apoio.html" class="btn">Redes de apoio</a></li>
-                        <li class="nav-item denuncie"><a href="denuncie.html" class="btn">Denuncie</a></li>
-                    </ul>
+    <!-- Cabeçalho -->
+    <header>
 
-                    <!-- Pesquisa -->
-                    <form>
+        <!-- Barra de navegação-->
+        <nav class="navbar navbar-expand-lg navbar-light">
+            <div class="container">
 
-                        <!-- Input da pesquisa -->
-                        <input class="form-control" type="search" placeholder="Pesquisar">
+                <!-- Logo -->
+                <a class="navbar-brand" href="index.html">
+                    <img class="image-nav" src="imgs/navbar-brand.png" alt="Logo">
+                    <p class="titulo-pagina">Minas Unidas</p>
+                </a>
 
-                        <!-- Lupa / botão pesquisar -->
-                        <span class="fa fa-search" type="submit"></span>
-                    
-                    </form>
+                <!-- Menu -->
+                <ul class="navbar-nav">
+                    <li class="nav-item"><a href="quem-somos.html" class="btn">Quem somos</a></li>
+                    <li class="nav-item"><a href="legislacao.html" class="btn">Legislação</a></li>
+                    <li class="nav-item"><a href="redes-apoio.html" class="btn">Redes de apoio</a></li>
+                    <li class="nav-item denuncie"><a href="denuncie.html" class="btn">Denuncie</a></li>
+                </ul>
 
-                </div>
-            </nav>
+                <!-- Pesquisa -->
+                <form>
 
-        </header>
+                    <!-- Input da pesquisa -->
+                    <input class="form-control" type="search" placeholder="Pesquisar">
 
-        <!-- Conteúdo -->
-        <main>
+                    <!-- Lupa / botão pesquisar -->
+                    <span class="fa fa-search" type="submit"></span>
 
-            <!-- Seção Cadastro -->
-            <section class="p-5">
+                </form>
 
-                <div class="container">
-                    <div class="row justify-content-center align-items-center">
-                        <div id="cadastro" class="col-md-8 p-5 border bg-light">
-                            
-                            <!-- Título do formulário-->
-                            <h4 class="pb-4 text-center">Cadastre seu depoimento</h4>
-                            <form>
-                                
-                                <!-- Linha -->
-                                <div class="form-row">
-                                    
-                                    <!-- Nome-->
-                                    <div class="form-group col-md-8">
-                                        <input id="name" name="name" placeholder="Nome" class="form-control" type="text">
-                                    </div>
+            </div>
+        </nav>
 
-                                    <!-- Checkbox anonimato -->
-                                    <div class="form-group col-md-4">
-                                        <div class="form-check">
-                                            <input class="form-check-input" type="checkbox" value="" id="checkbox-anonymous">
-                                            <label class="form-check-label" for="checkbox-anonymous">Anônimo</label>
-                                        </div>
-                                    </div>
+    </header>
 
-                                </div>
-                                <!-- Fim da linha -->
+    <!-- Conteúdo -->
+    <main>
 
-                                <!-- Linha-->
-                                <div class="form-row">
-
-                                    <!-- Cidade -->
-                                    <div class="form-group col-md-8">
-                                        <input id="cidade" name="cidade" placeholder="Cidade" class="form-control" type="text">
-                                    </div>
-
-                                    <!-- Idade-->
-                                    <div class="form-group col-md-4">
-                                        <input id="idade" name="idade" placeholder="Idade" class="form-control" type="text">
-                                    </div>
-
-                                </div>
-                                <!-- Fim da linha -->
-
-                                <!-- Linha -->
-                                <div class="form-row">
-
-                                    <!-- Input Depoimento -->
-                                    <div class="form-group col-md-12">
-                                        <textarea id="testimonial" name="testimonial" cols="40" rows="5" class="form-control"></textarea>
-                                    </div>
-
-                                </div>
-                                <!-- Fim da linha -->
-
-                                <!-- Linha -->
-                                <div class="form row">
-
-                                    <!-- Botões -->
-                                    <div class="col-lg-10">
-
-                                        <a class="btn btn-outline-gray mr-2" href="depoimentos.html" role="button">Cancelar</a>
-                                        
-                                        <button type="button" class="btn btn-purple mr-2" data-toggle="modal" data-target="#modal">Publicar</button>
-
-                                        <!-- Modal -->
-                                        <div class="modal fade" id="modal" tabindex="-1" aria-labelledby="modal" aria-hidden="true">
-                                            <div class="modal-dialog modal-dialog-centered">
-
-                                                <!-- Conteúdo do modal-->
-                                                <div class="modal-content">
-                                                    
-                                                    <!-- Header do modal -->
-                                                    <div class="modal-header">
-                                                        <h5 class="modal-title" id="modal">Obrigado!</h5>
-                                                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                                            <span aria-hidden="true">&times;</span>
-                                                        </button>
-                                                    </div>
-                                                    
-                                                    <!-- Corpo do modal -->
-                                                    <div class="modal-body">
-                                                        Depoimento publicado com sucesso.
-                                                    </div>
-                                                    
-                                                    <!-- Rodapé do modal-->
-                                                    <div class="modal-footer">
-                                                        <button type="button" class="btn btn-purple" data-dismiss="modal">OK</button>
-                                                    </div>
-                                            
-                                                </div>
-                                                <!-- Fim do conteúdo do modal -->
-                                            </div>
-                                        </div>
-                                        <!-- Fim do modal -->
-
-                                    </div>
-                                    <!-- Fim dos botões -->
-
-                                </div>
-                                <!-- Fim da linha -->
-
-                            </form>
-                            <!-- Fim dos formulários -->
-
-                        </div>
-                    </div>
-                </div>
-            </section>
-            <!-- Fim da seção -->
-
-        </main>
-
-        <!-- Rodapé -->
-        <footer>
+        <!-- Seção Cadastro -->
+        <section class="p-5">
 
             <div class="container">
-                <div class="row row-cols-1 row-cols-md-4 row-cols-sm-1"> 
-                    <div class="col-right"></br></br>
-                        <img src="imgs/navbar-brand.png" alt="logo" width="60" height="54">
-                    </div>
+                <div class="row justify-content-center align-items-center">
+                    <div id="cadastro" class="col-md-8 p-5 border bg-light">
 
-                    <div class="col"></br></br>
-                        Minas Unidas &copy 2021 Copyright</br>
-                        Todos os direitos reservados 
-                    </div>
+                        <!-- Título do formulário-->
+                        <h4 class="pb-4 text-center">Cadastre seu depoimento</h4>
+                        <form>
 
-                    <div class="col"></br></br>
-                        <b>Contato</b></br>
-                        E-mail: 
-                    </div>
-                    
-                    <div class="col-left"></br></br>
-                        <b>Apoio</b></br>
-                        <a href="https://www.pucminas.br/vestibular/Paginas/default.aspx?utm_source=google&utm_medium=search&utm_campaign=vestibular-22&gclid=EAIaIQobChMI6LjkzqbZ8wIVhg-RCh2F8gu1EAAYASAAEgL5avD_BwE">
-                            <img src="imgs/logo-puc.jpeg" width="60" height="60" alt="Logo PUC Minas">
-                        </a>
-                    </div>
+                            <!-- Linha -->
+                            <div class="form-row">
 
+                                <!-- Input Nome-->
+                                <div class="form-group col-md-8">
+                                    <input id="inputNome" type="text" class="form-control" placeholder="Nome">
+                                </div>
+
+                                <!-- Checkbox anonimato -->
+                                <div class="form-group col-md-4">
+                                    <div class="form-check">
+                                        <input id="inputCheckbox" type="checkbox" class="form-check-input" value="">
+                                        <label class="form-check-label" for="checkbox-anonymous">Anônimo</label>
+                                    </div>
+                                </div>
+
+                            </div>
+                            <!-- Fim da linha -->
+
+                            <!-- Linha-->
+                            <div class="form-row">
+
+                                <!-- Input Cidade -->
+                                <div class="form-group col-md-8">
+                                    <input id="inputCidade" type="text" class="form-control" placeholder="Cidade">
+                                </div>
+
+                                <!-- Input Idade-->
+                                <div class="form-group col-md-4">
+                                    <input id="inputIdade" type="text" class="form-control" placeholder="Idade">
+                                </div>
+
+                            </div>
+                            <!-- Fim da linha -->
+
+                            <!-- Linha -->
+                            <div class="form-row">
+
+                                <!-- Input Depoimento -->
+                                <div class="form-group col-md-12">
+                                    <textarea id="inputTexto" cols="40" rows="5" class="form-control"></textarea>
+                                </div>
+
+                            </div>
+                            <!-- Fim da linha -->
+
+                            <!-- Linha -->
+                            <div class="form row">
+
+                                <!-- Botões -->
+                                <div class="col-lg-10">
+
+                                    <a class="btn btn-outline-gray mr-2" href="depoimentos.html"
+                                        role="button">Cancelar</a>
+
+                                    <button id="btnInsert" type="button" class="btn btn-purple mr-2" data-toggle="modal"
+                                        data-target="#modal">Publicar</button>
+
+                                    <!-- Modal -->
+                                    <div class="modal fade" id="modal" tabindex="-1" aria-labelledby="modal"
+                                        aria-hidden="true">
+                                        <div class="modal-dialog modal-dialog-centered">
+
+                                            <!-- Conteúdo do modal-->
+                                            <div class="modal-content">
+
+                                                <!-- Header do modal -->
+                                                <div class="modal-header">
+                                                    <h5 class="modal-title" id="modal">Obrigado!</h5>
+                                                    <button type="button" class="close" data-dismiss="modal"
+                                                        aria-label="Close">
+                                                        <span aria-hidden="true">&times;</span>
+                                                    </button>
+                                                </div>
+
+                                                <!-- Corpo do modal -->
+                                                <div class="modal-body">
+                                                    Depoimento publicado com sucesso.
+                                                </div>
+
+                                                <!-- Rodapé do modal-->
+                                                <div class="modal-footer">
+                                                    <button type="button" class="btn btn-purple"
+                                                        data-dismiss="modal">OK</button>
+                                                </div>
+
+                                            </div>
+                                            <!-- Fim do conteúdo do modal -->
+                                        </div>
+                                    </div>
+                                    <!-- Fim do modal -->
+
+                                </div>
+                                <!-- Fim dos botões -->
+
+                            </div>
+                            <!-- Fim da linha -->
+
+                        </form>
+                        <!-- Fim dos formulários -->
+
+                    </div>
                 </div>
             </div>
+        </section>
+        <!-- Fim da seção -->
 
-        </footer>
-        
-        <!-- Script JS Bootstrap -->
-        <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
-        <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-fQybjgWLrvvRgtW6bFlB7jaZrFsaBXjsOMm/tB9LTS58ONXgqbR9W8oWht/amnpF" crossorigin="anonymous"></script>
-   
-    </body>
+    </main>
+
+    <!-- Rodapé -->
+    <footer>
+
+        <div class="container">
+            <div class="row row-cols-1 row-cols-md-4 row-cols-sm-1">
+                <div class="col-right"></br></br>
+                    <img src="imgs/navbar-brand.png" alt="logo" width="60" height="54">
+                </div>
+
+                <div class="col"></br></br>
+                    Minas Unidas &copy 2021 Copyright</br>
+                    Todos os direitos reservados
+                </div>
+
+                <div class="col"></br></br>
+                    <b>Contato</b></br>
+                    E-mail:
+                </div>
+
+                <div class="col-left"></br></br>
+                    <b>Apoio</b></br>
+                    <a
+                        href="https://www.pucminas.br/vestibular/Paginas/default.aspx?utm_source=google&utm_medium=search&utm_campaign=vestibular-22&gclid=EAIaIQobChMI6LjkzqbZ8wIVhg-RCh2F8gu1EAAYASAAEgL5avD_BwE">
+                        <img src="imgs/logo-puc.jpeg" width="60" height="60" alt="Logo PUC Minas">
+                    </a>
+                </div>
+
+            </div>
+        </div>
+
+    </footer>
+
+    <!-- Script JS Bootstrap -->
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js"
+        integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-fQybjgWLrvvRgtW6bFlB7jaZrFsaBXjsOMm/tB9LTS58ONXgqbR9W8oWht/amnpF"
+        crossorigin="anonymous"></script>
+
+    <!-- Script Depoimentos -->
+    <script>
+
+        // obtém os valores dos campos de formulário
+        let campoNome = document.getElementById("inputNome");
+        let campoCidade = document.getElementById("inputCidade");
+        let campoIdade = document.getElementById("inputIdade");
+        let campoTexto = document.getElementById("inputTexto");
+
+        btnInsert.onclick = function () {
+
+            var item = {
+                nome: campoNome.value,
+                cidade: campoCidade.value,
+                idade: campoIdade.value,
+                texto: campoTexto.value
+            };
+
+            db.data[db.data.length] = item;
+            
+            // console.log(db.data);
+
+            if (campoTexto.value) {
+                localStorage.setItem('db', JSON.stringify(db));
+                location.reload;
+            }
+
+        };
+
+    </script>
+
+</body>
 
 </html>
