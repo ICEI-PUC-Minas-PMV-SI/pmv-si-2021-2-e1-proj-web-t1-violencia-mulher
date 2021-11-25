@@ -90,7 +90,7 @@
                         var depoimentos = '';
 
                         // popula o grid de depoimentos com os registros do banco de dados
-                        for (let i = 0; i < db.data.length; i++) {
+                        for (let i = db.data.length - 1; i >= 0; i--) {
                             depoimentos += `<div class="col-md-4 internal-grid-col">
                                                     <div class="card mb-4 shadow-sm h-100">
                                                         <div class="card-body d-flex flex-column">
