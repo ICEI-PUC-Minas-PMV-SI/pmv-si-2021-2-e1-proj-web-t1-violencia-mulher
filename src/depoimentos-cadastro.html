@@ -80,7 +80,7 @@
 
                         <!-- Título do formulário-->
                         <h4 class="pb-4 text-center">Cadastre seu depoimento</h4>
-                        <form>
+                        <form id="form-depoimentos">
 
                             <!-- Linha -->
                             <div class="form-row">
@@ -94,7 +94,7 @@
                                 <div class="form-group col-md-4">
                                     <div class="form-check">
                                         <input id="inputCheckbox" type="checkbox" class="form-check-input" value="">
-                                        <label class="form-check-label" for="checkbox-anonymous">Anônimo</label>
+                                        <label class="form-check-label" for="checkbox">Publicar como anônimo</label>
                                     </div>
                                 </div>
 
@@ -106,12 +106,74 @@
 
                                 <!-- Input Cidade -->
                                 <div class="form-group col-md-8">
-                                    <input id="inputCidade" type="text" class="form-control" placeholder="Cidade">
+
+                                    <!-- <input id="inputCidade" type="text" class="form-control" placeholder="Cidade">-->
+                                    <select id="inputCidade" class="form-control">
+                                        <option selected>Selecionar cidade</option>
+                                        <option>Alfenas</option>
+                                        <option>Araguari</option>
+                                        <option>Araxá</option>
+                                        <option>Barbacena</option>
+                                        <option>Belo Horizonte</option>
+                                        <option>Betim</option>
+                                        <option>Caratinga</option>
+                                        <option>Cataguases</option>
+                                        <option>Conselheiro Lafaiete</option>
+                                        <option>Contagem</option>
+                                        <option>Coronel Fabriciano</option>
+                                        <option>Diamantina</option>
+                                        <option>Divinópolis</option>
+                                        <option>Formiga</option>
+                                        <option>Governador Valadares</option>
+                                        <option>Guaxupé</option>
+                                        <option>Ibirité</option>
+                                        <option>Ipatinga</option>
+                                        <option>Itabira</option>
+                                        <option>Itabirito</option>
+                                        <option>Itajubá</option>
+                                        <option>Itaúna</option>
+                                        <option>Ituiutaba</option>
+                                        <option>Janaúba</option>
+                                        <option>Januária</option>
+                                        <option>João Monlevade</option>
+                                        <option>Juiz de Fora</option>
+                                        <option>Lavras</option>
+                                        <option>Manhuaçu</option>
+                                        <option>Montes Claros</option>
+                                        <option>Muriaé</option>
+                                        <option>Nova Lima</option>
+                                        <option>Pará de Minas</option>
+                                        <option>Passos</option>
+                                        <option>Patos de Minas</option>
+                                        <option>Patrocínio</option>
+                                        <option>Pedro Leopoldo</option>
+                                        <option>Pirapora</option>
+                                        <option>Poços de Caldas</option>
+                                        <option>Ponte Nova</option>
+                                        <option>Pouso Alegre</option>
+                                        <option>Ribeirão das Neves</option>
+                                        <option>Sabará</option>
+                                        <option>Santa Luzia</option>
+                                        <option>Santa Maria</option>
+                                        <option>Santos Dumont</option>
+                                        <option>São João Del Rei</option>
+                                        <option>São Lourenço</option>
+                                        <option>São Sebastião do Paraíso</option>
+                                        <option>Sete Lagoas</option>
+                                        <option>Teófilo Otoni</option>
+                                        <option>Três Corações</option>
+                                        <option>Ubá</option>
+                                        <option>Uberaba</option>
+                                        <option>Uberlândia</option>
+                                        <option>Unaí</option>
+                                        <option>Varginha</option>
+                                        <option>Vespasiano</option>
+                                    </select>
                                 </div>
 
                                 <!-- Input Idade-->
                                 <div class="form-group col-md-4">
-                                    <input id="inputIdade" type="text" class="form-control" placeholder="Idade">
+                                    <input id="inputIdade" type="number" min="18" max="99" class="form-control" placeholder="Idade">
                                 </div>
 
                             </div>
@@ -122,7 +184,7 @@
 
                                 <!-- Input Depoimento -->
                                 <div class="form-group col-md-12">
-                                    <textarea id="inputTexto" cols="40" rows="5" class="form-control"></textarea>
+                                    <textarea id="inputTexto" cols="40" rows="5" class="form-control required" placeholder="Insira seu depoimento aqui"></textarea>
                                 </div>
 
                             </div>
@@ -134,10 +196,9 @@
                                 <!-- Botões -->
                                 <div class="col-lg-10">
 
-                                    <a class="btn btn-outline-gray mr-2" href="depoimentos.html"
-                                        role="button">Cancelar</a>
+                                    <button id="btnClear" type="button" class="btn btn-outline-gray mr-2" role="button">Cancelar</button>
 
-                                    <button id="btnInsert" type="button" class="btn btn-purple mr-2" data-toggle="modal"
+                                    <button id="btnInsert" type="button" class="btn btn-purple mr-2" 
                                         data-target="#modal">Publicar</button>
 
                                     <!-- Modal -->
@@ -239,6 +300,11 @@
         let campoCidade = document.getElementById("inputCidade");
         let campoIdade = document.getElementById("inputIdade");
         let campoTexto = document.getElementById("inputTexto");
+        let checkbox = document.getElementById("inputCheckbox");
+
+        btnClear.onclick = function () {
+            $("#form-depoimentos")[0].reset();
+        }
 
         btnInsert.onclick = function () {
 
@@ -247,15 +313,21 @@
                 cidade: campoCidade.value,
                 idade: campoIdade.value,
                 texto: campoTexto.value
-            };
+            }
+
+            if ((checkbox.checked) !== false) {
+                item.nome = 'Anônima';
+            }
 
             db.data[db.data.length] = item;
             
             // console.log(db.data);
 
             if (campoTexto.value) {
+                $('#modal').modal('toggle');
                 localStorage.setItem('db', JSON.stringify(db));
                 location.reload;
+                $("#form-depoimentos")[0].reset();
             }
 
         };
