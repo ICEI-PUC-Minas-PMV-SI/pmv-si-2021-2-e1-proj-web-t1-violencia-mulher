@@ -82,7 +82,7 @@ var dados = JSON.parse(textoJSON);
 function ExibeResultado() { 
     var selecao = document.getElementById("selecaoCidade");
     var cidade = selecao.options[selecao.selectedIndex].value;
-    document.getElementById("resultado-redeapoio").innerHTML = dados['redesapoio'][cidade-1];
+    document.getElementById("resultado-redeapoio").innerHTML = dados['redesapoio'][cidade-1].Instituição1 + "<br>" + dados['redesapoio'][cidade-1].Endereço1 + "<br>" + dados['redesapoio'][cidade-1].Site1 + "<br>" + dados['redesapoio'][cidade-1].Email1 + "<br>" + dados['redesapoio'][cidade-1].Telefone1;
 }
     
 
