@@ -1,8 +1,6 @@
 // Dados em formato JSON
 var textoJSON = `{ "delegacias": [
         { 
-        "Case": 1, 
-        "Cidade": "Alfenas", 
         "Delegacia": "<b>Delegacia Civil - Atendimento à Mulher em Alfenas</b>", 
         "Endereço": "Endereço: Rua Dom Silvério, nº 338, Bairro Jardim Boa Esperança V, Alfenas", 
         "CEP": "CEP: 37130-000", 
@@ -12,211 +10,173 @@ var textoJSON = `{ "delegacias": [
         }, 
         
         { 
-        "Case": 2, 
-        "Cidade": "Araguari", 
-        "Delegacia": "Delegacia da Mulher em Araguari", 
+        "Delegacia": "<b>Delegacia da Mulher em Araguari</b>", 
         "Endereço": "Endereço: Rua José do Patrocínio, nº 291, Bairro Centro, Araguari", 
         "CEP": "CEP: 39100-000", 
         "Tel1": "Telefone em caso de emergência: 190 (Polícia Militar)", 
         "Tel2": "Telefone da Central de Atendimento à Mulher: 180", 
-        "E-mail": "E-mail: rosangela200520010@hotmail.com" 
+        "Email": "E-mail: rosangela200520010@hotmail.com" 
         }, 
         
         { 
-        "Case": 3, 
-        "Cidade": "Araxá", 
-        "Delegacia": "Delegacia da Mulher em Araxá", 
+        "Delegacia": "<b>Delegacia da Mulher em Araxá</b>", 
         "Endereço": "Endereço: Rua Calimério Guimarães, nº 515, Bairro Centro, Araxá", 
         "CEP": "CEP: 38183-184", 
         "Tel1": "Telefone em caso de emergência: 190 (Polícia Militar)", 
         "Tel2": "Telefone da Central de Atendimento à Mulher: 180", 
-        "E-mail": "-" 
+        "Email": "-" 
         }, 
         
         { 
-        "Case": 4, 
-        "Cidade": "Barbacena", 
-        "Delegacia": "Delegacia da Mulher em Barbacena", 
+        "Delegacia": "<b>Delegacia da Mulher em Barbacena</b>", 
         "Endereço": "Endereço: Rua Vitório Meneghin, nº 210, Bairro Pontilhão, Barbacena", 
         "CEP": "CEP: 36202-346", "Tel1": "Telefone em caso de emergência: 190 (Polícia Militar)", 
         "Tel2": "Telefone da Central de Atendimento à Mulher: 180", 
-        "E-mail": "E-mail: delegaciademulheres.barbacena@pc.mg.gov.br" 
+        "Email": "E-mail: delegaciademulheres.barbacena@pc.mg.gov.br" 
         }, 
         
         { 
-        "Case": 5, 
-        "Cidade": "Belo Horizonte", 
-        "Delegacia": "Delegacia da Mulher em Belo Horizonte - Plantão Especializado", 
+        "Delegacia": "<b>Delegacia da Mulher em Belo Horizonte - Plantão Especializado</b>", 
         "Endereço": "Endereço: Avenida Barbacena, nº 288, Bairro Barro Preto, Belo Horizonte", 
         "CEP": "CEP: 30190-130", 
         "Tel1": "Telefone em caso de emergência: 190 (Polícia Militar)", 
         "Tel2": "Telefone da Central de Atendimento à Mulher: 180", 
-        "E-mail": "E-mail: coordenacaodemid@gmail.com" 
+        "Email": "E-mail: coordenacaodemid@gmail.com" 
         }, 
         
         { 
-        "Case": 6, 
-        "Cidade": "Betim", 
-        "Delegacia": "Delegacia da Mulher em Betim", 
+        "Delegacia": "<b>Delegacia da Mulher em Betim</b>", 
         "Endereço": "Endereço: Rua Cecília Júlia do Prado, nº 255, Bairro Centro, Betim", 
         "CEP": "CEP: 32510-550", 
         "Tel1": "Telefone em caso de emergência: 190 (Polícia Militar)", 
         "Tel2": "Telefone da Central de Atendimento à Mulher: 180", 
-        "E-mail": "E-mail: deopf.betim@pc.mg.gov.br" 
+        "Email": "E-mail: deopf.betim@pc.mg.gov.br" 
         }, 
         
         { 
-        "Case": 7, 
-        "Cidade": "Caratinga", 
-        "Delegacia": "Delegacia da Mulher em Caratinga", 
+        "Delegacia": "<b>Delegacia da Mulher em Caratinga</b>", 
         "Endereço": "Endereço: Rua Antônia Maria Resende Fernandes, nº 174, Bairro Dário Grossi, Caratinga", 
         "CEP": "CEP: 35300-011", 
         "Tel1": "Telefone em caso de emergência: 190 (Polícia Militar)", 
         "Tel2": "Telefone da Central de Atendimento à Mulher: 180", 
-        "E-mail": "E-mail: nayaratravassos@bol.com.br" 
+        "Email": "E-mail: nayaratravassos@bol.com.br" 
         }, 
         
         { 
-        "Case": 8, 
-        "Cidade": "Cataguases", 
-        "Delegacia": "Delegacia Civil - Atendimento à Mulher em Cataguases", 
+        "Delegacia": "<b>Delegacia Civil - Atendimento à Mulher em Cataguases</b>", 
         "Endereço": "Endereço: Rua Major Viêira, nº 324, Bairro Sereno, Cataguases", 
         "CEP": "CEP: 36770-060", 
         "Tel1": "Telefone em caso de emergência: 190 (Polícia Militar)", 
         "Tel2": "Telefone da Central de Atendimento à Mulher: 180", 
-        "E-mail": "E-mail: secretariacataguases.pc@gmail.com"
+        "Email": "E-mail: secretariacataguases.pc@gmail.com"
         }, 
         
         { 
-        "Case": 9, 
-        "Cidade": "Conselheiro Lafaiete", 
-        "Delegacia": "Delegacia da Mulher em Conselheiro Lafaiete", 
+        "Delegacia": "<b>Delegacia da Mulher em Conselheiro Lafaiete</b>", 
         "Endereço": "Endereço: Rua Praça Pimentel Duarte, sem nº, Bairro Centro, Conselheiro Lafaiete", 
         "CEP": "CEP: 36400-079", 
         "Tel1": "Telefone em caso de emergência: 190 (Polícia Militar)", 
         "Tel2": "Telefone da Central de Atendimento à Mulher: 180", 
-        "E-mail": "E-mail: mulheres.lafaiete@pc.mg.gov.br" 
+        "Email": "E-mail: mulheres.lafaiete@pc.mg.gov.br" 
         }, 
         
         { 
-        "Case": 10, 
-        "Cidade": "Contagem", 
-        "Delegacia": "Delegacia da Mulher em Contagem", 
+        "Delegacia": "<b>Delegacia da Mulher em Contagem</b>", 
         "Endereço": "Endereço: Rua Manoel Teixeira de Camargos, nº 63, Bairro da Glória, Contagem", 
         "CEP": "CEP: 32340-040", 
         "Tel1": "Telefone em caso de emergência: 190 (Polícia Militar)", 
         "Tel2": "Telefone da Central de Atendimento à Mulher: 180", 
-        "E-mail": "E-mail: mulheres.contagem@pc.mg.gov.br"
+        "Email": "E-mail: mulheres.contagem@pc.mg.gov.br"
         },
         
         { 
-        "Case": 11, 
-        "Cidade": "Coronel Fabriciano", 
-        "Delegacia": "Delegacia da Mulher em Coronel Fabriciano", 
+        "Delegacia": "<b>Delegacia da Mulher em Coronel Fabriciano</b>", 
         "Endereço": "Endereço: Rua Albert Scharlet, nº 213, Bairro Centro, Coronel Fabriciano", 
         "CEP": "CEP: 35170-038", 
         "Tel1": "Telefone em caso de emergência: 190 (Polícia Militar)", 
         "Tel2": "Telefone da Central de Atendimento à Mulher: 180", 
-        "E-mail": "E-mail: delegaciademulheres.cf@hotmail.com" 
+        "Email": "E-mail: delegaciademulheres.cf@hotmail.com" 
         }, 
         
         {
-        "Case": 12, 
-        "Cidade": "Diamantina", 
-        "Delegacia": "Delegacia da Mulher em Diamantina", 
+        "Delegacia": "<b>Delegacia da Mulher em Diamantina</b>", 
         "Endereço": "Endereço: Avenida João Antunes de Oliveira, nº 284, Bairro Cazuza, Diamantina", 
         "CEP": "CEP: 39100-000", 
         "Tel1": "Telefone em caso de emergência: 190 (Polícia Militar)", 
         "Tel2": "Telefone da Central de Atendimento à Mulher: 180", 
-        "E-mail": "E-mail: deam.diamantina@pc.mg.br" 
+        "Email": "E-mail: deam.diamantina@pc.mg.br" 
         }, 
         
         { 
-        "Case": 13, 
-        "Cidade": "Divinópolis", 
-        "Delegacia": "Delegacia da Mulher em Divinópolis", 
+        "Delegacia": "<b>Delegacia da Mulher em Divinópolis</b>", 
         "Endereço": "Endereço: Rua Henrique Galvão, nº 274, Bairro Espirito Santo, Divinópolis", 
         "CEP": "CEP: 35500-256", 
         "Tel1": "Telefone em caso de emergência: 190 (Polícia Militar)", 
         "Tel2": "Telefone da Central de Atendimento à Mulher: 180", 
-        "E-mail": "E-mail: deam.gv@pc.mg.gov.br" 
+        "Email": "E-mail: deam.gv@pc.mg.gov.br" 
         }, 
         
         { 
-        "Case": 14, 
-        "Cidade": "Formiga", 
-        "Delegacia": "Delegacia Civil - Atendimento à Mulher em Formiga", 
+        "Delegacia": "<b>Delegacia Civil - Atendimento à Mulher em Formiga</b>", 
         "Endereço": "Endereço: Rua Zica Frade, nº 55, Formiga", 
         "CEP": "CEP: 35570-000", 
         "Tel1": "Telefone em caso de emergência: 190 (Polícia Militar)", 
         "Tel2": "Telefone da Central de Atendimento à Mulher: 180", 
-        "E-mail": "E-mail: drpc.formiga@pc.mg.gov.br" 
+        "Email": "E-mail: drpc.formiga@pc.mg.gov.br" 
         }, 
         
         { 
-        "Case": 15, 
-        "Cidade": "Governador Valadares", 
-        "Delegacia": "Delegacia da Mulher em Governador Valadares", 
+        "Delegacia": "<b>Delegacia da Mulher em Governador Valadares</b>", 
         "Endereço": "Endereço: Rua Pedro Lessa, nº 836, Bairro Lourdes, Governador Valadares", 
         "CEP": "CEP: 35030-440", 
         "Tel1": "Telefone em caso de emergência: 190 (Polícia Militar)", 
         "Tel2": "Telefone da Central de Atendimento à Mulher: 180", 
-        "E-mail": "E-mail: informacao.deamibirite@gmail.com" 
+        "Email": "E-mail: informacao.deamibirite@gmail.com" 
         },
         
         { 
-        "Case": 16, 
-        "Cidade": "Guaxupé", 
-        "Delegacia": "Delegacia Civil - Atendimento à Mulher em Guaxupé", 
+        "Delegacia": "<b>Delegacia Civil - Atendimento à Mulher em Guaxupé</b>", 
         "Endereço": "Endereço: Avenida Dona Floriana, nº 272, Bairro Centro, Guaxupé", 
         "CEP": "CEP: 37800-000", 
         "Tel1": "Telefone em caso de emergência: 190 (Polícia Militar)", 
         "Tel2": "Telefone da Central de Atendimento à Mulher: 180", 
-        "E-mail": "E-mail: cpd.guaxupe@pc.mg.gov.br" 
+        "Email": "E-mail: cpd.guaxupe@pc.mg.gov.br" 
         }, 
         
         { 
-        "Case": 17, 
-        "Cidade": "Ibirité", 
-        "Delegacia": "Delegacia da Mulher em Ibirité", 
+        "Delegacia": "<b>Delegacia da Mulher em Ibirité</b>", 
         "Endereço": "Endereço: Avenida Otacílio Negrão de Lima, nº 468, Bairro Aluoto, Ibirité", 
         "CEP": "CEP: 32400-000", 
         "Tel1": "Telefone em caso de emergência: 190 (Polícia Militar)", 
         "Tel2": "Telefone da Central de Atendimento à Mulher: 180", 
-        "E-mail": "E-mail: liathayde1@hotmail.com" 
+        "Email": "E-mail: liathayde1@hotmail.com" 
         }, 
         
         { 
-        "Case": 18, 
-        "Cidade": "Ipatinga", 
-        "Delegacia": "Delegacia da Mulher em Ipatinga", 
+        "Delegacia": "<b>Delegacia da Mulher em Ipatinga</b>", 
         "Endereço": "Endereço: Rua Pedras Preciosas, nº 775, Bairro Iguaçu, Ipatinga", 
         "CEP": "CEP: 35162-106", 
         "Tel1": "Telefone em caso de emergência: 190 (Polícia Militar)", 
         "Tel2": "Telefone da Central de Atendimento à Mulher: 180", 
-        "E-mail": "-" 
+        "Email": "-" 
         }, 
         
         { 
-        "Case": 19, 
-        "Cidade": "Itabira", 
-        "Delegacia": "Delegacia da Mulher em Itabira", 
+        "Delegacia": "<b>Delegacia da Mulher em Itabira</b>", 
         "Endereço": "Endereço: Avenida Carlos Drumond de Andrade, Bairro Centro, Itabira", 
         "CEP": "CEP: 35900-024", 
         "Tel1": "Telefone em caso de emergência: 190 (Polícia Militar)", 
         "Tel2": "Telefone da Central de Atendimento à Mulher: 180", 
-        "E-mail": "E-mail: regional.itabira@pc.mg.gov.br" 
+        "Email": "E-mail: regional.itabira@pc.mg.gov.br" 
         }, 
         
         { 
-        "Case": 20, 
-        "Cidade": "Itabirito", 
-        "Delegacia": "Delegacia Civil - Atendimento à Mulher em Itabirito", 
+        "Delegacia": "<b>Delegacia Civil - Atendimento à Mulher em Itabirito</b>", 
         "Endereço": "Endereço: Rua Emídio Quites, nº 136, Bairro Praia, Itabirito", 
         "CEP": "CEP: 35450-000", 
         "Tel1": "Telefone em caso de emergência: 190 (Polícia Militar)", 
         "Tel2": "Telefone da Central de Atendimento à Mulher: 180", 
-        "E-mail": "E-mail: ronni.fonseca@pc.mg.gov.br" 
+        "Email": "E-mail: ronni.fonseca@pc.mg.gov.br" 
         },
         
         { 
@@ -645,9 +605,7 @@ var dados = JSON.parse(textoJSON);
 function ExibeResultado() { 
     var selecao = document.getElementById("selecaoCidade");
     var cidade = selecao.options[selecao.selectedIndex].value;
-       
     document.getElementById("resultado-delegacia").innerHTML = dados['delegacias'][cidade-1].Delegacia + "<br>" + dados['delegacias'][cidade-1].Endereço + "<br>" + dados['delegacias'][cidade-1].CEP + "<br>" + dados['delegacias'][cidade-1].Tel1 + "<br>" + dados['delegacias'][cidade-1].Tel2 + "<br>" + dados['delegacias'][cidade-1].Email;
-       
 }
     
 
