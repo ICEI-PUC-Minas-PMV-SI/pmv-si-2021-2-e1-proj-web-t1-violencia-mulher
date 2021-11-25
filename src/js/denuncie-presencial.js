@@ -648,10 +648,8 @@ function ExibeResultado() {
 
         switch (cidade) {
         case "1":
-        resultado = "";
-        resultado = dados.delegacias(1).Delegacia + "<br>" + dados.delegacias(1).Endereço + "<br>" + dados.delegacias(1).CEP + "<br>" + dados.delegacias(1).Tel1 + "<br>" + dados.delegacias(1).Tel2 + "<br>" + dados.delegacias(1).E-mail ;   
+        resultado = dados(1);
         document.getElementById("resultado-delegacia").innerHTML = resultado;
-   
         break;
 
         case "2":
