@@ -82,7 +82,15 @@ var dados = JSON.parse(textoJSON);
 function ExibeResultado() { 
     var selecao = document.getElementById("selecaoCidade");
     var cidade = selecao.options[selecao.selectedIndex].value;
+    //Condição para imprimir 1 instituição
+    if ((cidade-1) == 3 || (cidade-1) == 4)
     document.getElementById("resultado-redeapoio").innerHTML = dados['redesapoio'][cidade-1].Instituição1 + "<br>" + dados['redesapoio'][cidade-1].Endereço1 + "<br>" + dados['redesapoio'][cidade-1].Site1 + "<br>" + dados['redesapoio'][cidade-1].Email1 + "<br>" + dados['redesapoio'][cidade-1].Telefone1;
+    //Condição para imprimir 2 instituições
+    if ((cidade-1) == 1 || (cidade-1) == 2)
+    document.getElementById("resultado-redeapoio").innerHTML = dados['redesapoio'][cidade-1].Instituição1 + "<br>" + dados['redesapoio'][cidade-1].Endereço1 + "<br>" + dados['redesapoio'][cidade-1].Site1 + "<br>" + dados['redesapoio'][cidade-1].Email1 + "<br>" + dados['redesapoio'][cidade-1].Telefone1 + "<br>" + dados['redesapoio'][cidade-1].Instituição2 + "<br>" + dados['redesapoio'][cidade-1].Endereço2 + "<br>" + dados['redesapoio'][cidade-1].Site2 + "<br>" + dados['redesapoio'][cidade-1].Email2 + "<br>" + dados['redesapoio'][cidade-1].Telefone2;
+    //Condição para imprimir 6 instituições
+    else
+    document.getElementById("resultado-redeapoio").innerHTML = dados['redesapoio'][cidade-1].Instituição1 + "<br>" + dados['redesapoio'][cidade-1].Endereço1 + "<br>" + dados['redesapoio'][cidade-1].Site1 + "<br>" + dados['redesapoio'][cidade-1].Email1 + "<br>" + dados['redesapoio'][cidade-1].Telefone1 + "<br>" + dados['redesapoio'][cidade-1].Instituição2 + "<br>" + dados['redesapoio'][cidade-1].Endereço2 + "<br>" + dados['redesapoio'][cidade-1].Site2 + "<br>" + dados['redesapoio'][cidade-1].Email2 + "<br>" + dados['redesapoio'][cidade-1].Telefone2 + "<br>" + dados['redesapoio'][cidade-1].Instituição3 + "<br>" + dados['redesapoio'][cidade-1].Endereço3 + "<br>" + dados['redesapoio'][cidade-1].Site3 + "<br>" + dados['redesapoio'][cidade-1].Email3 + "<br>" + dados['redesapoio'][cidade-1].Telefone3 + "<br>" + dados['redesapoio'][cidade-1].Instituição4 + "<br>" + dados['redesapoio'][cidade-1].Endereço4 + "<br>" + dados['redesapoio'][cidade-1].Site4 + "<br>" + dados['redesapoio'][cidade-1].Email4 + "<br>" + dados['redesapoio'][cidade-1].Telefone4 + "<br>" + dados['redesapoio'][cidade-1].Instituição5 + "<br>" + dados['redesapoio'][cidade-1].Endereço5 + "<br>" + dados['redesapoio'][cidade-1].Site5 + "<br>" + dados['redesapoio'][cidade-1].Email5 + "<br>" + dados['redesapoio'][cidade-1].Telefone5 + "<br>" + dados['redesapoio'][cidade-1].Instituição6 + "<br>" + dados['redesapoio'][cidade-1].Endereço6 + "<br>" + dados['redesapoio'][cidade-1].Site6 + "<br>" + dados['redesapoio'][cidade-1].Email6 + "<br>" + dados['redesapoio'][cidade-1].Telefone6;
 }
     
 
