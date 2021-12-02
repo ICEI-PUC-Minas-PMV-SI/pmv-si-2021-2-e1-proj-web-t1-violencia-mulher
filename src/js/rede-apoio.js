@@ -78,6 +78,96 @@ var textoJSON = `{ "redesapoio": [
         "Site6": "Site: -", 
         "Email6": "E-mail: -", 
         "Telefone6": "Telefones: (31) 3270-3200 | (31) 3270-3202"
+        },
+
+        {
+        "Cidade": "Betim", 
+        "Instituição1": "<b>Centro de Referência de Atendimento às Mulheres - CREAM</b>", 
+        "Endereço1": "Endereço: Rua Carandaí, 87, Chacará, Betim", 
+        "Site1": "Site: -", 
+        "Email1": "E-mail: -",
+        "Telefone1": "Telefone: (31) 3591-1581"
+        },
+
+        {
+        "Cidade": "Caratinga", 
+        "Instituição1": "<b></b>", 
+        "Endereço1": "", 
+        "Site1": "Site: -", 
+        "Email1": "E-mail: -",
+        "Telefone1": "Telefone: - "
+        },
+
+        {
+        "Cidade": "Cataguases", 
+        "Instituição1": "<b></b>", 
+        "Endereço1": "", 
+        "Site1": "Site: -", 
+        "Email1": "E-mail: -",
+        "Telefone1": "Telefone: - "
+        },
+
+        {
+        "Cidade": "Conselheiro Lafaiete", 
+        "Instituição1": "<b></b>", 
+        "Endereço1": "", 
+        "Site1": "Site: -", 
+        "Email1": "E-mail: -",
+        "Telefone1": "Telefone: - "
+        },
+
+        {
+        "Cidade": "Contagem", 
+        "Instituição1": "<b>Superintendência de Políticas Públicas para as Mulheres</b>", 
+        "Endereço1": "Rua José Carlos Camargos, 218, Centro, Contagem, CEP: 32.140-600", 
+        "Site1": "Site: -", 
+        "Email1": "E-mail: -",
+        "Telefone1": "Telefone: (31) 3398-9929"
+        },
+
+        {
+        "Cidade": "Coronel Fabriciano", 
+        "Instituição1": "<b></b>", 
+        "Endereço1": "", 
+        "Site1": "Site: -", 
+        "Email1": "E-mail: -",
+        "Telefone1": "Telefone: "
+        },
+
+        {
+        "Cidade": "Diamantina", 
+        "Instituição1": "<b></b>", 
+        "Endereço1": "", 
+        "Site1": "Site: -", 
+        "Email1": "E-mail: -",
+        "Telefone1": "Telefone: "
+        },
+
+        {
+        "Cidade": "Divinópolis", 
+        "Instituição1": "<b></b>", 
+        "Endereço1": "", 
+        "Site1": "Site: -", 
+        "Email1": "E-mail: -",
+        "Telefone1": "Telefone: "
+        },
+
+        {
+        "Cidade": "Formiga", 
+        "Instituição1": "<b></b>", 
+        "Endereço1": "", 
+        "Site1": "Site: -", 
+        "Email1": "E-mail: -",
+        "Telefone1": "Telefone: "
+        },
+
+        {
+        "Cidade": "Governador Valadares", 
+        "Instituição1": "<b></b>", 
+        "Endereço1": "", 
+        "Site1": "Site: -", 
+        "Email1": "E-mail: -",
+        "Telefone1": "Telefone: "
         }
     ]
     }`;
@@ -90,7 +180,7 @@ function ExibeResultado() {
     var selecao = document.getElementById("selecaoCidade");
     var cidade = selecao.options[selecao.selectedIndex].value;
     //Condição para imprimir 1 instituição
-    if (cidade == 3 || cidade == 4)
+    if (cidade == 3 || cidade == 4 || cidade == 6 || cidade == 10)
     document.getElementById("resultado-redeapoio").innerHTML = dados['redesapoio'][cidade-1].Instituição1 + "<br>" + dados['redesapoio'][cidade-1].Endereço1 + "<br>" + dados['redesapoio'][cidade-1].Telefone1 + "<br>" + dados['redesapoio'][cidade-1].Site1 + "<br>" + dados['redesapoio'][cidade-1].Email1;
     else
         //Condição para imprimir 2 instituições
