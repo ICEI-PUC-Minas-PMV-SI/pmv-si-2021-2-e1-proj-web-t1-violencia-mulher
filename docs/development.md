@@ -13,7 +13,7 @@ Nesta seção estão descritos os artefatos e estruturas de dados criados para a
 
 Inserir texto.
 
-## Instituições de apoio
+## Instituições de apoio e denúncia
 
 ### Requisitos
 
@@ -26,7 +26,7 @@ Na página "Redes de apoio", ao selecionar uma cidade, a function implementada n
   
 ![Tela Rede Apoio resultado](img/Tela-Rede-Apoio-resultado.png)
 
-Para as cidades que não possuem redes de apoio, uma mensagem padrão é exibida na tela.:
+Para as cidades que não possuem redes de apoio, uma mensagem padrão é exibida na tela:
 
 ![Tela Rede Apoio sem resultado](img/Tela-Rede-Apoio-semresultado.png)
 
