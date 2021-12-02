@@ -2,12 +2,42 @@
 
 Implementação do sistema descritas por meio dos requisitos funcionais e/ou não funcionais. Deve relacionar os requisitos atendidos os artefatos criados (código fonte) além das estruturas de dados utilizadas e as instruções para acesso e verificação da implementação que deve estar funcional no ambiente de hospedagem.
 
-Para cada requisito funcional, pode ser entregue um artefato desse tipo
+### Disponibilizar área com informações sobre a violência contra a mulher e os tipos de violência - RF-001
 
-> **Links Úteis**:
->
-> - [Trabalhando com HTML5 Local Storage e JSON](https://www.devmedia.com.br/trabalhando-com-html5-local-storage-e-json/29045)
-> - [JSON Tutorial](https://www.w3resource.com/JSON)
-> - [JSON Data Set Sample](https://opensource.adobe.com/Spry/samples/data_region/JSONDataSetSample.html)
-> - [JSON - Introduction (W3Schools)](https://www.w3schools.com/js/js_json_intro.asp)
-> - [JSON Tutorial (TutorialsPoint)](https://www.tutorialspoint.com/json/index.htm)
+
+### Disponibilizar área com informações de leis referentes a violência contra a mulher - RF-002
+
+
+### Disponibilizar área com informações sobre instituições de apoio a mulheres vítimas de violência  (RF-003) e disponibilizar funcionalidade que permita pesquisar instituições de apoio (RF-006)
+
+As páginas "Redes de apoio" e "Denuncie" apresentam uma lista de opções com 58 cidades do estado de Minas Gerais. 
+
+Na página "Redes de apoio", ao selecionar uma cidade, a function implementada no arquivo **src/js/rede-apoio.js** é executada e exibe a(s) rede(s) de apoio da cidade:
+
+
+Para as cidades que não possuem redes de apoio, uma mensagem padrão é exibida na tela.:
+
+
+
+Na página "Denúncia presencial/telefone", ao selecionar uma cidade, a function implementada no arquivo **src/js/denuncie-presencial.js** é executada e exibe a delegacia da mulher da cidade:
+
+
+Nos dois arquivos js citados, a estrutura de dados utilizada é JSON, conforme imagem a seguir:
+
+
+
+### Disponibilizar página em que o usuário poderá inserir depoimentos - RF-004
+
+
+### Disponibilizar página em que o usuário poderá ler os depoimentos - RF-005
+
+
+### Disponibilizar funcionalidade que permita definir perfil de usuário anônimo ou identificado para depoimento - RF-007
+
+
+### Disponibilizar funcionalidade que permite consultar depoimentos por regiões de Minas Gerais - RF-008
+
+
+### Disponibilizar sessão com últimas notícias relacionadas pertinentes ao tema de violência contra a mulher - RF-009
+
+
