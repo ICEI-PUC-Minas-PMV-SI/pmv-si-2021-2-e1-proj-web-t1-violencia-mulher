@@ -168,6 +168,393 @@ var textoJSON = `{ "redesapoio": [
         "Site1": "Site: -", 
         "Email1": "E-mail: -",
         "Telefone1": "Telefone: "
+        },
+
+        {
+        "Cidade": "Guaxupé", 
+        "Instituição1": "<b></b>", 
+        "Endereço1": "", 
+        "Site1": "Site: -", 
+        "Email1": "E-mail: -",
+        "Telefone1": "Telefone: "
+        },
+
+        {
+        "Cidade": "Ibirité", 
+        "Instituição1": "<b></b>", 
+        "Endereço1": "", 
+        "Site1": "Site: -", 
+        "Email1": "E-mail: -",
+        "Telefone1": "Telefone: "
+        },
+    
+        {
+        "Cidade": "Ipatinga", 
+        "Instituição1": "<b></b>", 
+        "Endereço1": "", 
+        "Site1": "Site: -", 
+        "Email1": "E-mail: -",
+        "Telefone1": "Telefone: "
+        },
+    
+        {
+        "Cidade": "Itabira", 
+        "Instituição1": "<b>Centro de Referência Especializado de Atendimento à Mulher - CREAM</b>", 
+        "Endereço1": "Endereço: Avenida Carlos de Paula Andrade, 135 A, Centro, Itabira", 
+        "Site1": "Site: -", 
+        "Email1": "E-mail: -",
+        "Telefone1": "Telefone: (31) 3839-2164"
+        },
+    
+        {
+        "Cidade": "Itabirito", 
+        "Instituição1": "<b></b>", 
+        "Endereço1": "", 
+        "Site1": "Site: -", 
+        "Email1": "E-mail: -",
+        "Telefone1": "Telefone: "
+        },
+    
+        {
+        "Cidade": "Itajubá", 
+        "Instituição1": "<b></b>", 
+        "Endereço1": "", 
+        "Site1": "Site: -", 
+        "Email1": "E-mail: -",
+        "Telefone1": "Telefone: "
+        },
+    
+        {
+        "Cidade": "Itaúna", 
+        "Instituição1": "<b></b>", 
+        "Endereço1": "", 
+        "Site1": "Site: -", 
+        "Email1": "E-mail: -",
+        "Telefone1": "Telefone: "
+        },
+    
+        {
+        "Cidade": "Ituiutaba", 
+        "Instituição1": "<b></b>", 
+        "Endereço1": "", 
+        "Site1": "Site: -", 
+        "Email1": "E-mail: -",
+        "Telefone1": "Telefone: "
+        },
+    
+        {
+        "Cidade": "Janaúba", 
+        "Instituição1": "<b></b>", 
+        "Endereço1": "", 
+        "Site1": "Site: -", 
+        "Email1": "E-mail: -",
+        "Telefone1": "Telefone: "
+        },
+    
+        {
+        "Cidade": "Januária", 
+        "Instituição1": "<b></b>", 
+        "Endereço1": "", 
+        "Site1": "Site: -", 
+        "Email1": "E-mail: -",
+        "Telefone1": "Telefone: "
+        },
+    
+        {
+        "Cidade": "João Monlevade", 
+        "Instituição1": "<b></b>", 
+        "Endereço1": "", 
+        "Site1": "Site: -", 
+        "Email1": "E-mail: -",
+        "Telefone1": "Telefone: "
+        },
+    
+        {
+        "Cidade": "Juiz de Fora", 
+        "Instituição1": "<b></b>", 
+        "Endereço1": "", 
+        "Site1": "Site: -", 
+        "Email1": "E-mail: -",
+        "Telefone1": "Telefone: "
+        },
+    
+        {
+        "Cidade": "Lavras", 
+        "Instituição1": "<b></b>", 
+        "Endereço1": "", 
+        "Site1": "Site: -", 
+        "Email1": "E-mail: -",
+        "Telefone1": "Telefone: "
+        },
+    
+        {
+        "Cidade": "Manhuaçu", 
+        "Instituição1": "<b></b>", 
+        "Endereço1": "", 
+        "Site1": "Site: -", 
+        "Email1": "E-mail: -",
+        "Telefone1": "Telefone: "
+        },
+    
+        {
+        "Cidade": "Montes Claros", 
+        "Instituição1": "<b></b>", 
+        "Endereço1": "", 
+        "Site1": "Site: -", 
+        "Email1": "E-mail: -",
+        "Telefone1": "Telefone: "
+        },
+    
+        {
+        "Cidade": "Muriaé", 
+        "Instituição1": "<b></b>", 
+        "Endereço1": "", 
+        "Site1": "Site: -", 
+        "Email1": "E-mail: -",
+        "Telefone1": "Telefone: "
+        },
+    
+        {
+        "Cidade": "Nova Lima", 
+        "Instituição1": "<b>Centro de Referência da Mulher</b>", 
+        "Endereço1": "Endereço: Rua Dr. Antonino Fonseca Júnior, 88, bairro Rosário, Nova Lima", 
+        "Site1": "Site: -", 
+        "Email1": "E-mail: -",
+        "Telefone1": "Telefone: (31) 3542-5918"
+        },
+    
+        {
+        "Cidade": "Pará de Minas", 
+        "Instituição1": "<b></b>", 
+        "Endereço1": "", 
+        "Site1": "Site: -", 
+        "Email1": "E-mail: -",
+        "Telefone1": "Telefone: "
+        },
+    
+        {
+        "Cidade": "Passos", 
+        "Instituição1": "<b></b>", 
+        "Endereço1": "", 
+        "Site1": "Site: -", 
+        "Email1": "E-mail: -",
+        "Telefone1": "Telefone: "
+        },
+    
+        {
+        "Cidade": "Patos de Minas", 
+        "Instituição1": "<b></b>", 
+        "Endereço1": "", 
+        "Site1": "Site: -", 
+        "Email1": "E-mail: -",
+        "Telefone1": "Telefone: "
+        },
+    
+        {
+        "Cidade": "Patrocínio", 
+        "Instituição1": "<b></b>", 
+        "Endereço1": "", 
+        "Site1": "Site: -", 
+        "Email1": "E-mail: -",
+        "Telefone1": "Telefone: "
+        },
+    
+        {
+        "Cidade": "Pedro Leopoldo", 
+        "Instituição1": "<b></b>", 
+        "Endereço1": "", 
+        "Site1": "Site: -", 
+        "Email1": "E-mail: -",
+        "Telefone1": "Telefone: "
+        },
+    
+        {
+        "Cidade": "Pirapora", 
+        "Instituição1": "<b></b>", 
+        "Endereço1": "", 
+        "Site1": "Site: -", 
+        "Email1": "E-mail: -",
+        "Telefone1": "Telefone: "
+        },
+    
+        {
+        "Cidade": "Poços de Caldas", 
+        "Instituição1": "<b></b>", 
+        "Endereço1": "", 
+        "Site1": "Site: -", 
+        "Email1": "E-mail: -",
+        "Telefone1": "Telefone: "
+        },
+    
+        {
+        "Cidade": "Ponte Nova", 
+        "Instituição1": "<b></b>", 
+        "Endereço1": "", 
+        "Site1": "Site: -", 
+        "Email1": "E-mail: -",
+        "Telefone1": "Telefone: "
+        },
+    
+        {
+        "Cidade": "Pouso Alegre", 
+        "Instituição1": "<b></b>", 
+        "Endereço1": "", 
+        "Site1": "Site: -", 
+        "Email1": "E-mail: -",
+        "Telefone1": "Telefone: "
+        },
+    
+        {
+        "Cidade": "Ribeirão das Neves", 
+        "Instituição1": "<b>Superintendência de Proteção Social Básica e Cidadania</b>", 
+        "Endereço1": "Endereço: Rua Ari Teixeira da Costa, 1.100, Savassi, Ribeirão das Neves, CEP: 33880-630", 
+        "Site1": "Site: -", 
+        "Email1": "E-mail: superintendenciaprotecaobasica@gmail.com",
+        "Telefone1": "Telefone: (31) 3627-5649"
+        },
+    
+        {
+        "Cidade": "Sabará", 
+        "Instituição1": "<b></b>", 
+        "Endereço1": "", 
+        "Site1": "Site: -", 
+        "Email1": "E-mail: -",
+        "Telefone1": "Telefone: "
+        },
+    
+        {
+        "Cidade": "Santa Luzia", 
+        "Instituição1": "<b></b>", 
+        "Endereço1": "", 
+        "Site1": "Site: -", 
+        "Email1": "E-mail: -",
+        "Telefone1": "Telefone: "
+        },
+    
+        {
+        "Cidade": "Santa Maria", 
+        "Instituição1": "<b></b>", 
+        "Endereço1": "", 
+        "Site1": "Site: -", 
+        "Email1": "E-mail: -",
+        "Telefone1": "Telefone: "
+        },
+    
+        {
+        "Cidade": "Santos Dumont", 
+        "Instituição1": "<b></b>", 
+        "Endereço1": "", 
+        "Site1": "Site: -", 
+        "Email1": "E-mail: -",
+        "Telefone1": "Telefone: "
+        },
+    
+        {
+        "Cidade": "São João Del Rei", 
+        "Instituição1": "<b></b>", 
+        "Endereço1": "", 
+        "Site1": "Site: -", 
+        "Email1": "E-mail: -",
+        "Telefone1": "Telefone: "
+        },
+    
+        {
+        "Cidade": "São Lourenço", 
+        "Instituição1": "<b></b>", 
+        "Endereço1": "", 
+        "Site1": "Site: -", 
+        "Email1": "E-mail: -",
+        "Telefone1": "Telefone: "
+        },
+    
+        {
+        "Cidade": "São Sebastião do Paraíso", 
+        "Instituição1": "<b></b>", 
+        "Endereço1": "", 
+        "Site1": "Site: -", 
+        "Email1": "E-mail: -",
+        "Telefone1": "Telefone: "
+        },
+    
+        {
+        "Cidade": "Sete Lagoas", 
+        "Instituição1": "<b></b>", 
+        "Endereço1": "", 
+        "Site1": "Site: -", 
+        "Email1": "E-mail: -",
+        "Telefone1": "Telefone: "
+        },
+    
+        {
+        "Cidade": "Teófilo Otoni", 
+        "Instituição1": "<b></b>", 
+        "Endereço1": "", 
+        "Site1": "Site: -", 
+        "Email1": "E-mail: -",
+        "Telefone1": "Telefone: "
+        },
+    
+        {
+        "Cidade": "Três Corações", 
+        "Instituição1": "<b></b>", 
+        "Endereço1": "", 
+        "Site1": "Site: -", 
+        "Email1": "E-mail: -",
+        "Telefone1": "Telefone: "
+        },
+    
+        {
+        "Cidade": "Ubá", 
+        "Instituição1": "<b></b>", 
+        "Endereço1": "", 
+        "Site1": "Site: -", 
+        "Email1": "E-mail: -",
+        "Telefone1": "Telefone: "
+        },
+    
+        {
+        "Cidade": "Uberaba", 
+        "Instituição1": "<b></b>", 
+        "Endereço1": "", 
+        "Site1": "Site: -", 
+        "Email1": "E-mail: -",
+        "Telefone1": "Telefone: "
+        },
+    
+        {
+        "Cidade": "Uberlândia", 
+        "Instituição1": "<b></b>", 
+        "Endereço1": "", 
+        "Site1": "Site: -", 
+        "Email1": "E-mail: -",
+        "Telefone1": "Telefone: "
+        },
+    
+        {
+        "Cidade": "Unaí", 
+        "Instituição1": "<b></b>", 
+        "Endereço1": "", 
+        "Site1": "Site: -", 
+        "Email1": "E-mail: -",
+        "Telefone1": "Telefone: "
+        },
+    
+        {
+        "Cidade": "Varginha", 
+        "Instituição1": "<b></b>", 
+        "Endereço1": "", 
+        "Site1": "Site: -", 
+        "Email1": "E-mail: -",
+        "Telefone1": "Telefone: "
+        },
+    
+        {
+        "Cidade": "Vespasiano", 
+        "Instituição1": "<b></b>", 
+        "Endereço1": "", 
+        "Site1": "Site: -", 
+        "Email1": "E-mail: -",
+        "Telefone1": "Telefone: "
         }
     ]
     }`;
@@ -186,9 +573,13 @@ function ExibeResultado() {
         //Condição para imprimir 2 instituições
         if (cidade == 1 || cidade == 2)
         document.getElementById("resultado-redeapoio").innerHTML = dados['redesapoio'][cidade-1].Instituição1 + "<br>" + dados['redesapoio'][cidade-1].Endereço1 + "<br>" + dados['redesapoio'][cidade-1].Telefone1 + "<br>" + dados['redesapoio'][cidade-1].Site1 + "<br>" + dados['redesapoio'][cidade-1].Email1 + "<br> <br>" + dados['redesapoio'][cidade-1].Instituição2 + "<br>" + dados['redesapoio'][cidade-1].Endereço2 + "<br>" + dados['redesapoio'][cidade-1].Telefone2 + "<br>" + dados['redesapoio'][cidade-1].Site2 + "<br>" + dados['redesapoio'][cidade-1].Email2;
-        //Condição para imprimir 1 instituição (o restante das cidades)
         else
+        //Condição para imprimir 1 instituição
+        if (cidade == 3 || cidade == 4 || cidade == 6 || cidade == 10 || cidade == 19 || cidade == 32 || cidade == 42)
         document.getElementById("resultado-redeapoio").innerHTML = dados['redesapoio'][cidade-1].Instituição1 + "<br>" + dados['redesapoio'][cidade-1].Endereço1 + "<br>" + dados['redesapoio'][cidade-1].Telefone1 + "<br>" + dados['redesapoio'][cidade-1].Site1 + "<br>" + dados['redesapoio'][cidade-1].Email1;
+        //Condição para imprimir que não localizamos redes de apoio (o restante das cidades)
+        else
+        document.getElementById("resultado-redeapoio").innerHTML = "Não localizamos redes de apoio na sua cidade. <br><br> Caso queira nos enviar informações sobre redes de apoio, envie para o e-mail: <b>minasunidaspucminas@gmail.com</b> <br><br> <i>Agradecemos a sua compreensão!</i>";
 }
     
 
