@@ -6,11 +6,19 @@ Nesta seção estão descritos os artefatos e estruturas de dados criados para a
 
 ## Legislação
 
-Inserir texto.
-- RF-001: Disponibilizar área com informações sobre a violência contra a mulher e os tipos de violência.
-- RF-002: Disponibilizar área com informações de leis referentes a violência contra a mulher.
+### Requisitos
 
-### Disponibilizar área com informações sobre instituições de apoio a mulheres vítimas de violência  (RF-003) e disponibilizar funcionalidade que permita pesquisar instituições de apoio (RF-006)
+- RF-001 - Disponibilizar área com informações sobre a violência contra a mulher e os tipos de violência
+- RF-002 - Disponibilizar área com informações de leis referentes a violência contra a mulher
+
+Inserir texto.
+
+## Instituições de apoio
+
+### Requisitos
+
+- RF-003 - Disponibilizar área com informações sobre instituições de apoio a mulheres vítimas de violência
+- RF-006 - Disponibilizar funcionalidade que permita pesquisar instituições de apoio
 
 As páginas "Redes de apoio" e "Denuncie" apresentam uma lista de opções com 58 cidades do estado de Minas Gerais. 
 
@@ -31,6 +39,13 @@ Nos dois arquivos js citados, a estrutura de dados utilizada é JSON, conforme i
 ![JSON](img/JSON.png)  
 
 ## Depoimentos
+
+### Requisitos
+
+RF-004 - Disponibilizar página em que o usuário poderá inserir depoimentos
+RF-005 - Disponibilizar página em que o usuário poderá ler os depoimentos
+RF-007 - Disponibilizar funcionalidade que permita definir perfil de usuário anônimo ou identificado para depoimento
+
 Na página "Depoimentos", o usuário pode visualizar todos os depoimentos já cadastrados no site.
 
 ![Tela Leitura de Depoimentos](img/tela-depoimentos-leitura.png)
@@ -43,7 +58,7 @@ var db  = {
         {
             nome: 'Maria',
             idade: 50,
-            cidade: 'BH',
+            cidade: 'Belo Horizonte',
             texto: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit.'
         }
     ]
@@ -62,11 +77,14 @@ Após o envio do formulário, é exibido um modal com mensagem informando o suce
 
 ![Modal Depoimento enviado com sucesso](img/tela-depoimentos-sucesso.png)
 
-Os dados cadastrados são registrados no Local Storage. Com esta funcionalidade, é atendido o **RF-004 (Disponibilizar página em que o usuário poderá inserir depoimentos)**.
+Os dados cadastrados são registrados no localStorage do navegador de acordo com a estrutura de dados presente em `src/js/depoimentos.js` apresentada anteriormente. Com esta funcionalidade, é atendido o **RF-004 (Disponibilizar página em que o usuário poderá inserir depoimentos)**.
 
 ## Notícias
+
+### Requisitos
+- RF-009 - Disponibilizar sessão com últimas notícias relacionadas pertinentes ao tema de violência contra a mulher
+
 Inserir texto.
-- RF-009: Disponibilizar sessão com últimas notícias relacionadas pertinentes ao tema de violência contra a mulher.
 
 </div>
 
