@@ -24,7 +24,7 @@ var textoJSON = `{ "delegacias": [
         "CEP": "CEP: 38183-184", 
         "Tel1": "Telefone em caso de emergência: 190 (Polícia Militar)", 
         "Tel2": "Telefone da Central de Atendimento à Mulher: 180", 
-        "Email": "-" 
+        "Email": "E-mail: -" 
         }, 
         
         { 
@@ -158,7 +158,7 @@ var textoJSON = `{ "delegacias": [
         "CEP": "CEP: 35162-106", 
         "Tel1": "Telefone em caso de emergência: 190 (Polícia Militar)", 
         "Tel2": "Telefone da Central de Atendimento à Mulher: 180", 
-        "Email": "-" 
+        "Email": "E-mail: -" 
         }, 
         
         { 
@@ -248,7 +248,7 @@ var textoJSON = `{ "delegacias": [
         "CEP": "CEP: 37200-000", 
         "Tel1": "Telefone em caso de emergência: 190 (Polícia Militar)", 
         "Tel2": "Telefone da Central de Atendimento à Mulher: 180", 
-        "Email": "-" 
+        "Email": "E-mail: -" 
         }, 
         
         { 
@@ -326,7 +326,7 @@ var textoJSON = `{ "delegacias": [
         { 
         "Delegacia": "<b>Delegacia da Mulher em Pedro Leopoldo</b>", 
         "Endereço": "Endereço: Rua Santa Luzia, nº 477, Bairro Centro, Pedro Leopoldo", 
-        "CEP": "-", 
+        "CEP": "CEP: -", 
         "Tel1": "Telefone em caso de emergência: 190 (Polícia Militar)", 
         "Tel2": "Telefone da Central de Atendimento à Mulher: 180", 
         "Email": "E-mail: aisp71.igesp@pc.mg.gov.br" 

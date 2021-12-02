@@ -1,7 +1,8 @@
 // Dados em formato JSON
 var textoJSON = `{ "redesapoio": [
         { 
-         "Instituição1": "<b>Centro de Referência Especializado de Assistência Social - CREAS</b>", 
+        "Cidade": "Alfenas",
+        "Instituição1": "<b>Centro de Referência Especializado de Assistência Social - CREAS</b>", 
         "Endereço1": "Endereço: Rua Tiradentes, 1088, Parque das Nações, Alfenas, CEP: 37130-000", 
         "Site1": "Site: -", 
         "Email1": "E-mail: -", 
@@ -14,6 +15,7 @@ var textoJSON = `{ "redesapoio": [
         },
         
         { 
+        "Cidade": "Araguari",
         "Instituição1": "<b>Unidade de Acolhimento de Araguari</b>", 
         "Endereço1": "Endereço: Rua Dolival Gonçalves de Araújo, 35, Milenium, Araguari , CEP: 38447-369", 
         "Site1": "Site: -", 
@@ -27,6 +29,7 @@ var textoJSON = `{ "redesapoio": [
         },
         
         { 
+        "Cidade": "Araxá",
         "Instituição1": "<b>Centro de Referência Especializado da Assistência Social (CREAS)</b>", 
         "Endereço1": "Endereço: Av. Imbiara, 900, Centro, Araxá, CEP: 38183-244", 
         "Site1": "Site: https:\/\/cmdcaaraxa.com.br\/creas\/ ", 
@@ -34,7 +37,8 @@ var textoJSON = `{ "redesapoio": [
         "Telefone1": "Telefone: (34) 36912-2024"
         },
         
-        { 
+        {
+        "Cidade": "Barbacena", 
         "Instituição1": "<b>Mulheres Pela Paz</b>", 
         "Endereço1": "Endereço: Av. Gov. Benedito Valadares, 306, São Sebastião, Barbacena, CEP: 36200-008", 
         "Site1": "Site: -", 
@@ -43,6 +47,7 @@ var textoJSON = `{ "redesapoio": [
         },
         
         { 
+        "Cidade": "Belo Horizonte",
         "Instituição1": "<b>Centro Especializado de Atendimento a Mulher - Benvinda</b>", 
         "Endereço1": "Endereço: R. Hermilo Alves, 34, Santa Tereza, Belo Horizonte, CEP: 31010-115", 
         "Site1": "Site: https:\/\/prefeitura.pbh.gov.br\/smasac\/sudc\/equipamentos\/benvinda", 
@@ -73,6 +78,96 @@ var textoJSON = `{ "redesapoio": [
         "Site6": "Site: -", 
         "Email6": "E-mail: -", 
         "Telefone6": "Telefones: (31) 3270-3200 | (31) 3270-3202"
+        },
+
+        {
+        "Cidade": "Betim", 
+        "Instituição1": "<b>Centro de Referência de Atendimento às Mulheres - CREAM</b>", 
+        "Endereço1": "Endereço: Rua Carandaí, 87, Chacará, Betim", 
+        "Site1": "Site: -", 
+        "Email1": "E-mail: -",
+        "Telefone1": "Telefone: (31) 3591-1581"
+        },
+
+        {
+        "Cidade": "Caratinga", 
+        "Instituição1": "<b></b>", 
+        "Endereço1": "", 
+        "Site1": "Site: -", 
+        "Email1": "E-mail: -",
+        "Telefone1": "Telefone: - "
+        },
+
+        {
+        "Cidade": "Cataguases", 
+        "Instituição1": "<b></b>", 
+        "Endereço1": "", 
+        "Site1": "Site: -", 
+        "Email1": "E-mail: -",
+        "Telefone1": "Telefone: - "
+        },
+
+        {
+        "Cidade": "Conselheiro Lafaiete", 
+        "Instituição1": "<b></b>", 
+        "Endereço1": "", 
+        "Site1": "Site: -", 
+        "Email1": "E-mail: -",
+        "Telefone1": "Telefone: - "
+        },
+
+        {
+        "Cidade": "Contagem", 
+        "Instituição1": "<b>Superintendência de Políticas Públicas para as Mulheres</b>", 
+        "Endereço1": "Rua José Carlos Camargos, 218, Centro, Contagem, CEP: 32.140-600", 
+        "Site1": "Site: -", 
+        "Email1": "E-mail: -",
+        "Telefone1": "Telefone: (31) 3398-9929"
+        },
+
+        {
+        "Cidade": "Coronel Fabriciano", 
+        "Instituição1": "<b></b>", 
+        "Endereço1": "", 
+        "Site1": "Site: -", 
+        "Email1": "E-mail: -",
+        "Telefone1": "Telefone: "
+        },
+
+        {
+        "Cidade": "Diamantina", 
+        "Instituição1": "<b></b>", 
+        "Endereço1": "", 
+        "Site1": "Site: -", 
+        "Email1": "E-mail: -",
+        "Telefone1": "Telefone: "
+        },
+
+        {
+        "Cidade": "Divinópolis", 
+        "Instituição1": "<b></b>", 
+        "Endereço1": "", 
+        "Site1": "Site: -", 
+        "Email1": "E-mail: -",
+        "Telefone1": "Telefone: "
+        },
+
+        {
+        "Cidade": "Formiga", 
+        "Instituição1": "<b></b>", 
+        "Endereço1": "", 
+        "Site1": "Site: -", 
+        "Email1": "E-mail: -",
+        "Telefone1": "Telefone: "
+        },
+
+        {
+        "Cidade": "Governador Valadares", 
+        "Instituição1": "<b></b>", 
+        "Endereço1": "", 
+        "Site1": "Site: -", 
+        "Email1": "E-mail: -",
+        "Telefone1": "Telefone: "
         }
     ]
     }`;
@@ -84,16 +179,16 @@ var dados = JSON.parse(textoJSON);
 function ExibeResultado() { 
     var selecao = document.getElementById("selecaoCidade");
     var cidade = selecao.options[selecao.selectedIndex].value;
-    //Condição para imprimir 1 instituição
-    if (cidade == 3 || cidade == 4)
-    document.getElementById("resultado-redeapoio").innerHTML = dados['redesapoio'][cidade-1].Instituição1 + "<br>" + dados['redesapoio'][cidade-1].Endereço1 + "<br>" + dados['redesapoio'][cidade-1].Telefone1 + "<br>" + dados['redesapoio'][cidade-1].Site1 + "<br>" + dados['redesapoio'][cidade-1].Email1;
+    //Condição para imprimir 6 instituições (Belo Horizonte)
+    if (cidade == 5)
+    document.getElementById("resultado-redeapoio").innerHTML = dados['redesapoio'][cidade-1].Instituição1 + "<br>" + dados['redesapoio'][cidade-1].Endereço1 + "<br>" + dados['redesapoio'][cidade-1].Telefone1 + "<br>" + dados['redesapoio'][cidade-1].Site1 + "<br>" + dados['redesapoio'][cidade-1].Email1 + "<br> <br>" + dados['redesapoio'][cidade-1].Instituição2 + "<br>" + dados['redesapoio'][cidade-1].Endereço2 + "<br>" + dados['redesapoio'][cidade-1].Telefone2 + "<br>" + dados['redesapoio'][cidade-1].Site2 + "<br>" + dados['redesapoio'][cidade-1].Email2 + "<br> <br>" + dados['redesapoio'][cidade-1].Instituição3 + "<br>" + dados['redesapoio'][cidade-1].Endereço3 + "<br>" + dados['redesapoio'][cidade-1].Telefone3 + "<br>" + dados['redesapoio'][cidade-1].Site3 + "<br>" + dados['redesapoio'][cidade-1].Email3 + "<br> <br>" + dados['redesapoio'][cidade-1].Instituição4 + "<br>" + dados['redesapoio'][cidade-1].Endereço4 + "<br>" + dados['redesapoio'][cidade-1].Telefone4 + "<br>" + dados['redesapoio'][cidade-1].Site4 + "<br>" + dados['redesapoio'][cidade-1].Email4 + "<br> <br>" + dados['redesapoio'][cidade-1].Instituição5 + "<br>" + dados['redesapoio'][cidade-1].Endereço5 + "<br>" + dados['redesapoio'][cidade-1].Telefone5 + "<br>" + dados['redesapoio'][cidade-1].Site5 + "<br>" + dados['redesapoio'][cidade-1].Email5 + "<br> <br>" + dados['redesapoio'][cidade-1].Instituição6 + "<br>" + dados['redesapoio'][cidade-1].Endereço6 + "<br>" + dados['redesapoio'][cidade-1].Telefone6 + "<br>" + dados['redesapoio'][cidade-1].Site6 + "<br>" + dados['redesapoio'][cidade-1].Email6;
     else
         //Condição para imprimir 2 instituições
         if (cidade == 1 || cidade == 2)
         document.getElementById("resultado-redeapoio").innerHTML = dados['redesapoio'][cidade-1].Instituição1 + "<br>" + dados['redesapoio'][cidade-1].Endereço1 + "<br>" + dados['redesapoio'][cidade-1].Telefone1 + "<br>" + dados['redesapoio'][cidade-1].Site1 + "<br>" + dados['redesapoio'][cidade-1].Email1 + "<br> <br>" + dados['redesapoio'][cidade-1].Instituição2 + "<br>" + dados['redesapoio'][cidade-1].Endereço2 + "<br>" + dados['redesapoio'][cidade-1].Telefone2 + "<br>" + dados['redesapoio'][cidade-1].Site2 + "<br>" + dados['redesapoio'][cidade-1].Email2;
-        //Condição para imprimir 6 instituições
+        //Condição para imprimir 1 instituição (o restante das cidades)
         else
-        document.getElementById("resultado-redeapoio").innerHTML = dados['redesapoio'][cidade-1].Instituição1 + "<br>" + dados['redesapoio'][cidade-1].Endereço1 + "<br>" + dados['redesapoio'][cidade-1].Telefone1 + "<br>" + dados['redesapoio'][cidade-1].Site1 + "<br>" + dados['redesapoio'][cidade-1].Email1 + "<br> <br>" + dados['redesapoio'][cidade-1].Instituição2 + "<br>" + dados['redesapoio'][cidade-1].Endereço2 + "<br>" + dados['redesapoio'][cidade-1].Telefone2 + "<br>" + dados['redesapoio'][cidade-1].Site2 + "<br>" + dados['redesapoio'][cidade-1].Email2 + "<br> <br>" + dados['redesapoio'][cidade-1].Instituição3 + "<br>" + dados['redesapoio'][cidade-1].Endereço3 + "<br>" + dados['redesapoio'][cidade-1].Telefone3 + "<br>" + dados['redesapoio'][cidade-1].Site3 + "<br>" + dados['redesapoio'][cidade-1].Email3 + "<br> <br>" + dados['redesapoio'][cidade-1].Instituição4 + "<br>" + dados['redesapoio'][cidade-1].Endereço4 + "<br>" + dados['redesapoio'][cidade-1].Telefone4 + "<br>" + dados['redesapoio'][cidade-1].Site4 + "<br>" + dados['redesapoio'][cidade-1].Email4 + "<br> <br>" + dados['redesapoio'][cidade-1].Instituição5 + "<br>" + dados['redesapoio'][cidade-1].Endereço5 + "<br>" + dados['redesapoio'][cidade-1].Telefone5 + "<br>" + dados['redesapoio'][cidade-1].Site5 + "<br>" + dados['redesapoio'][cidade-1].Email5 + "<br> <br>" + dados['redesapoio'][cidade-1].Instituição6 + "<br>" + dados['redesapoio'][cidade-1].Endereço6 + "<br>" + dados['redesapoio'][cidade-1].Telefone6 + "<br>" + dados['redesapoio'][cidade-1].Site6 + "<br>" + dados['redesapoio'][cidade-1].Email6;
+        document.getElementById("resultado-redeapoio").innerHTML = dados['redesapoio'][cidade-1].Instituição1 + "<br>" + dados['redesapoio'][cidade-1].Endereço1 + "<br>" + dados['redesapoio'][cidade-1].Telefone1 + "<br>" + dados['redesapoio'][cidade-1].Site1 + "<br>" + dados['redesapoio'][cidade-1].Email1;
 }
     
 
