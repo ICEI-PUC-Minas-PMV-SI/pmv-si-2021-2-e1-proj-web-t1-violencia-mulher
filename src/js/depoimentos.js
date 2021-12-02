@@ -1,4 +1,4 @@
-var db_inicial  = {
+var db  = {
     data: [
         {
             nome: 'Maria',
@@ -24,6 +24,6 @@ var db_inicial  = {
 // caso os dados já estejam no local storage. caso contrário, carrega os dados iniciais
 var db = JSON.parse(localStorage.getItem('db'));
 
-if (!db) {
+/* if (!db) {
     db = db_inicial
-};
+}; */
