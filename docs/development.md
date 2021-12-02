@@ -34,10 +34,26 @@ Na página "Denúncia presencial/telefone", ao selecionar uma cidade, a function
 
 ![Tela Denuncia Presencial](img/Tela-Denuncia-Presencial.png)
 
-Nos dois arquivos js citados, a estrutura de dados utilizada é JSON, conforme imagem a seguir:
+Nos dois arquivos js citados, a estrutura de dados utilizada é JSON, conforme exemplo a seguir:
 
-![JSON](img/JSON.png)  
-
+```  
+var textoJSON = `{ "redesapoio": [
+        { 
+         "Instituição1": "<b>Centro de Referência Especializado de Assistência Social - CREAS</b>", 
+        "Endereço1": "Endereço: Rua Tiradentes, 1088, Parque das Nações, Alfenas, CEP: 37130-000", 
+        "Site1": "Site: -", 
+        "Email1": "E-mail: -", 
+        "Telefone1": "Telefone: (35) 3297-4547", 
+        "Instituição2": "<b>Núcleo de Atenção à Mulher (NAM) - Unifal-MG</b>", 
+        "Endereço2": "Endereço: Rua Nabor Toledo Lopes, 598 , Parque das Nações, Alfenas, CEP: 37130-000", 
+        "Site2": "Site: https:\/\/www.unifal-mg.edu.br\/prace\/nam\/", 
+        "Email2": "E-mail: prace@unifal-mg.edu.br", 
+        "Telefone2": "Telefone: (35) 3701-9242"
+        }
+  ]
+  }`
+```
+  
 ## Depoimentos
 
 ### Requisitos
