@@ -165,13 +165,16 @@
             marker.addListener ('click', function(){
                 infoWindow.open (map, marker);
             });
-                        */
+            */
+
+            addMarker();
 
             // add marker function
             function addMarker(coords){
             var marker = new google.maps.Marker({
                 position: coords,
                 map:map
+                });
             }
         }
         </script>
