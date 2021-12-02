@@ -1,7 +1,8 @@
 // Dados em formato JSON
 var textoJSON = `{ "redesapoio": [
         { 
-         "Instituição1": "<b>Centro de Referência Especializado de Assistência Social - CREAS</b>", 
+        "Cidade": "Alfenas",
+        "Instituição1": "<b>Centro de Referência Especializado de Assistência Social - CREAS</b>", 
         "Endereço1": "Endereço: Rua Tiradentes, 1088, Parque das Nações, Alfenas, CEP: 37130-000", 
         "Site1": "Site: -", 
         "Email1": "E-mail: -", 
@@ -14,6 +15,7 @@ var textoJSON = `{ "redesapoio": [
         },
         
         { 
+        "Cidade": "Araguari",
         "Instituição1": "<b>Unidade de Acolhimento de Araguari</b>", 
         "Endereço1": "Endereço: Rua Dolival Gonçalves de Araújo, 35, Milenium, Araguari , CEP: 38447-369", 
         "Site1": "Site: -", 
@@ -27,6 +29,7 @@ var textoJSON = `{ "redesapoio": [
         },
         
         { 
+        "Cidade": "Araxá",
         "Instituição1": "<b>Centro de Referência Especializado da Assistência Social (CREAS)</b>", 
         "Endereço1": "Endereço: Av. Imbiara, 900, Centro, Araxá, CEP: 38183-244", 
         "Site1": "Site: https:\/\/cmdcaaraxa.com.br\/creas\/ ", 
@@ -34,7 +37,8 @@ var textoJSON = `{ "redesapoio": [
         "Telefone1": "Telefone: (34) 36912-2024"
         },
         
-        { 
+        {
+        "Cidade": "Barbacena", 
         "Instituição1": "<b>Mulheres Pela Paz</b>", 
         "Endereço1": "Endereço: Av. Gov. Benedito Valadares, 306, São Sebastião, Barbacena, CEP: 36200-008", 
         "Site1": "Site: -", 
@@ -43,6 +47,7 @@ var textoJSON = `{ "redesapoio": [
         },
         
         { 
+        "Cidade": "Belo Horizonte",
         "Instituição1": "<b>Centro Especializado de Atendimento a Mulher - Benvinda</b>", 
         "Endereço1": "Endereço: R. Hermilo Alves, 34, Santa Tereza, Belo Horizonte, CEP: 31010-115", 
         "Site1": "Site: https:\/\/prefeitura.pbh.gov.br\/smasac\/sudc\/equipamentos\/benvinda", 
