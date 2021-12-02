@@ -11,6 +11,8 @@ Nesta seção estão descritos os artefatos e estruturas de dados criados para a
 - RF-001 - Disponibilizar área com informações sobre a violência contra a mulher e os tipos de violência
 - RF-002 - Disponibilizar área com informações de leis referentes a violência contra a mulher
 
+<br/>
+
 Inserir texto.
 
 ## Instituições de apoio e denúncia
@@ -19,6 +21,8 @@ Inserir texto.
 
 - RF-003 - Disponibilizar área com informações sobre instituições de apoio a mulheres vítimas de violência
 - RF-006 - Disponibilizar funcionalidade que permita pesquisar instituições de apoio
+  
+<br/>
 
 As páginas "Redes de apoio" e "Denuncie" apresentam uma lista de opções com 58 cidades do estado de Minas Gerais. 
 
@@ -61,12 +65,16 @@ var textoJSON = `{ "redesapoio": [
 - RF-004 - Disponibilizar página em que o usuário poderá inserir depoimentos
 - RF-005 - Disponibilizar página em que o usuário poderá ler os depoimentos
 - RF-007 - Disponibilizar funcionalidade que permita definir perfil de usuário anônimo ou identificado para depoimento
+  
+<br/>
 
 Na página "Depoimentos", o usuário pode visualizar todos os depoimentos já cadastrados no site.
 
 ![Tela Leitura de Depoimentos](img/tela-depoimentos-leitura.png)
 
 Os depoimentos já cadastrados são exibidos por meio de uma função que acessa os dados armazenados no arquivo `src/js/depoimentos.js`. Este arquivo contém uma estrutura de dados baseada em JSON que armazena nome, idade, cidade e depoimento dos usuários no localStorage do navegador. Assim, foi atendido o **RF-005 (Disponibilizar página em que o usuário poderá ler os depoimentos)**.
+
+<br/>
 
 ```
 var db  = {
@@ -80,6 +88,8 @@ var db  = {
     ]
 }
 ```
+
+<br/>
 
 Por meio da página Depoimentos, também é possível acessar a página com o formulário para cadastro de novos depoimentos.
 
@@ -100,6 +110,8 @@ Os dados cadastrados são registrados no localStorage do navegador de acordo com
 ### Requisitos
 - RF-009 - Disponibilizar sessão com últimas notícias relacionadas pertinentes ao tema de violência contra a mulher
 
+<br/>
+  
 No final da homepage/index, o usuário pode visualizar um carrossel de notícias relacionadas ao conteúdo de violência contra a mulher, passando as notícias de 8 em 8 segundos, cada uma contando com um botão que leva à íntegra da notícia.
 
 ![Tela Carrossel de Notícias da Homepage](img/tela-homepage-carrossel-noticias.jpg)
