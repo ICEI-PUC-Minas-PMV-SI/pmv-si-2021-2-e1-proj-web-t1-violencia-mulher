@@ -42,9 +42,9 @@ Nos dois arquivos js citados, a estrutura de dados utilizada é JSON, conforme i
 
 ### Requisitos
 
-RF-004 - Disponibilizar página em que o usuário poderá inserir depoimentos
-RF-005 - Disponibilizar página em que o usuário poderá ler os depoimentos
-RF-007 - Disponibilizar funcionalidade que permita definir perfil de usuário anônimo ou identificado para depoimento
+- RF-004 - Disponibilizar página em que o usuário poderá inserir depoimentos
+- RF-005 - Disponibilizar página em que o usuário poderá ler os depoimentos
+- RF-007 - Disponibilizar funcionalidade que permita definir perfil de usuário anônimo ou identificado para depoimento
 
 Na página "Depoimentos", o usuário pode visualizar todos os depoimentos já cadastrados no site.
 
