@@ -67,8 +67,8 @@ Na homepage há a opção para clicar no botão "Redes de Apoio", ao clicar nest
 
 ![Wireframe_Redes de Apoio](https://user-images.githubusercontent.com/68625518/136619580-35b7d04c-97d4-412d-8e95-0adb7216ec61.png)
  
+</div>
+
 <hr>
- 
- </div align="justify">
  
 <p align="right"><a href="./especification.md">Especificação do Projeto</a> | <a href="./template.md">Template Padrão</a></p>

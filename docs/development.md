@@ -2,7 +2,13 @@
   
 # Programação de Funcionalidades
 
-Implementação do sistema descritas por meio dos requisitos funcionais e/ou não funcionais. Deve relacionar os requisitos atendidos os artefatos criados (código fonte) além das estruturas de dados utilizadas e as instruções para acesso e verificação da implementação que deve estar funcional no ambiente de hospedagem.
+*Implementação do sistema descritas por meio dos requisitos funcionais e/ou não funcionais. Deve relacionar os requisitos atendidos os artefatos criados (código fonte) além das estruturas de dados utilizadas e as instruções para acesso e verificação da implementação que deve estar funcional no ambiente de hospedagem.*
+
+As tecnologias utilizadas para o desenvolvimento do projeto se baseiam nas linguagens HTML, CSS e JavaScript.
+
+Nesta seção é apresentada a implementação dos requisitos descritos nas <a href="./especification.md">Especificações do Projeto</a>.
+
+As telas para cada uma das funcionalidades do sistema são apresentadas a seguir.
 
 ### Disponibilizar área com informações sobre a violência contra a mulher e os tipos de violência - RF-001
 Inserir texto
@@ -32,13 +38,23 @@ Nos dois arquivos js citados, a estrutura de dados utilizada é JSON, conforme i
 
 
 ### Disponibilizar página em que o usuário poderá inserir depoimentos - RF-004
-Inserir texto
+Esta funcionalidade é responsável pelo cadastro de novos depoimentos. Os dados cadastrados são registrados no Local Storage.
+
+![Tela Cadastro de Depoimentos](img/tela-depoimentos-cadastro.png)
+
+Após o envio do formulário, é exibido um modal com mensagem informando o sucesso no envio:
+
+![Modal Depoimento enviado com sucesso](img/tela-depoimentos-sucesso.png)
 
 ### Disponibilizar página em que o usuário poderá ler os depoimentos - RF-005
-Inserir texto
+Na página "Depoimentos", o usuário pode visualizar todos os depoimentos já cadastrados no site.
+
+![Tela Leitura de Depoimentos](img/tela-depoimentos-leitura.png)
 
 ### Disponibilizar funcionalidade que permita definir perfil de usuário anônimo ou identificado para depoimento - RF-007
 Inserir texto
+
+![Tela Cadastro de Depoimento Anônimo](img/tela-depoimentos-anonimo.png)
 
 ### Disponibilizar funcionalidade que permite consultar depoimentos por regiões de Minas Gerais - RF-008
 Inserir texto
@@ -47,3 +63,7 @@ Inserir texto
 Inserir texto
 
 </div>
+
+<hr>
+ 
+<p align="right"><a href="./template.md">Template Padrão</a> | <a href="./tests.md">Testes de Software</a></p>
