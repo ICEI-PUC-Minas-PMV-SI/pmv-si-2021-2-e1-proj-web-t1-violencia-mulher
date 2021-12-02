@@ -1,10 +1,9 @@
 # Template padrão do site
 
-Atualmente, o template padrão encontra-se na pasta source (src).
+O template padrão encontra-se no arquivo master-page.html dentro do diretório source (src). 
 
-> **Links Úteis**:
->
-> - [CSS Website Layout (W3Schools)](https://www.w3schools.com/css/css_website_layout.asp)
-> - [Website Page Layouts](http://www.cellbiol.com/bioinformatics_web_development/chapter-3-your-first-web-page-learning-html-and-css/website-page-layouts/)
-> - [Perfect Liquid Layout](https://matthewjamestaylor.com/perfect-liquid-layouts)
-> - [How and Why Icons Improve Your Web Design](https://usabilla.com/blog/how-and-why-icons-improve-you-web-design/)
+As imagens do ícone e da logo encontram-se no diretório src/imgs. 
+
+O arquivo style.css encontra-se no diretório src/css.
+
+
