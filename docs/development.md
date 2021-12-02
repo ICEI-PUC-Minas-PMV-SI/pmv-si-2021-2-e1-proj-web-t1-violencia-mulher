@@ -16,18 +16,19 @@ As páginas "Redes de apoio" e "Denuncie" apresentam uma lista de opções com 5
 
 Na página "Redes de apoio", ao selecionar uma cidade, a function implementada no arquivo **src/js/rede-apoio.js** é executada e exibe a(s) rede(s) de apoio da cidade:
   
-![Rede Apoio](img/Tela Rede Apoio resultado.png)
+![Rede Apoio](docs/img/Tela Rede Apoio resultado.png)
 
 Para as cidades que não possuem redes de apoio, uma mensagem padrão é exibida na tela.:
 
-![Rede Apoio sem resultado](img/Tela Rede Apoio sem resultado.png)
+![Rede Apoio sem resultado](docs/img/Tela Rede Apoio sem resultado.png)
 
 Na página "Denúncia presencial/telefone", ao selecionar uma cidade, a function implementada no arquivo **src/js/denuncie-presencial.js** é executada e exibe a delegacia da mulher da cidade:
 
-![Delegacia](img/Tela Denuncia Presencial.png)
+![Delegacia](docs/img/Tela Denuncia Presencial.png)
 
 Nos dois arquivos js citados, a estrutura de dados utilizada é JSON, conforme imagem a seguir:
 
+![JSON](docs/img/JSON.png)  
 
 
 ### Disponibilizar página em que o usuário poderá inserir depoimentos - RF-004
