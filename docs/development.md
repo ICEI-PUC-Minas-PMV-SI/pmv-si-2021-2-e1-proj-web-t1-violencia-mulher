@@ -84,7 +84,9 @@ Os dados cadastrados são registrados no localStorage do navegador de acordo com
 ### Requisitos
 - RF-009 - Disponibilizar sessão com últimas notícias relacionadas pertinentes ao tema de violência contra a mulher
 
-Inserir texto.
+No final da homepage/index, o usuário pode visualizar um carrossel de notícias relacionadas ao conteúdo de violência contra a mulher, passando as notícias de 8 em 8 segundos, cada uma contando com um botão que leva à íntegra da notícia.
+
+![Tela Carrossel de Notícias da Homepage](img/tela-homepage-carrossel-noticias.jpg)
 
 </div>
 
