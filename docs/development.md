@@ -16,8 +16,14 @@ Ao acessar a página Legislação, será exibo menu descrevendo  os tipos de vio
   
 ![Menu Tipos de Violência](img/tela-legislacao-tv-resultado.png)
   
-Foi desenvolvido uma `nav-bar` horizoal que contém botões do tipo  `nav-link`.
-Ao clicar nos botões, é listado os dados do tipo de violência selecionado que são resgatados em uma lista da tavela `tab-pane`.
+Foi desenvolvido uma `nav-bar` horizoal que contém botões do tipo  `nav-link`.Ao clicar nos botões, é listado os dados do tipo de violência selecionado que são resgatados em uma lista da tavela `tab-pane`.
+
+Logo abaixo é exibido o resumo da Lei Maria da Penha:
+  
+![Menu resumo da Lei](img/tela-legislacao-reslei-resultado.png)
+
+Foi desenvolvido uma `nav-bar` vertical que contém botões do tipo `nav-link`. 
+Ao clicar nos botões, é listado os dados resumidos de cada sessão do artigo, onde são resgatados em uma lista da tabela `tab-pane`.
 
   
 <br/>
