@@ -16,8 +16,8 @@ Ao acessar a página Legislação, será exibo menu descrevendo  os tipos de vio
   
 ![Menu Tipos de Violência](img/tela-legislacao-tv-resultado.png)
   
-Foi desenvolvido uma navbar horizontal que contém botões do tipo nav-link .
-Ao clicar nos botõed , é listado os dados do tipo de violência selecionado  que são resgatados de uma lista  da tabela `tab-pane`.
+Foi desenvolvido uma `nav-bar` horizoal que contém botões do tipo  `nav-link`.
+Ao clicar nos botões, é listado os dados do tipo de violência selecionado que são resgatados em uma lista da tavela `tab-pane`.
 
   
 <br/>
