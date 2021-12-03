@@ -13,8 +13,12 @@ Nesta seção estão descritos os artefatos e estruturas de dados criados para a
 
 Para atender aos requisitos RF-001 e RF002 foi desenvolvido a página Legislação.
 Ao acessar a página Legislação, será exibo menu descrevendo  os tipos de violência definidos  pelo Lei Maria da Penha:
+  
 ![Menu Tipos de Violência](img/tela-legislacao-tv-resultado.png)
   
+Foi desenvolvido uma navbar horizontal que contém botões do tipo nav-link .
+Ao clicar nos botõed , é listado os dados do tipo de violência selecionado  que são resgatados de uma lista  da tabela 'tab-pane'.
+
   
 <br/>
 Inserir texto.
