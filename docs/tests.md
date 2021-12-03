@@ -62,4 +62,4 @@ Novos testes serão realizados em breve após a correção dos problemas.
 
 <hr>
  
-<p align="right"><a href="./development.md">Programação de Funcionalidades</a> | <a href="presentation/README.md">Referências</a></p>
+<p align="left"><a href="./development.md">Programação de Funcionalidades</a>

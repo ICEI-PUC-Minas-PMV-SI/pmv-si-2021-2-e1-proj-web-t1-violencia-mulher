@@ -2,65 +2,119 @@
   
 # Programação de Funcionalidades
 
-*Implementação do sistema descritas por meio dos requisitos funcionais e/ou não funcionais. Deve relacionar os requisitos atendidos os artefatos criados (código fonte) além das estruturas de dados utilizadas e as instruções para acesso e verificação da implementação que deve estar funcional no ambiente de hospedagem.*
+Nesta seção estão descritos os artefatos e estruturas de dados criados para atender aos requisitos previstos nas <a href="./especification.md">Especificações do Projeto</a>, bem como as instruções para acesso e verificação da implementação. As tecnologias utilizadas se baseiam nas linguagens HTML, CSS e JavaScript.
 
-As tecnologias utilizadas para o desenvolvimento do projeto se baseiam nas linguagens HTML, CSS e JavaScript.
+## Legislação
 
-Nesta seção é apresentada a implementação dos requisitos descritos nas <a href="./especification.md">Especificações do Projeto</a>.
+### Requisitos
 
-As telas para cada uma das funcionalidades do sistema são apresentadas a seguir.
+- RF-001 - Disponibilizar área com informações sobre a violência contra a mulher e os tipos de violência
+- RF-002 - Disponibilizar área com informações de leis referentes a violência contra a mulher
 
-### Disponibilizar área com informações sobre a violência contra a mulher e os tipos de violência - RF-001
-Inserir texto
+<br/>
 
-### Disponibilizar área com informações de leis referentes a violência contra a mulher - RF-002
-Inserir texto
+Inserir texto.
 
-### Disponibilizar área com informações sobre instituições de apoio a mulheres vítimas de violência  (RF-003) e disponibilizar funcionalidade que permita pesquisar instituições de apoio (RF-006)
+## Instituições de apoio e denúncia
+
+### Requisitos
+
+- RF-003 - Disponibilizar área com informações sobre instituições de apoio a mulheres vítimas de violência
+- RF-006 - Disponibilizar funcionalidade que permita pesquisar instituições de apoio
+  
+<br/>
 
 As páginas "Redes de apoio" e "Denuncie" apresentam uma lista de opções com 58 cidades do estado de Minas Gerais. 
 
-Na página "Redes de apoio", ao selecionar uma cidade, a function implementada no arquivo **src/js/rede-apoio.js** é executada e exibe a(s) rede(s) de apoio da cidade:
+Na página "Redes de apoio", ao selecionar uma cidade, a function implementada no arquivo `src/js/rede-apoio.js` é executada e exibe a(s) rede(s) de apoio da cidade:
   
 ![Tela Rede Apoio resultado](img/Tela-Rede-Apoio-resultado.png)
 
-Para as cidades que não possuem redes de apoio, uma mensagem padrão é exibida na tela.:
+Para as cidades que não possuem redes de apoio, uma mensagem padrão é exibida na tela:
 
 ![Tela Rede Apoio sem resultado](img/Tela-Rede-Apoio-semresultado.png)
 
-Na página "Denúncia presencial/telefone", ao selecionar uma cidade, a function implementada no arquivo **src/js/denuncie-presencial.js** é executada e exibe a delegacia da mulher da cidade:
+Na página "Denúncia presencial/telefone", ao selecionar uma cidade, a function implementada no arquivo `src/js/denuncie-presencial.js` é executada e exibe a delegacia da mulher da cidade:
 
 ![Tela Denuncia Presencial](img/Tela-Denuncia-Presencial.png)
 
-Nos dois arquivos js citados, a estrutura de dados utilizada é JSON, conforme imagem a seguir:
+Nos dois arquivos js citados, a estrutura de dados utilizada é JSON, conforme exemplo a seguir:
 
-![JSON](img/JSON.png)  
+```  
+var textoJSON = `{ "redesapoio": [
+        { 
+         "Instituição1": "<b>Centro de Referência Especializado de Assistência Social - CREAS</b>", 
+        "Endereço1": "Endereço: Rua Tiradentes, 1088, Parque das Nações, Alfenas, CEP: 37130-000", 
+        "Site1": "Site: -", 
+        "Email1": "E-mail: -", 
+        "Telefone1": "Telefone: (35) 3297-4547", 
+        "Instituição2": "<b>Núcleo de Atenção à Mulher (NAM) - Unifal-MG</b>", 
+        "Endereço2": "Endereço: Rua Nabor Toledo Lopes, 598 , Parque das Nações, Alfenas, CEP: 37130-000", 
+        "Site2": "Site: https:\/\/www.unifal-mg.edu.br\/prace\/nam\/", 
+        "Email2": "E-mail: prace@unifal-mg.edu.br", 
+        "Telefone2": "Telefone: (35) 3701-9242"
+        }
+  ]
+  }`
+```
+  
+## Depoimentos
 
+### Requisitos
 
-### Disponibilizar página em que o usuário poderá inserir depoimentos - RF-004
-Esta funcionalidade é responsável pelo cadastro de novos depoimentos. Os dados cadastrados são registrados no Local Storage.
+- RF-004 - Disponibilizar página em que o usuário poderá inserir depoimentos
+- RF-005 - Disponibilizar página em que o usuário poderá ler os depoimentos
+- RF-007 - Disponibilizar funcionalidade que permita definir perfil de usuário anônimo ou identificado para depoimento
+  
+<br/>
+
+Na página "Depoimentos", o usuário pode visualizar todos os depoimentos já cadastrados no site.
+
+![Tela Leitura de Depoimentos](img/tela-depoimentos-leitura.png)
+
+Os depoimentos já cadastrados são exibidos por meio de uma função que acessa os dados armazenados no arquivo `src/js/depoimentos.js`. Este arquivo contém uma estrutura de dados baseada em JSON que armazena nome, idade, cidade e depoimento dos usuários no localStorage do navegador. Assim, foi atendido o **RF-005 (Disponibilizar página em que o usuário poderá ler os depoimentos)**.
+
+<br/>
+
+```
+var db  = {
+    data: [
+        {
+            nome: 'Maria',
+            idade: 50,
+            cidade: 'Belo Horizonte',
+            texto: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit.'
+        }
+    ]
+}
+```
+
+<br/>
+
+Por meio da página Depoimentos, também é possível acessar a página com o formulário para cadastro de novos depoimentos.
 
 ![Tela Cadastro de Depoimentos](img/tela-depoimentos-cadastro.png)
+
+No formulário de cadastrado, é oferecida ao usuário a opção de registrar o seu depoimento de forma anônima, atendendo ao **RF-007 (Disponibilizar funcionalidade que permita definir perfil de usuário anônimo ou identificado para depoimento)**.
+
+![Tela Cadastro de Depoimento Anônimo](img/tela-depoimentos-anonimo.png)
 
 Após o envio do formulário, é exibido um modal com mensagem informando o sucesso no envio:
 
 ![Modal Depoimento enviado com sucesso](img/tela-depoimentos-sucesso.png)
 
-### Disponibilizar página em que o usuário poderá ler os depoimentos - RF-005
-Na página "Depoimentos", o usuário pode visualizar todos os depoimentos já cadastrados no site.
+Os dados cadastrados são registrados no localStorage do navegador de acordo com a estrutura de dados presente em `src/js/depoimentos.js` apresentada anteriormente. Com esta funcionalidade, é atendido o **RF-004 (Disponibilizar página em que o usuário poderá inserir depoimentos)**.
 
-![Tela Leitura de Depoimentos](img/tela-depoimentos-leitura.png)
+## Notícias
 
-### Disponibilizar funcionalidade que permita definir perfil de usuário anônimo ou identificado para depoimento - RF-007
-Inserir texto
+### Requisitos
+- RF-009 - Disponibilizar sessão com últimas notícias relacionadas pertinentes ao tema de violência contra a mulher
 
-![Tela Cadastro de Depoimento Anônimo](img/tela-depoimentos-anonimo.png)
+<br/>
+  
+No final da homepage/index, o usuário pode visualizar um carrossel de notícias relacionadas ao conteúdo de violência contra a mulher, passando as notícias de 8 em 8 segundos, cada uma contando com um botão que leva à íntegra da notícia.
 
-### Disponibilizar funcionalidade que permite consultar depoimentos por regiões de Minas Gerais - RF-008
-Inserir texto
-
-### Disponibilizar sessão com últimas notícias relacionadas pertinentes ao tema de violência contra a mulher - RF-009
-Inserir texto
+![Tela Carrossel de Notícias da Homepage](img/tela-homepage-carrossel-noticias.jpg)
 
 </div>
 

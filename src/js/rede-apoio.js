@@ -579,7 +579,7 @@ function ExibeResultado() {
         document.getElementById("resultado-redeapoio").innerHTML = dados['redesapoio'][cidade-1].Instituição1 + "<br>" + dados['redesapoio'][cidade-1].Endereço1 + "<br>" + dados['redesapoio'][cidade-1].Telefone1 + "<br>" + dados['redesapoio'][cidade-1].Site1 + "<br>" + dados['redesapoio'][cidade-1].Email1;
         //Condição para imprimir que não localizamos redes de apoio (o restante das cidades)
         else
-        document.getElementById("resultado-redeapoio").innerHTML = "Não localizamos redes de apoio na sua cidade. <br><br> Caso queira nos enviar informações sobre redes de apoio, envie para o e-mail: <b>minasunidaspucminas@gmail.com</b> <br><br> <i>Agradecemos a sua compreensão!</i>";
+        document.getElementById("resultado-redeapoio").innerHTML = "Não localizamos redes de apoio na sua cidade. <br><br> Caso queira nos enviar informações sobre redes de apoio, encaminhe para o e-mail: <b>minasunidaspucminas@gmail.com</b> <br><br> <i>Agradecemos a sua compreensão!</i>";
 }
     
 
