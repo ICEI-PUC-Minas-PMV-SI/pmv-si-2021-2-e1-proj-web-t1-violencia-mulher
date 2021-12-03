@@ -31,7 +31,7 @@ As páginas "Redes de apoio" e "Denuncie" apresentam uma lista de opções com 5
 
 Na página "Redes de apoio", ao selecionar uma cidade, a function implementada no arquivo `src/js/rede-apoio.js` é executada e exibe a(s) rede(s) de apoio da cidade:
   
-![Tela Rede Apoio resultado](img/Tela-Rede-Apoio-resultado.png!
+![Tela Rede Apoio resultado](img/Tela-Rede-Apoio-resultado.png)
 
 Para as cidades que não possuem redes de apoio, uma mensagem padrão é exibida na tela:
 
