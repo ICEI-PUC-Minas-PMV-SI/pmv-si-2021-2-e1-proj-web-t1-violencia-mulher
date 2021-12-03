@@ -11,8 +11,11 @@ Nesta seção estão descritos os artefatos e estruturas de dados criados para a
 - RF-001 - Disponibilizar área com informações sobre a violência contra a mulher e os tipos de violência
 - RF-002 - Disponibilizar área com informações de leis referentes a violência contra a mulher
 
+Para atender aos requisitos RF-001 e RF002 foi desenvolvido a página Legislação.
+Ao acessar a página Legislação, será exibo menu descrevendo  os tipos de violência definidos  pelo Lei Maria da Penha:
+  ![Menu Tipos de Violência] (img / tela-legislacao-tv-resultado.png)
+  
 <br/>
-
 Inserir texto.
 
 ## Instituições de apoio e denúncia
@@ -28,7 +31,7 @@ As páginas "Redes de apoio" e "Denuncie" apresentam uma lista de opções com 5
 
 Na página "Redes de apoio", ao selecionar uma cidade, a function implementada no arquivo `src/js/rede-apoio.js` é executada e exibe a(s) rede(s) de apoio da cidade:
   
-![Tela Rede Apoio resultado](img/Tela-Rede-Apoio-resultado.png)
+![Tela Rede Apoio resultado](img/Tela-Rede-Apoio-resultado.png!
 
 Para as cidades que não possuem redes de apoio, uma mensagem padrão é exibida na tela:
 
