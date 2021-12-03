@@ -12,22 +12,36 @@ Nesta seção estão descritos os artefatos e estruturas de dados criados para a
 - RF-002 - Disponibilizar área com informações de leis referentes a violência contra a mulher
 
 Para atender aos requisitos RF-001 e RF002 foi desenvolvido a página Legislação.
-Ao acessar a página Legislação, será exibo menu descrevendo  os tipos de violência definidos  pelo Lei Maria da Penha:
+
+Ao acessar a página Legislação, será exibo menu descrevendo os tipos de violência definidos pela Lei Maria da Penha:
   
 ![Menu Tipos de Violência](img/tela-legislacao-tv-resultado.png)
   
-Foi desenvolvido uma `nav-bar` horizoal que contém botões do tipo  `nav-link`.Ao clicar nos botões, é listado os dados do tipo de violência selecionado que são resgatados em uma lista da tavela `tab-pane`.
+Foi desenvolvido um menu de opções do tipo `nav-pills` horizontal que contém botões do tipo `nav-link`.
+
+Ao clicar nos botões, o site verifica a lista da tabela do tipo `tab-pane` e retorna os dados de acordo com o tipo de violência selecionado.
+
+<br/>
 
 Logo abaixo é exibido o resumo da Lei Maria da Penha:
   
 ![Menu resumo da Lei](img/tela-legislacao-reslei-resultado.png)
 
-Foi desenvolvido uma `nav-bar` vertical que contém botões do tipo `nav-link`. 
-Ao clicar nos botões, é listado os dados resumidos de cada sessão do artigo, onde são resgatados em uma lista da tabela `tab-pane`.
+Foi desenvolvido um menu de opções do tipo `nav-pills` vertical que contém botões do tipo `nav-link`. 
+
+Ao clicar nos botões, o site verifica a lista da tabela do tipo `tab-pane` e retorna os dados de acordo com a sessão da Lei Maria da Penha que foi selecionada.
+
+No final da página foi disponibilizado o botão `Faça sua denúncia` onde ao clicar, direciona para a página `/src/denuncie.html`:
+
+![Menu resumo da Lei](img/tela-legislacao-btn-deuncia-resultado.png)
+
+Também foi disponibilizado o botão `Leia a lei na íntegra`, onde ao clicar, o usuário será direcionado em uma nova aba para o link `http://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm` contendo a descrição completa da Lei Maria da Penha:
+
+![Menu resumo da Lei](img/tela-legislacao-btn-lei-comp-resultado.png)
 
   
 <br/>
-Inserir texto.
+
 
 ## Instituições de apoio e denúncia
 
