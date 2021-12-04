@@ -149,27 +149,11 @@
              }
 
              // new map
-             var map = new google.maps.Map(document.getElementById('map'), options);
-            
-            /*
-            // add marcador
-            var marker = new google.maps.Marker({
-                position:{lat:-21.4280565,lng:-45.9473621},
-                map:map
-            });
+            var map = new google.maps.Map(document.getElementById('map'), options);
 
-            var infoWindow = new google.maps.InfoWindow({
-                content: '<h1>Centro de Referência Especializado de Assistência Social - CREAS</h1>'
-            });
-
-            marker.addListener ('click', function(){
-                infoWindow.open (map, marker);
-            });
-            */
-           
             addMarker({
                 coords:{lat:-21.4280565,lng:-45.9473621},
-                content: '<h9>Casa de Apoio a Mulher vítima de Violencia</h9>'
+                content: '<div>Casa de Apoio a Mulher vítima de Violencia</div>',                                           
             
             });
             addMarker({
