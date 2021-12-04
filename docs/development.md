@@ -64,7 +64,7 @@ Para as cidades que não possuem redes de apoio, uma mensagem padrão é exibida
 
 Na mesma página, implementamos a API "Maps JavaScript" do google que nos permite posicionar dentro do estado de Minas Gerais a localização das redes de apoio listadas.
 
-![Google Maps API](img/Google Maps.jpg)
+![Google Maps API](img/googlemaps.jpg)
 
 Na página "Denúncia presencial/telefone", ao selecionar uma cidade, a function implementada no arquivo `src/js/denuncie-presencial.js` é executada e exibe a delegacia da mulher da cidade:
 
