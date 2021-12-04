@@ -62,7 +62,7 @@ Para as cidades que não possuem redes de apoio, uma mensagem padrão é exibida
 
 ![Tela Rede Apoio sem resultado](img/Tela-Rede-Apoio-semresultado.png)
 
-Na mesma página, implementamos a API "Maps JavaScript" do google que nos permite posicionar dentro do estado de Minas Gerais a localização das redes de apoio listadas.
+Na mesma página de redes de apoio, implementamos a API "Maps JavaScript" do google que nos permite posicionar dentro do estado de Minas Gerais a localização das redes de apoio listadas. Através do clique em cada marcador é possível consultar informações básicas sobre a instituição.
 
 ![Google Maps API](img/googlemaps.jpg)
 
