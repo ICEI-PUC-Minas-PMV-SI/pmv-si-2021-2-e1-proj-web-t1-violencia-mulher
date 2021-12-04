@@ -5,7 +5,7 @@
 
     <!-- Meta tags -->
     <title>Minas Unidas - Depoimentos</title>
-    <link rel="shortcut icon" type="imagex/png" href="imgs/icone-projeto.ico">
+    <link rel="shortcut icon" type="imagex/png" href="/src/imgs/icone-projeto.ico">
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -40,7 +40,7 @@
 
                 <!-- Logo -->
                 <a class="navbar-brand" href="index.html">
-                    <img class="image-nav" src="imgs/navbar-brand.png" alt="Logo">
+                    <img class="image-nav" src="/src/imgs/navbar-brand.png" alt="Logo">
                     <p class="titulo-pagina">Minas Unidas</p>
                 </a>
 
@@ -53,15 +53,12 @@
                 </ul>
 
                 <!-- Pesquisa -->
-                <form>
-
-                    <!-- Input da pesquisa -->
-                    <input class="form-control" type="search" placeholder="Pesquisar">
-
-                    <!-- Lupa / botão pesquisar -->
-                    <span class="fa fa-search" type="submit"></span>
-
-                </form>
+                <div>
+                    <!-- API de pesquisa Google -->
+                    <script async src="https://cse.google.com/cse.js?cx=71de091c2885a8116"></script>
+                    <div class="gcse-search"></div>
+                    
+                </div>
 
             </div>
         </nav>
@@ -173,7 +170,7 @@
 
                                 <!-- Input Idade-->
                                 <div class="form-group col-md-4">
-                                    <input id="inputIdade" type="number" min="18" max="99" class="form-control" placeholder="Idade">
+                                    <input id="inputIdade" type="number" maxlength="2" min="18" max="99" class="form-control" placeholder="Idade">
                                 </div>
 
                             </div>
@@ -258,7 +255,7 @@
         <div class="container">
             <div class="row row-cols-1 row-cols-md-4 row-cols-sm-1">
                 <div class="col-right"></br></br>
-                    <img src="imgs/navbar-brand.png" alt="logo" width="60" height="54">
+                    <img src="/src/imgs/navbar-brand.png" alt="logo" width="60" height="54">
                 </div>
 
                 <div class="col"></br></br>
@@ -268,14 +265,14 @@
 
                 <div class="col"></br></br>
                     <b>Contato</b></br>
-                    E-mail:
+                    minasunidaspucminas@gmail.com
                 </div>
 
                 <div class="col-left"></br></br>
                     <b>Apoio</b></br>
                     <a
                         href="https://www.pucminas.br/vestibular/Paginas/default.aspx?utm_source=google&utm_medium=search&utm_campaign=vestibular-22&gclid=EAIaIQobChMI6LjkzqbZ8wIVhg-RCh2F8gu1EAAYASAAEgL5avD_BwE">
-                        <img src="imgs/logo-puc.jpeg" width="60" height="60" alt="Logo PUC Minas">
+                        <img src="/src/imgs/logo-puc.jpeg" width="60" height="60" alt="Logo PUC Minas">
                     </a>
                 </div>
 

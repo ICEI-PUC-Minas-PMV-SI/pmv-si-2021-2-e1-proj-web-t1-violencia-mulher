@@ -5,7 +5,7 @@
     <!-- Meta tags -->
     <!-- Meta tags -->
     <title>Minas Unidas - Legislação</title>
-    <link rel="shortcut icon" type="imagex/png" href="imgs/icone-projeto.ico">
+    <link rel="shortcut icon" type="imagex/png" href="/src/imgs/icone-projeto.ico">
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -19,9 +19,9 @@
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.2/dist/js/bootstrap.bundle.min.js"></script>
     <!-- CSS da página -->
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="/src/css/style.css">
     <!--CSS da página Legislação-->
-    <link rel="stylesheet" href="css/legislacao.css">
+    <link rel="stylesheet" href="/src/css/legislacao.css">
     <!-- CSS Ícone lupa -->
     <script src="https://kit.fontawesome.com/16bd7ee685.js" crossorigin="anonymous"></script>
     <!--Estilo animado-->
@@ -40,7 +40,7 @@
             <div class="container">
                 <!-- Logo -->
                 <a class="navbar-brand" href="index.html">
-                    <img class="image-nav" src="imgs/navbar-brand.png" alt="Logo">
+                    <img class="image-nav" src="/src/imgs/navbar-brand.png" alt="Logo">
                     <p class="titulo-pagina">Minas Unidas</p>
                 </a>
                 <!-- Menu -->
@@ -51,12 +51,12 @@
                     <li class="nav-item denuncie"><a href="denuncie.html" class="btn">Denuncie</a></li>
                 </ul>
                 <!-- Pesquisa -->
-                <form>
-                    <!-- Input da pesquisa -->
-                    <input class="form-control" type="search" placeholder="Pesquisar">
-                    <!-- Lupa / botão pesquisar -->
-                    <span class="fa fa-search" type="submit"></span>
-                </form>
+                <div>
+                    <!-- API de pesquisa Google -->
+                    <script async src="https://cse.google.com/cse.js?cx=71de091c2885a8116"></script>
+                    <div class="gcse-search"></div>
+                    
+                </div>
             </div>
         </nav>
     </header>
@@ -392,7 +392,7 @@
 
         <div class="row">
             <div class="col-sm-12">
-                <a class="btn-direciona mt-3 mb-3" href="denuncie.html">Faça sua denuncia</a>
+                <a class="btn-direciona mt-3 mb-3" href="denuncie.html">Faça sua denúncia</a>
             </div>
             <div class="col-sm-12">
                 <a class="btn-direciona" href="http://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm"
@@ -412,7 +412,7 @@
         <div class="container">
             <div class="row row-cols-1 row-cols-md-4 row-cols-sm-1">
                 <div class="col-right"></br></br>
-                    <img src="imgs/navbar-brand.png" alt="logo" width="60" height="54">
+                    <img src="/src/imgs/navbar-brand.png" alt="logo" width="60" height="54">
                 </div>
                 <div class="col"></br></br>
                     Minas Unidas &copy 2021 Copyright</br>
@@ -420,13 +420,13 @@
                 </div>
                 <div class="col"></br></br>
                     <b>Contato</b></br>
-                    E-mail:
+                    minasunidaspucminas@gmail.com
                 </div>
                 <div class="col-left"></br></br>
                     <b>Apoio</b></br>
                     <a
                         href="https://www.pucminas.br/vestibular/Paginas/default.aspx?utm_source=google&utm_medium=search&utm_campaign=vestibular-22&gclid=EAIaIQobChMI6LjkzqbZ8wIVhg-RCh2F8gu1EAAYASAAEgL5avD_BwE">
-                        <img src="imgs/logo-puc.jpeg" width="60" height="60" alt="Logo PUC Minas">
+                        <img src="/src/imgs/logo-puc.jpeg" width="60" height="60" alt="Logo PUC Minas">
                     </a>
                 </div>
             </div>

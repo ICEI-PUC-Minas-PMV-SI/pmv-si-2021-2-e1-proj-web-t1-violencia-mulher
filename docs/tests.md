@@ -59,3 +59,7 @@ Foram reportados os seguintes bugs:
 Os bugs ainda não foram resolvidos até a escrita deste documento.
 
 Novos testes serão realizados em breve após a correção dos problemas.
+
+<hr>
+ 
+<p align="left"><a href="./development.md">Programação de Funcionalidades</a>
