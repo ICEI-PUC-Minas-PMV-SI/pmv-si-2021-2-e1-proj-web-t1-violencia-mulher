@@ -136,18 +136,53 @@
             #map{
                 height: 400px;
                 width: 100%;
-            }
+            } 
         </style>
         <div id="map"></div>
-                <script>
+        <script>
             function initMap(){
+
+             // map options   
              var options = { 
-                 zoom:8,
+                 zoom:7,
                  center:{lat:-19.841644,lng:-43.986511}
              }
 
-             var map = new google.maps.Map(document.getElementById('map'), options);
+             // new map
+            var map = new google.maps.Map(document.getElementById('map'), options);
+
+            addMarker({
+                coords:{lat:-21.4280565,lng:-45.9473621},
+                content: '<div>Casa de Apoio a Mulher vítima de Violencia</div>',                                           
+            
+            });
+            addMarker({
+                coords:{lat:-19.9193807,lng:-43.9421614},
+                content: '<h9>Unidade de Acolhimento de Araguari</h9>'
+            });
+            addMarker({coords:{lat:-21.2181025,lng:-43.7788601}});
+            addMarker({coords:{lat:-19.60095,lng:-46.9425637}});
+            
+            // add marker function
+            function addMarker(props){
+            var marker = new google.maps.Marker({
+                position: props.coords,
+                map:map
+                });
+
+            // check content
+            if(props.content){
+                var infoWindow = new google.maps.InfoWindow({
+                content: props.content
+            });
+
+            marker.addListener ('click', function(){
+                infoWindow.open (map, marker);
+            });
+
             }
+          }
+        }
         </script>
         <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDQ1YSx31Je1gidcRVU-JTeisssC5clDo0&callback=initMap"></script>
         </main>

@@ -62,6 +62,10 @@ Para as cidades que não possuem redes de apoio, uma mensagem padrão é exibida
 
 ![Tela Rede Apoio sem resultado](img/Tela-Rede-Apoio-semresultado.png)
 
+Na mesma página "Redes de apoio", implementamos a API "Maps JavaScript" do google que nos permite posicionar dentro do estado de Minas Gerais a localização das redes de apoio listadas. Através do clique em cada marcador, é possível consultar informações básicas sobre os pontos de interesse.
+
+![Google Maps API](img/googlemaps.jpg)
+
 Na página "Denúncia presencial/telefone", ao selecionar uma cidade, a function implementada no arquivo `src/js/denuncie-presencial.js` é executada e exibe a delegacia da mulher da cidade:
 
 ![Tela Denuncia Presencial](img/Tela-Denuncia-Presencial.png)
