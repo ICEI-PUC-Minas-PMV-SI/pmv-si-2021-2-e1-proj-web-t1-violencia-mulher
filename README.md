@@ -38,35 +38,20 @@ Pedro Trindade - Mariana Presoti - Luiz Carlos Ferreira<br>
 <a href="https://github.com/hugodepaula" title="Hugo Bastos De Paula" rel="nofollow"><img src="docs/img/Hugo%20Bastos%20De%20Paula.png" alt="logo" data-canonical-src="https://github.com/hugodepaula" width="100vw"/></a><br>
 Hugo Bastos de Paula
 
-</div>
   
 # Documentação
 
-
-1.[Documentação de Contexto](docs/context.md) <br> 
-2.[Especificação do Projeto](docs/especification.md) <br>
-3.[Projeto de Interface](docs/interface.md) <br> 
-4.[Template Padrão](docs/template.md)<br>
-5.[Programação de Funcionalidades - HTML e CSS](docs/development.md) <br>
-6.[Programação de Funcionalidades - Javascript](docs/development.md) <br> 
-7.[Testes de Software ](docs/tests.md) <br>
-8.[Apresentação](presentation/README.md)
-  
 <ol>
 <li><a href="docs/context.md"> Documentação de Contexto</a></li>
-<li><a href="docs/02-Especificação do Projeto.md"> Especificação do Projeto</a></li>
-<li><a href="docs/03-Metodologia.md"> Metodologia</a></li>
-<li><a href="docs/04-Projeto de Interface.md"> Projeto de Interface</a></li>
-<li><a href="docs/05-Arquitetura da Solução.md"> Arquitetura da Solução</a></li>
-<li><a href="docs/06-Template padrão do Site.md"> Template padrão do Site</a></li>
-<li><a href="docs/07-Programação de Funcionalidades.md"> Programação de Funcionalidades</a></li>
-<li><a href="docs/08-Plano de Testes de Software.md"> Plano de Testes de Software</a></li>
-<li><a href="docs/09-Registro de Testes de Software.md"> Registro de Testes de Software</a></li>
-<li><a href="docs/10-Plano de Testes de Usabilidade.md"> Plano de Testes de Usabilidade</a></li>
-<li><a href="docs/11-Registro de Testes de Usabilidade.md"> Registro de Testes de Usabilidade</a></li>
-<li><a href="docs/12-Apresentação do Projeto.md"> Apresentação do Projeto</a></li>
+<li><a href="docs/especification.md"> Especificação do Projeto</a></li>
+<li><a href="docs/interface.md"> Projeto de Interface</a></li>
+<li><a href="docs/template.m"> Template padrão do Site</a></li>
+<li><a href="docs/development.md"> Programação de Funcionalidades</a></li>
+<li><a href="docs/tests.md"> Registro de Testes de Software</a></li>
+<li><a href="presentation/README.md"> Apresentação do Projeto</a></li>
 <li><a href="docs/13-Referências.md"> Referências</a></li>
 </ol>
+
 
 # Código
 
