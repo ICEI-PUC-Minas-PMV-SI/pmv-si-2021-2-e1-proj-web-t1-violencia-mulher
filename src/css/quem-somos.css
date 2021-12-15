@@ -2,3 +2,12 @@
     font-size: large;
     font-family: Helvetica;
 }
+
+/*Ajustes responsivos*/
+@media (max-width: 600px)
+{
+  .facet_sidebar
+   {
+    display: none;
+   }
+}
