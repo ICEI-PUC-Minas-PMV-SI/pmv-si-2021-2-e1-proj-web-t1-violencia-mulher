@@ -24,6 +24,12 @@ Acesse: https://minasunidas.herokuapp.com/
 <a href="https://github.com/lcferre20" title="Luiz Carlos Ferreira da Silva" rel="nofollow"><img src="docs/img/Carlos%20Ferreira.png" alt="logo" data-canonical-src="https://github.com/lcferre20" width="100vw"/></a> 
 <a href="https://github.com/carolinamns" title="Anira Carolina Meneses de Carvalho Moura" rel="nofollow"><img src="docs/img/Anira%20Carolina.png" alt="logo" data-canonical-src="https://github.com/carolinamns" width="100vw"/></a> 
 <a href="https://github.com/rafamacb" title="Rafael Machado Bueno" rel="nofollow"><img src="docs/img/Rafael%20Machado.png" alt="logo" data-canonical-src="https://github.com/rafamacb" width="100vw"/></a><br>
+  
+- Pedro Trindade
+- Mariana Presoti
+- Luiz Carlos Ferreira
+- Anira Carolina 
+- Rafael Machado
 
 
 ## Orientador
