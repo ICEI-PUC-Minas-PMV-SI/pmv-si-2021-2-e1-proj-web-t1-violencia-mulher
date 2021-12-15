@@ -8,7 +8,7 @@
 
 Sistemas de Informação
 
-Projeto - Aplicações Web | 1º Semestre (2/ 2021)
+Projeto - Aplicações Web | 1º Semestre 
   
 <div align="justify">
   
