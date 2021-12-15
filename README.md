@@ -27,7 +27,9 @@ Projeto - Aplicações Web | 1º Semestre
 
 ## Orientador
 
-<a href="https://github.com/hugodepaula" title="Hugo Bastos De Paula" rel="nofollow"><img src="docs/img/Hugo%20Bastos%20De%20Paula.png" alt="logo" data-canonical-src="https://github.com/hugodepaula" width="100vw"/></a>
+<a href="https://github.com/hugodepaula" title="Hugo Bastos De Paula" rel="nofollow"><img src="docs/img/Hugo%20Bastos%20De%20Paula.png" alt="logo" data-canonical-src="https://github.com/hugodepaula" width="100vw"/></a><br>
+Hugo Bastos
+
 
 # Planejamento
 
