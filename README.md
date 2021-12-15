@@ -30,7 +30,7 @@ Acesse: https://minasunidas.herokuapp.com/
 <a href="https://github.com/rafamacb" title="Rafael Machado Bueno" rel="nofollow"><img src="docs/img/Rafael%20Machado.png" alt="logo" data-canonical-src="https://github.com/rafamacb" width="100vw"/></a><br>
   
 Pedro Trindade - Mariana Presoti - Luiz Carlos Ferreira<br>
-           Anira Carolina - Rafael Machado
+           Anira Carolina Meneses - Rafael Machado
 
 
 ## Orientador
