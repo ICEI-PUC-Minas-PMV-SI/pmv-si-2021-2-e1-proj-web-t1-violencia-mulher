@@ -38,9 +38,11 @@ Pedro Trindade - Mariana Presoti - Luiz Carlos Ferreira<br>
 <a href="https://github.com/hugodepaula" title="Hugo Bastos De Paula" rel="nofollow"><img src="docs/img/Hugo%20Bastos%20De%20Paula.png" alt="logo" data-canonical-src="https://github.com/hugodepaula" width="100vw"/></a><br>
 Hugo Bastos de Paula
 
-  
-# Documentação
+ 
 
+## Documentação
+
+<div align="left">
 <ol>
 <li><a href="docs/context.md"> Documentação de Contexto</a></li>
 <li><a href="docs/especification.md"> Especificação do Projeto</a></li>
@@ -51,14 +53,19 @@ Hugo Bastos de Paula
 <li><a href="presentation/README.md"> Apresentação do Projeto</a></li>
 <li><a href="docs/13-Referências.md"> Referências</a></li>
 </ol>
+</div>
 
+## Código
 
-# Código
-
+<div align="left">
 <a href="src/README.md"> Código Fonte</a>
 
-# Apresentação
+</div>
 
+## Apresentação
+
+<div align="left">
 <a href="presentation/README.md"> Apresentação da solução</a>
 
+</div>
 
