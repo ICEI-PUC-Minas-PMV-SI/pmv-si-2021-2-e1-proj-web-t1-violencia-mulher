@@ -19,7 +19,6 @@ Projeto - Aplicações Web | 1º Semestre
 ## Integrantes
 
 <a href="https://github.com/ptrindader" title="Pedro Trindade Reis" rel="nofollow"><img src="docs/img/Pedro%20Trindade.png" alt="logo" data-canonical-src="https://github.com/ptrindader" width="100vw"/></a> 
-Pedro Trindade
 <a href="https://github.com/marianapresoti" title="Mariana Presoti" rel="nofollow"><img src="docs/img/Mariana%20Presoti.png" alt="logo" data-canonical-src="https://github.com/marianapresoti" width="100vw"/></a> 
 <a href="https://github.com/lcferre20" title="Luiz Carlos Ferreira da Silva" rel="nofollow"><img src="docs/img/Carlos%20Ferreira.png" alt="logo" data-canonical-src="https://github.com/lcferre20" width="100vw"/></a> 
 <a href="https://github.com/carolinamns" title="Anira Carolina Meneses de Carvalho Moura" rel="nofollow"><img src="docs/img/Anira%20Carolina.png" alt="logo" data-canonical-src="https://github.com/carolinamns" width="100vw"/></a> 
