@@ -151,15 +151,31 @@
              // New map - Marcadores
             var map = new google.maps.Map(document.getElementById('map'), options);
 
+
+            // Alfenas
             addMarker({
                 coords:{lat:-21.4280565,lng:-45.9473621},
-                content: '<div>Centro de Referência Especializado de Assistência Social - CREAS</div>'                                           
+                content: '<h9><b>Centro de Referência Especializado de Assistência Social - CREAS</b><br></h9><h20>Rua Tiradentes 1088, Alfenas<br>Telefone: (35) 3297-4547</h20>'                                           
                      });
+            addMarker({
+                coords:{lat:-45.9491482,lng:-21.4220131},
+                content: '<h9><b>Núcleo de Atenção à Mulher (NAM) - Unifal-MG</b><br></h9><h20>Rua Nabor Toledo Lopes 598, Alfenas<br> Telefone: (35) 3701-9242</h20>'
+                     });
+
+            // Araguari
+            addMarker({
+                coords:{lat:-18.673626,lng:-48.1931416},
+                content: '<h9><b>Unidade de Acolhimento de Araguari</b><br></h9><h20>Rua Dolival Gonçalves de Araújo 35, Araguari<br>Telefone: (61) 3315-9144</h20>'                                           
+                     });
+
+
 
             addMarker({
                 coords:{lat:-19.9239757,lng:-43.941285},
-                content: '<h9><b>Núcleo de defesa da mulher - NUDEM</b><br></h9><h17>Rua San Francisco</h17>'
+                content: '<h9><b>Núcleo de defesa da mulher - NUDEM</b><br></h9><h20>Rua San Francisco<br> Telefone: 93128-0857</h20>'
                      });
+
+
                     
             // add marker function
             function addMarker(props){
