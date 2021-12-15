@@ -12,7 +12,9 @@ Projeto - Aplicações Web | 1º Semestre
   
 <div align="justify">
   
-<p>Por motivos como dependência emocional e financeira, medo de não ser compreendida pela família, sociedade e até pela justiça, a mulher brasileira ainda tende a suportar por um longo período de tempo a violência doméstica sem denunciar seu agressor. Observando a inexistência de plataformas voltadas para estas mulheres no Estado de Minas Gerais, este projeto busca criar um site com conteúdo informativo, fornecendo acolhimento e estímulo para que as vítimas realizem suas denúncias e quebrem o ciclo de violência.</p>
+<p>A violência, seja ela no âmbito familiar ou comunitário, é compreendida como um dos principais obstáculos para a garantia das liberdades fundamentais de mulheres e meninas.Por motivos como dependência emocional e financeira, medo de não ser compreendida pela família, sociedade e até pela justiça, a mulher brasileira ainda tende a suportar por um longo período de tempo a violência doméstica sem denunciar seu agressor</p><br>
+  
+<p>Observando a inexistência de plataformas voltadas para estas mulheres no Estado de Minas Gerais, este projeto teve como objetivo criar uma página web com conteúdo informativo para orientacao de vítimas e pessoas que presenciam este tipo de violência, catálogo com redes de apoio locais fornecendo acolhimento multidisciplinar e estímulo para que as vítimas realizem suas denúncias e possam quebrar o ciclo de violência ao qual vivenciam.</p>
 
 Acesse: https://minasunidas.herokuapp.com/ 
 </div>
