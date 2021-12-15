@@ -58,14 +58,14 @@ Hugo Bastos de Paula
 ## Código
 
 <div align="left">
-<a href="src/README.md"> Código Fonte</a>
+<li><a href="src/README.md"> Código Fonte</a></li>
 
 </div>
 
 ## Apresentação
 
 <div align="left">
-<a href="presentation/README.md"> Apresentação da solução</a>
+<li><a href="presentation/README.md"> Apresentação da solução</a></li>
 
 </div>
 
