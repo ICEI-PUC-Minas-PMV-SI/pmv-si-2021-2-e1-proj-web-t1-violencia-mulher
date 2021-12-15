@@ -35,7 +35,7 @@ Pedro Trindade - Mariana Presoti - Luiz Carlos Ferreira<br>
 Hugo Bastos de Paula
 
 
-# Planejamento
+# Documentação
 
 | Etapa         | Período                   | Atividades |
 |  :----:   |  :----:               | ----------- |
