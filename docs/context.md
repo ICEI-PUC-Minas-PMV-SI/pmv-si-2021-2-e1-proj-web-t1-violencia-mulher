@@ -2,7 +2,7 @@
 
 # Introdução
 
-uma em cada três mulheres brasileiras já foi vítima de algum tipo de violência, aponta pesquisa realizada pelo Senado Federal em 2017. Somente no ano de 2020, mais de 105 mil denúncias de violência contra a mulher foram registradas nas plataformas do Ligue 180 e do Disque 100, de acordo com o Ministério da Mulher, da Família e dos Direitos Humanos.
+Uma em cada três mulheres brasileiras já foi vítima de algum tipo de violência, aponta pesquisa realizada pelo Senado Federal em 2017. Somente no ano de 2020, mais de 105 mil denúncias de violência contra a mulher foram registradas nas plataformas do Ligue 180 e do Disque 100, de acordo com o Ministério da Mulher, da Família e dos Direitos Humanos.
 
 Promulgada em 1996, a Convenção de Belém do Pará definiu violência contra a mulher como qualquer ato ou conduta baseada no gênero que lhe cause morte, dano ou sofrimento físico, sexual ou psicológico, tanto na esfera pública como na esfera privada. Dez anos depois, em 2006 a Lei Maria da Penha passou a apresentar mais duas formas de violência: moral e patrimonial, totalizando em cinco as formas de violência doméstica e familiar praticadas contra mulheres.
 
